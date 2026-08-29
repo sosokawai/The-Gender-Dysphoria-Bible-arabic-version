@@ -1,24 +1,24 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "A Brief History of Gender Dysphoria"
-linkTitle: "The History of Gender Dysphoria"
-description: "The origins of Gender Dysphoria and the current meaning today."
-lang: en
+title: "لمحة موجزة عن تاريخ اضطراب الهوية الاجتماعية"
+linkTitle: "تاريخ اضطراب الهوية الاجتماعية"
+description: "جذور اضطراب الهوية الاجتماعية ومعناها الحالي."
+lang: ar
 classes:
   - gdb
 preBody: '_disclaimer'
 siblings:
-  prev: /en/what-is-gender
-  prevCaption: What Is Gender?
-  next: /en/euphoria
-  nextCaption: Gender Euphoria
+  prev: /ar/what-is-gender
+  prevCaption: ما هو النوع الاجتماعي؟
+  next: /ar/euphoria
+  nextCaption: النشوة الجندرية
 ---
 
-# A Brief History of Gender Dysphoria
+# لمحة موجزة عن تاريخ اضطراب الهوية الاجتماعية
 
-In 1948, noted sexologist Dr. Alfred Kinsey (yes, [*that* Kinsey](https://en.wikipedia.org/wiki/Alfred_Kinsey)) was contacted by a woman whose male child adamantly insisted that they were in fact a girl, and that something had gone very wrong. The mother, rather than trying to suppress her daughter, wished to help her become who she knew herself to be. Kinsey reached out to a German endocrinologist named [Dr. Harry Benjamin](https://en.wikipedia.org/wiki/Harry_Benjamin) to see if he could help the child. Dr. Benjamin then developed a protocol of estrogen therapy for the teen, and worked with the family to find surgical help.
+في عام 1948، قام عالم الجنس البارز  Dr. Alfred Kinsey (نعم،, [*that* Kinsey](https://ar.wikipedia.org/wiki/Alfred_Kinsey)) تواصلت معه امرأة كان طفلها الذكر يُصرّ بشدة على أنه في الواقع فتاة، وأن ثمة خطأً جسيماً قد حدث؛ وبدلاً من محاولة قمع ابنتها، أرادت الأم مساعدتها لتصبح الشخصية التي تدرك أنها هي حقيقةً. Kinsey تواصل مع طبيب غدد صماء ألماني يُدعى [Dr. Harry Benjamin](https://ar.wikipedia.org/wiki/Harry_Benjamin) ليرى ما إذا كان بإمكانه مساعدة الطفل. وضع الدكتور Benjamin بروتوكولاً للعلاج بالإستروجين للمراهقة، وعمل مع الأسرة لإيجاد مساعدة جراحية.
 
-Benjamin then went on to refine his protocol and treated thousands of patients with similar feelings over the course of his career. He refused to take payment for his work, instead taking satisfaction from the relief he granted these patients, and using their treatment to further his understanding of the condition. He coined a term for this feeling of incongruence in 1973: **gender dysphoria**. Unfortunately, this term would not be used in the United States until 2013, with the American Psychiatric Association opting for the term "gender identity disorder" instead.
+ثم واصل Benjamin تحسين بروتوكول العلاج الخاص به وعالج آلاف المرضى الذين عانوا من أعراض مشابهة على مدار مسيرته المهنية. وقد رفض تقاضي أجرٍ مقابل عمله، مكتفياً بما كان يشعر به من رضا نابعٍ من تخفيف معاناة هؤلاء المرضى، ومستفيداً من علاجهم في تعميق فهمه للحالة المرضية. صاغ مصطلحاً لوصف شعور عدم التطابق هذا في عام 1973، وهو: **اضطراب الهوية الاجتماعية** (أو "ديسفوريا النوع الاجتماعي" - gender dysphoria). وللأسف، لم يُستخدم هذا المصطلح في الولايات المتحدة إلا في عام 2013، إذ آثرت الجمعية الأمريكية للطب النفسي استخدام مصطلح "اضطراب الهوية الاجتماعية" (gender identity disorder) بدلاً منه.
 
 {!{
 <div class="gutter print-inline">
@@ -29,7 +29,7 @@ Benjamin then went on to refine his protocol and treated thousands of patients w
 </div>
 }!}
 
-If you are a trans person reading this, you may have heard the name Harry Benjamin before, but probably not in a favorable context. In 1979 his name was used (with permission) in the forming of the Harry Benjamin International Gender Dysphoria Association (HBIGDA), which released a Standards of Care (SoC) for transgender people. This SoC came to be known as the Harry Benjamin Rules, and were infamously limiting in regards to how gender dysphoria could be diagnosed. Patients were placed within a six tier scale based upon their level of misery and sexual dysfunction. If you did not land at Tier 5 or higher, classified as a "True Transsexual", you were usually rejected for treatment.
+إذا كنتَ شخصاً عابراً جندرياً وتقرأ هذا، فربما تكون قد سمعتَ الاسم Harry Benjamin قبلا, ولكن ربما ليس في سياق إيجابي؛ ففي عام 1979، استُخدم اسمه (بموافقته) عند تأسيس "الجمعية الدولية لهاري بنجامين لاضطراب الهوية الجنسية/ Harry Benjamin International Gender Dysphoria Association " (HBIGDA), التي أصدرت معايير الرعاية (SoC) للأشخاص العابرين جنسيا. أصبحت هذه المعايير تُعرف باسم "قواعد هاري بنجامين".كما اتسمت تلك المعايير بقيود صارمة ومثيرة للجدل فيما يتعلق بكيفية تشخيص "اضطراب الهوية الاجتماعية"؛ إذ كان يتم تصنيف المرضى وفق مقياس مكوّن من ست درجات استناداً إلى مستوى معاناتهم ودرجة الخلل الوظيفي الجنسي لديهم. فإذا لم يصل المريض إلى الدرجة الخامسة أو أعلى -وهي الفئة التي تُصنّف تحت مسمى "متحوّل جنسياً حقيقي" (True Transsexual)- فغالباً ما كان يُرفض طلبه للحصول على العلاج.
 
 The problem was that Tiers 5 and 6 required that you had to be exclusively attracted to your own birth sex. Transition *had* to be making you straight, not gay, and bisexuals were not allowed. You also had to be experiencing severe distress with your body and genitals and already be living as your true gender without treatment. Many trans people got around these limitations through community coaching and performative presentations, but for many people (myself included) it was believed that, if you did not fit all the criteria, you were not trans enough to transition.
 
