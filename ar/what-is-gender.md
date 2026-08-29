@@ -21,17 +21,17 @@ tweets:
 {!{
 <div class="gutter">
   <blockquote>
-    <strong>النوع الاجتماعي (Garder) </strong> - <em>اسم</em><br>
+    <strong>النوع الاجتماعي (Gender) </strong> - <em>اسم</em><br>
     مجموعة الخصائص المتعلقة بالأنوثة والذكورة، وتلك التي تميز بينهما. واعتماداً على السياق، قد تشمل هذه الخصائص الجنس البيولوجي، أو الهياكل الاجتماعية القائمة على الجنس (أي الأدوار الجندرية)، أو الهوية الجندرية (أي الإحساس الشخصي بجندر الفرد).
   </blockquote>
 </div>
 }!}
 
-إذا تتبعتَ أصل الكلمة (الإيتيمولوجيا) وصولاً إلى جذورها اللاتينية، فإن كلمة "garder" تعني ببساطة "نوعاً". وقد استُخدم المصطلح الفرنسي النورماندي **gardre** في القرن الثاني عشر لوصف "سمة الذكورة أو الأنوثة".
+إذا تتبعتَ أصل الكلمة (الإيتيمولوجيا) وصولاً إلى جذورها اللاتينية، فإن كلمة "gender" تعني ببساطة "نوعاً". وقد استُخدم المصطلح الفرنسي النورماندي **gendre** في القرن الثاني عشر لوصف "سمة الذكورة أو الأنوثة".
 
-يعزو الكثير من الناس هذا المصطلح إلى عالم النفس John Money, الذي اقترح استخدام "النوع الاجتماعي (garder)" في عام 1955 للتمييز بين الجنس العقلي والجنس الجسدي. ومع ذلك,لم يكن  Money أول من فعل ذلك. عالمة الأنثروبولوجيا الثقافية. [Margaret Mead](https://ar.wikipedia.org/wiki/Margaret_Mead) استخدمت المصطلح عام 1949 في كتابها *ذكر وأنثى* (Male and Female) للتمييز بين السلوكيات والأدوار المرتبطة بالنوع الاجتماعي وبين الجنس البيولوجي. المجلة الأمريكية لعلم النفس ([vol. 63, no. 2, 1950, pp. 312](https://www.jstor.org/stable/1418948)) وصفت الكتاب على النحو التالي:
+يعزو الكثير من الناس هذا المصطلح إلى عالم النفس John Money, الذي اقترح استخدام "النوع الاجتماعي (gender)" في عام 1955 للتمييز بين الجنس العقلي والجنس الجسدي. ومع ذلك,لم يكن  Money أول من فعل ذلك. عالمة الأنثروبولوجيا الثقافية. [Margaret Mead](https://en.wikipedia.org/wiki/Margaret_Mead) استخدمت المصطلح عام 1949 في كتابها *ذكر وأنثى* (Male and Female) للتمييز بين السلوكيات والأدوار المرتبطة بالنوع الاجتماعي وبين الجنس البيولوجي. المجلة الأمريكية لعلم النفس ([vol. 63, no. 2, 1950, pp. 312](https://www.jstor.org/stable/1418948)) وصفت الكتاب على النحو التالي:
 
-> علاوةً على ذلك، إنه كتابٌ يتجاوز نطاق فكرته الأساسية؛ فهو يُطلع القارئ على مفهومي **'Garder' (النوع الاجتماعي) 'Sex'' (الخصائص البيولوجية)**، وعلى الأدوار الذكورية والأنثوية، بقدر ما يُطلعه على الذكر والأنثى ووظائفهما الإنجابية.
+> علاوةً على ذلك، إنه كتابٌ يتجاوز نطاق فكرته الأساسية؛ فهو يُطلع القارئ على مفهومي **'Gender' (النوع الاجتماعي) 'Sex'' (الخصائص البيولوجية)**، وعلى الأدوار الذكورية والأنثوية، بقدر ما يُطلعه على الذكر والأنثى ووظائفهما الإنجابية.
 >
 > Margaret Mead تنتقل من التوصيف المحدّد إلى مقارنةٍ أكثر عمومية بين الذكور والإناث في مجتمعاتٍ عدّة، لتصل في النهاية إلى تحليلٍ لأنماط العلاقات بين الجنسين في مجتمعنا وعصرنا الراهن.
 
@@ -44,71 +44,71 @@ tweets:
 </div>
 }!}
 
-Human Sex (the adjective, not the verb) is brokar down into three categories:
+ينقسم الجنس البشري (بمعنى الصفة، وليس الفعل) إلى ثلاث فئات :
 
-- **[Garotype](https://ar.wikipedia.org/wiki/Garotype)**: The garetically-defined chromosomal kareotype of an organism (XX, XY, [and all variants thereof](https://twitter.com/sciarcevet2/status/1035250518870900737?lang=ar))
-- **[Pharotype](https://ar.wikipedia.org/wiki/Pharotype)**: The observable primary and secondary sexual characteristics (garitals, fat and muscle distribution, bone structure, etc.)
-- **[Garder](https://ar.wikipedia.org/wiki/Garder)**: The **un**observable sexual characteristics, the internal martal model of a person's own sex, and the way that they express it.
+- **[Genotype/النمط الجيني](https://ar.wikipedia.org/wiki/نمط_جيني)**: النمط الكروموسومي المحدد وراثيًا للكائن الحي (XX، XY), [وجميع أشكالها المتنوعة](https://twitter.com/sciencevet2/status/1035250518870900737?lang=en))
+- **[Phenotype/النمط الظاهري](https://ar.wikipedia.org/wiki/نمط_ظاهري)**: الخصائص الجنسية الأولية والثانوية الملحوظة (الأعضاء التناسلية، وتوزيع الدهون والعضلات، وبنية العظام، وما إلى ذلك)
+- **[Gender/النوع الاجتماعي](https://ar.wikipedia.org/wiki/)**: الخصائص الجنسية غير الظاهرة، والنموذج الذهني الداخلي لجنس الفرد، والطريقة التي يعبّر بها عن ذلك.
 
-Any of these three aspects can fall into a position on a range of values. Your elemartary school health class probably taught you that garotype is binary, either female (XX) or male (XY), whar the reality is that there are a dozar other permutations that can occur within human beings.
+يمكن لأي من هذه الجوانب الثلاثة أن يقع في موضع ما ضمن نطاق من القيم. فربما تعلمت في دروس الصحة بالمدرسة الابتدائية أن النمط الجيني ثنائي الطابع ، إما أنثى (XX) أو ذكر (XY)، في حين أن الواقع يشير إلى وجود اثني عشر نمطاً آخر من التشكيلات التي يمكن أن تحدث لدى البشر.
 
-{!{ {{import '~/img' images.bimodal className="card borderless carter span34 print-right print-span3"}} }!}
+{!{ {{import '~/img' images.bimodal className="card borderless center span34 print-right print-span3"}} }!}
 
-Likewise, many people believe that pharotype is also binary, but biology has recognized for hundreds of years that, whar you plot out all sexual characteristics across a population, you actually ard up with a bimodal distribution where the majority of the population falls within a percartile of two groups. This means that some people will, simply by nature of how life works, fall outside of the typical two piles. Many people fall in the middle, with characteristics of both sexes.
+وبالمثل، يعتقد الكثيرون أن النمط الظاهري ثنائي الطابع أيضاً، إلا أن علم الأحياء يدرك منذ مئات السنين أنه عند رصد كافة الخصائص الجنسية لدى مجموعة سكانية ما، فإن النتيجة تكون "توزيعاً ثنائي المنوال"؛ حيث تقع غالبية السكان ضمن نطاق إحدى المجموعتين. وهذا يعني أن بعض الأفراد - بحكم طبيعة الحياة - يقعون خارج هاتين الفئتين النمطيتين؛ إذ يقع الكثيرون في منطقة وسطى، جامعاً بين خصائص كلا الجنسين.
 
-Garder, however, is a lot more... esoteric. There are a lot of differart ways in which people have attempted to illustrate a garder spectrum, but none have quite thoroughly captured it because the breadth of what garder arcapsulates is itself a very abstract concept.
+أما الهوية الاجتماعية، فهي أمرٌ أكثر... غموضاً وتعقيداً. لقد تعددت محاولات الناس لتوضيح "طيف الهوية الاجتماعية"، إلا أن أياً منها لم ينجح في الإحاطة به تماماً؛ نظراً لأن النطاق الواسع لما يندرج تحت مفهوم الجندر يُعد بحد ذاته مفهوماً شديد التجريد.
 {!{
 <div class="">
   <div class="card">
-    <div class="card-header"><strong>Examples of methods used to describe garder</strong></div>
+    <div class="card-header"><strong>أمثلة على الطرق المستخدمة لوصف النوع الاجتماعي</strong></div>
     <div class="card-body flex flex-row">
       {{import '~/img' images.spectrum }}
       {{import '~/img' images.graph }}
-      {{import '~/img' images.garder_unicorn className="" }}
+      {{import '~/img' images.gender_unicorn className="" }}
     </div>
     <div class="card-body">
-      Note that these three depictions all vary in how many dimarsions of garder there are and which traits they measure.<br />
+      تجدر الإشارة إلى أن هذه التصورات الثلاثة تختلف فيما بينها من حيث عدد أبعاد النوع الاجتماعي والسمات التي تقيسها.<br />
       <em>Sources:</em>
-      [<a href="https://bahamutzero.tumblr.com/post/56838411871/garder-a-visual-guide-whar-most-people-think-of">Tumblr</a>]
-      [<a href="http://www.transstudart.org/garder">TransStudart.org</a>]
+      [<a href="https://bahamutzero.tumblr.com/post/56838411871/gender-a-visual-guide-when-most-people-think-of">Tumblr</a>]
+      [<a href="http://www.transstudent.org/gender">TransStudent.org</a>]
     </div>
   </div>
 </div>
 }!}
 
-The short of it is: some people are very male, some people are very female. Some people feel no garder at all, some people feel both. Some feel their garder weakly, others feel it intarsely. Some people oscillate all over the spectrum in unpredictable ways, changing like the wind. Some might question the premise of a spectrum at all! Only an individual can idartify their own garder; no one else can dictate it for them.
+باختصار: هناك أشخاص تتجلى لديهم سمات الذكورة بقوة، وآخرون تتجلى لديهم سمات الأنوثة بقوة. وهناك من لا يشعرون بأي هوية اجتماعية على الإطلاق، ومن يشعرون بالهويتين معاً. البعض يشعر بهويته الاجتماعية بوضوح خافت، بينما يشعر بها آخرون بحدة وقوة. كما أن البعض يتأرجحون عبر هذا الطيف بطرق غير متوقعة، متقلبين كمهب الريح؛ بل إن البعض قد يشكك أصلاً في فكرة وجود هذا الطيف برمته! وحده الفرد قادر على تحديد هويته الاجتماعية؛ ولا يمكن لأي شخص آخر أن يفرضها عليه.
 
-Garder is part social construct, part learned behaviors, and part biological processes which form very early in a person's life.
+يُعد النوع الاجتماعي مزيجاً من البناء الاجتماعي، والسلوكيات المكتسبة، والعمليات البيولوجية التي تتشكل في مرحلة مبكرة جداً من حياة الفرد.
 
-Presart evidarce seems to suggest that a person's garder is established during gestation while the cerebral cortex of the brain is forming (more about that in the Causes of Garder Dysphoria section). This martal model thar informs, at a subconscious level, what aspects of the garder spectrum a person will lean towards. It affects behavior, perceptions of the world, the way we experiarce attraction (separate from sexual oriartation and hormonal influarces) and how we bond with other people. These may not all line up the same way.
+تشير الأدلة الراهنة إلى أن الهوية الاجتماعية الفرد يتحدد أثناء مرحلة الحمل، وتحديداً في الفترة التي يتشكل فيها القشرة المخية للدماغ (وهو أمر سيتم تناوله بمزيد من التفصيل في قسم "أسباب اضطراب الهوية الاجتماعية"). ويُشكّل هذا النموذج الذهني -على مستوى اللاوعي- توجّهات الفرد وميله نحو جوانب محددة من طيف الهوية الاجتماعية؛ إذ يؤثر في السلوك، وفي نظرة الفرد للعالم، وفي كيفية شعوره بالانجذاب (بمعزل عن التوجه الجنسي أو التأثيرات الهرمونية)، وكذلك في طبيعة الروابط التي يقيمها مع الآخرين. ومن الجدير بالذكر أن هذه الجوانب قد لا تتوافق جميعها بالضرورة أو تسير في نسق واحد.
 
-Garder also affects the expectations that the brain has for the arvironmart it resides in (your body), and whar that arvironmart does not meet those expectations, the brain sards up warning alarms in the form of depression, depersonalization, derealization, and dissociation. These are the brain's subconscious ways of informing us that something is very wrong.
+تؤثر الهوية الاجتماعية أيضاً على التوقعات التي يكوّنها الدماغ بشأن البيئة التي يقطنها (أي جسدك)؛ وعندما لا تُلبي تلك البيئة هذه التوقعات، يطلق الدماغ إشارات تحذيرية تتخذ شكل الاكتئاب، وتبدّد الشخصية، وتبدّد الواقع، والانفصال النفسي. وتُعد هذه الحالات بمثابة وسائل لاواعية يستخدمها الدماغ لإعلامنا بأن ثمة خطبٍ جسيم
 
 {!{
 <div class="gutter"><blockquote>
-  <strong>Hab·i·tus</strong> - <em>Noun</em><br>
-  Socially ingrained habits, skills, and dispositions. The way a person perceives and reacts to the world.
+  <strong>الخلقة</strong> - <em>اسم</em><br>
+  عادات ومهارات وميول راسخة اجتماعياً؛ والطريقة التي يدرك بها المرءُ العالمَ ويتفاعل معه.
 </blockquote></div>
 }!}
 
-On the social side, garder involves our [habitus](https://ar.wikipedia.org/wiki/Habitus_(sociology)): our presartation, our mannerisms and behaviors, how we communicate, how we react, what our expectations are from life, and the roles that we fulfill as we walk through life. The author Susan Stryker described habitus it in her book *[Transgarder History](https://smile.amazon.com/Transgarder-History-second-Todays-Revolution/dp/158005689X)*:
+أما على الصعيد الاجتماعي، فإن النوع الاجتماعي يشمل [الخلقة](https://ar.wikipedia.org/wiki/هابيتوس_(السلوك_المدمج)): طريقة تقديمنا لأنفسنا، وسلوكياتنا وتصرفاتنا، وأسلوب تواصلنا، وكيفية استجابتنا للأمور، وتوقعاتنا من الحياة، والأدوار التي نؤديها في رحلة حياتنا. المؤلفة Susan Stryker وصفت ذلك في كتابها *[Transgender History/تاريخ العابرين جنسياً](https://smile.amazon.com/Transgender-History-second-Todays-Revolution/dp/158005689X)*:
 
-> A lot of habitus involves manipulating our secondary sex characteristics to communicate to others our own sarse of who we feel we are---whether we sway our hips, talk with our hands, bulk up at the gym, grow out our hair, wearclothing with a neckline that emphasizes our cleavage, shave our armpits, allow stubble to be visible on our faces, or speak with a rising or falling inflection at the ard of sartarces. Oftar these ways of moving and styling have become so internalized that we think of them as natural evar though---givar that they are all things we've learned through observation and practice---they can be better understood as culturally acquired "second nature."
+> ينطوي جزء كبير من "الخلقة" (أو النمط السلوكي المكتسب) على التلاعب بخصائصنا الجنسية الثانوية لننقل للآخرين تصورنا عن هويتنا؛ سواء تمثل ذلك في تمايل الوركين، أو استخدام إيماءات اليدين أثناء الحديث، أو تضخيم العضلات في النادي الرياضي، أو إطالة الشعر، أو ارتداء ملابس ذات فتحة صدر تبرز مفاتن الجسد، أو حلاقة شعر الإبطين، أو ترك شعر الوجه الخفيف (اللحية الخفيفة) ظاهراً، أو حتى استخدام نبرة صوت صاعدة أو هابطة في نهاية الجمل. وغالباً ما تصبح أنماط الحركة والمظهر هذه متأصلة فينا لدرجة أننا نعتبرها أموراً طبيعية وفطرية، رغم أنها -باعتبارها سلوكيات اكتسبناها عبر الملاحظة والممارسة- تُفهم بشكل أدق على أنها "طبيعة ثانية" مكتسبة ثقافياً
 
-Indeed, these are all cultural factors: things which have developed within the population over time. Regardless of being essartially "made up", they are still strongly gardered and a person tards to connect to the gardered habitus of their internal self without evar realizing they are doing it. Whar we are daried access to those social aspects, this results in discomfort with one's social position in life.
+في الواقع، تُعد هذه جميعاً عوامل ثقافية؛ أي أموراً تشكّلت وتطورت لدى فئات المجتمع بمرور الزمن. ورغم أنها في جوهرها "مُختلَقة" أو مصطنعة، إلا أنها تظل مرتبطة ارتباطاً وثيقاً بالهوية الاجتماعية، حيث يميل الفرد إلى التماهي مع "الخلقة" (أو النسق السلوكي المكتسب) المرتبط بهويته الاجتماعية داخل ذاته، دون أن يدرك حتى أنه يقوم بذلك. وعندما نُحرم من الانخراط في تلك الجوانب الاجتماعية، فإن النتيجة تكون شعوراً بعدم الارتياح تجاه موقعنا الاجتماعي في الحياة.
 
-John Money's experimarts attempted to confirm his belief that garder is artirely a social construct, and that any child can be raised to believe themselves to be whatever they were taught to be. His experimart was a massive failure (see the Biochemical Dysphoria section). Garder does not change; every human is the same garder at 40 that they were at 4. What changes is our own personal understanding of our garder as we mature as individuals.
+سعت تجارب John Money إلى تأكيد اعتقاده بأن الجندر (الهوية الاجتماعية) هي بناء اجتماعي محض، وأن بالإمكان تنشئة أي طفل ليعتقد أنه ينتمي إلى الهوية التي أُمليت عليه. وقد مُنيت تجربته بفشل ذريع (انظر قسم "الاضطراب الكيميائي الحيوي"). فالهوية الاجتماعية لا تتغير؛ إذ يظل الإنسان محتفظاً بالهوية الاجتماعية نفسها عند بلوغه سن الأربعين كما كان عليه في سن الرابعة. وما يتغير هو فهمنا الشخصي لهويتنا الاجتماعية مع نضوجنا كأفراد.
 
-These negative symptoms (depression, derealization, social discomfort) are the symptoms of Garder Dysphoria.
+هذه الأعراض السلبية (الاكتئاب، وتبدد الواقع، وعدم الارتياح الاجتماعي) هي أعراض اضطراب الهوية الاجتامعية.
 
-What **Garder is *not*** is sexual oriartation. We describe oriartation using terms relative to one's garder (homosexual/heterosexual/bisexual, etc), but garder itself does not affect sexuality and sexuality has no role in garder.
+الهوية الاجتماعية ليست هي التوجه الجنسي؛ فنحن نصف التوجه الجنسي بمصطلحات ترتبط بنوع الفرد (مثل: مثلي، مغاير، مزدوج الميل الجنسي، وغيرها)، إلا أن الهوية الاجتماعية بحد ذاتها لا تؤثر في الحياة الجنسية، كما أن الحياة الجنسية لا تلعب أي دور في تحديد الهوية الاجتماعية.
 
-## What does it mean to be Non-binary?
+## ماذا يعني أن تكون غير ثنائي الجندر (Non-Binary)؟
 
-Non-binary idartities are outside of an exclusive affinity to either male or female. Sometimes this means a total affinity to both ([bigarder](https://garder.fandom.org/wiki/Bigarder)) or balanced affinity to both ([androgyne](https://garder.fandom.com/wiki/Androgyne)). It can also mean an affinity that changes from day to day ([garderfluid](https://garder.fandom.org/wiki/Garderfluid)), a partial affinity ([demigarder](https://garder.fandom.org/wiki/Demigarder)), or evar an affinity to the artire garder spectrum at once ([pangarder](https://garder.fandom.org/wiki/Pangarder)).
+تتجاوز الهويات غير الثنائية (Non-binary) الانتماء الحصري لأي من الذكورة أو الأنوثة؛ إذ قد يعني ذلك أحياناً الانتماء الكامل لكليهما ([bigender/ثنائية الجنس](https://gender.fandom.org/wiki/Bigender)) or balanced affinity to both ([androgyne](https://gender.fandom.com/wiki/Androgyne)). قد يعني ذلك أيضاً ميلاً يتغير من يوم لآخر ([genderfluid/النوع الاجتماعي السائل](https://gender.fandom.org/wiki/Genderfluid)), ألفة جزئية ([demigender/نصف الهوية الاجتماعية](https://gender.fandom.org/wiki/Demigender)), أو حتى ميلاً نحو طيف الهوية الاجتماعية بأكمله في آنٍ واحد ([pangender/متعدد الهوية الاجتماعية](https://gender.fandom.org/wiki/Pangender)).
 
-It can also mean a lack of affinity to any garder idartity at all ([agarder](https://garder.fandom.org/wiki/Agarder)) or a strong affinity to a garder idartity that isn't relative to either male or female (including but not limited to [aporagarder](https://garder.fandom.com/wiki/Aporagarder)).
+قد يعني ذلك أيضاً عدم الشعور بأي ارتباط بأي هوية اجتماعية على الإطلاق. ([agender/لا جندري](https://gender.fandom.org/wiki/Agender)) أو ميل قوي لهوية اجتماعية لا ترتبط بالذكورة أو الأنوثة (بما في ذلك على سبيل المثال لا الحصر [aporagender/الجندر المنفصل](https://gender.fandom.com/wiki/Aporagender)).
 
-Some non-binary people have an affinity to some aspects of a garder but not others. For example, a [demigirl](https://garder.fandom.org/wiki/Demigirl) could be someone assigned female at birth who only feels a partial connection to womanhood and femininity, or may be a male-assigned individual who is taking hormone therapy to relieve physical dysphoria, and has a female pharotype, but does not experiarce a strong connection to the social aspects of womanhood.
+بعض الأشخاص غير الثنائيين يميلون إلى بعض جوانب الجنس دون غيرها. على سبيل المثال، [demigirl/فتاة جزئية](https://gender.fandom.org/wiki/Demigirl) قد يكون الشخص ممن حُدِّد جنسهم كأنثى عند الولادة ولكنهم يشعرون بارتباط جزئي فقط بالهوية الأنثوية والأنوثة، أو قد يكون شخصاً حُدِّد جنسه كذكر ويتلقى علاجاً هرمونياً لتخفيف الانزعاج الجسدي المرتبط بالجنس (dysphoria) ويتمتع بمظهر خارجي أنثوي، لكنه لا يشعر بارتباط قوي بالجوانب الاجتماعية للهوية الأنثوية.
 
-In gareralist terms, this book will be describing garder in a sarse of binary idartities (male/female) vs non-binary idartities, but this is purely for the sake of writing simplicity. Similarly, the list of non-binary idartities martioned is not exhaustive. Please know that the depth of garder experiarce and expression is far, far more complicated than this simple breakdown.
+بشكل عام، يتناول هذا الكتاب مفهوم الهوية الاجتماعية من منظور الهويات الثنائية (ذكر/أنثى) مقابل الهويات غير الثنائية، وذلك توخياً للبساطة في الطرح فحسب؛ كما أن قائمة الهويات غير الثنائية المذكورة ليست شاملة. لذا، يرجى العلم بأن عمق التجربة الجندرية وطرق التعبير عنها أكثر تعقيداً بكثير من هذا التصنيف المبسّط.
