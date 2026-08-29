@@ -1,15 +1,15 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "How Gender Dysphoria Manifests: Physical Dysphoria"
-linkTitle: "Physical Dysphoria"
-description: "Body discomfort is only one of the many ways gender dysphoria can manifest."
-lang: en
+title: "كيف يظهر اضطراب الهوية الجنسية: الاضطراب الجسدي المرتبط بالهوية الجنسية"
+linkTitle: "الانزعاج الجسدي"
+description: "يُعد الشعور بعدم الارتياح الجسدي مجرد واحدة من صور عديدة قد يتجلى من خلالها اضطراب الهوية الجنسية."
+lang: ar
 preBody: '_disclaimer'
 siblings:
-  prev: /en/euphoria
-  prevCaption: Gender Euphoria
-  next: /en/biochemical-dysphoria
-  nextCaption: Biochemical Dysphoria
+  prev: /ar/euphoria
+  prevCaption: النشوة الجندرية
+  next: /ar/biochemical-dysphoria
+  nextCaption: الاضطراب المزاجي الكيميائي الحيوي
 classes:
   - gdb
 tweets:
@@ -20,9 +20,9 @@ tweets:
   - '947523244948680705'
 ---
 
-# Physical Gender Dysphoria
+# الانزعاج الجسدي
 
-Everyone has heard of the "born in the wrong body" narrative. Physical dysphoria is discomfort over the shape of one's body due to the sexual characteristics it presents. So what body features are we talking about here?
+لقد سمع الجميع بمقولة "وُلد في جسدٍ لا يلائمه" . ويُقصد بـ "الانزعاج الجسدي" (Physical dysphoria) ذلك الشعور بعدم الارتياح تجاه شكل الجسد بسبب السمات الجنسية التي يتسم بها. إذن، عن أي سمات جسدية نتحدث هنا؟
 
 {!{
 <style>
@@ -45,110 +45,109 @@ Everyone has heard of the "born in the wrong body" narrative. Physical dysphoria
 
 </style>
 <div class="fact-grid ">
-  <h4>Primary Sex Characteristics</h4>
+  <h4>الخصائص الجنسية الأولية</h4>
   <div>
 }!}
 
-The core reproductive features which develop during pregnancy
+السمات الإنجابية الجوهرية التي تتطور أثناء الحمل
 
-- Gonads
-  - Testicles
-  - Ovaries
-- External Genitalia
-  - Penis
-  - Clitoris
-  - Scrotum
-  - Labia
-  - Vulva
-- Internal Reproductive Organs
-  - Prostate / Skene's Gland
-  - Uterus
+- الغدد التناسلية
+  - الخصيتان
+  - المبيضان
+- الأعضاء التناسلية الخارجية
+  - قضيب
+  - بظر
+  - كيس الصفن
+  - الشفران
+  - الفرج
+- الأعضاء التناسلية الداخلية
+  - البروستاتا / غدة سكين
+  - رَحِم
 
 
-{!{ </div>  <h4>Secondary Sexual Characteristics</h4>
+{!{ </div>  <h4>السمات الجنسية الثانوية</h4>
 <div class="two-col"> }!}
 
-All sexually dimorphic features which develop during and after puberty as a result of hormone exposure. In general, these features are all nearly identical for both male and female prepubescent children.
+تشمل هذه السمات جميع الخصائص المتباينة بين الجنسين التي تظهر أثناء مرحلة البلوغ وما بعدها نتيجة التعرض للهرمونات؛ وبشكل عام، تكون هذه السمات متطابقة تقريباً لدى كل من الذكور والإناث قبل مرحلة البلوغ.
 
-- Fat Distribution
-  - Waist, Hips, Butt Shape
-  - Thighs, Arms, Back
-  - Cheeks and Jaw Line
-- Muscle Mass
-  - Neck, Shoulders and Upper Body
-  - Arms and Legs
-  - Abdominal
-- Skeletal Build
-  - Range of Height
-  - Size of Feet and Hands
-  - Width of Shoulders
-  - Rib Cage Breadth
-  - Thickness and Density of Limbs
-  - Forehead, Brow, Cheek and Jaw bones
-  - Pelvic Width
-- Skin Texture and Tone
-- Voice Pitch and Resonance
-- Breast Development
-- Facial Hair
-- Body Hair (excluding genitals and arm pits)
+- توزيع الدهون
+  - شكل الخصر والوركين والأرداف
+  - الفخذان والذراعان والظهر
+  - الخدان وخط الفك
+- الكتلة العضلية
+  - الرقبة والكتفان والجزء العلوي من الجسم
+  - الذراعان والساقان
+  - بطني
+- بنية هيكلية
+  - نطاق الارتفاع
+  - حجم القدمين واليدين
+  - عرض الكتفين
+  - عرض القفص الصدري
+  - سماكة وكثافة الأطراف
+  - عظام الجبهة والحاجب والخد والفك
+  - عرض الحوض
+- ملمس البشرة ولونها
+- طبقة الصوت والرنين
+- نمو الثدي
+- شعر الوجه
+- شعر الجسم (باستثناء الأعضاء التناسلية وتحت الإبطين)شعر الجسم (باستثناء الأعضاء التناسلية وتحت الإبطين)
 
 
 {!{ </div></div> }!}
 
-{!{ <div class="gutter"><div class="card"><div class="card-body"><h4 class="card-title">For Your Information</h4> }!}
+{!{ <div class="gutter"><div class="card"><div class="card-body"><h4 class="card-title">للعلم</h4> }!}
 
-The genitals of a transgender person on hormone therapy do not behave remotely like their cisgender counterparts.
+لا تتصرف الأعضاء التناسلية للشخص المتحول جنسياً الذي يخضع للعلاج الهرموني بشكل مشابه لنظيراتها من غير المتحولين جنسياً.
 
-- The estrogenic penis softens, erections become less pronounced, and the skin thins and begins to perspire like a vaginal wall. The scrotum softens and changes color, with the perineal raphe becoming more distinct. Due to the cessation of random erections, the erectile tissue will atrophy if not regularly put to use, causing the entire penis to shrink over time. Vibration becomes more effective for arousal.
+- يصبح القضيب -تحت تأثير الأندروجين- أكثر ليونة، وتصبح حالات الانتصاب أقل وضوحاً، كما تزداد رقة الجلد ويبدأ في إفراز العرق على غرار جدار المهبل. وتصبح كيس الصفن أكثر ليونة ويتغير لونه، مع ازدياد بروز الخط الأوسط (الرفاء العجاني). ونظراً لتوقف حالات الانتصاب العفوي، تضمر الأنسجة المسؤولة عن الانتصاب في حال عدم استخدامها بانتظام، مما يؤدي إلى انكماش القضيب بأكمله بمرور الوقت؛ كما يصبح التحفيز بالاهتزاز أكثر فعالية في إثارة الرغبة الجنسية.
 
-- The androgenic vagina becomes drier & prone to tearing (lubrication can be an issue). The skin of the clitoris thickens, and the clitoral glans grows in length and girth due to the onset of random erections. Labia also become thicker, and often hairier. The onset of HRT often results in extreme sensitivity of the clitoris. Friction becomes more effective for arousal.
-
+- يصبح المهبل -تحت تأثير الأندروجين- أكثر جفافاً وعرضة للتمزق (وقد يمثل نقص الإفرازات المرطبة مشكلة). كما تزداد سماكة جلد البظر، وتزداد حشفة البظر طولاً وحجماً (سُمكاً) نتيجة لحدوث انتصابات عفوية؛ وتصبح الشفرين أيضاً أكثر سماكة وغالباً ما يزداد نمو الشعر عليهما. وعادةً ما يؤدي البدء في العلاج الهرموني البديل إلى زيادة مفرطة في حساسية البظر، مما يجعل الاحتكاك وسيلة أكثر فعالية للإثارة الجنسية.
 {!{ </div></div></div> }!}
 
-Primary characteristics can only be altered through surgical intervention. Some secondary sexual characteristics are also one-way trips and require medical intervention to undo, namely the growth of breast tissue and the deepening of the vocal chords. Estrogen does not make the voice more feminine, and testosterone does not make breasts shrink (aside from the loss of fat). Changes to skeletal structure (such as enlarging from testosterone and the widening of hips from estrogen) can only occur prior to the age of 25, while the body is still growing.
+لا يمكن تغيير الخصائص الجنسية الأولية إلا من خلال التدخل الجراحي. كما أن بعض الخصائص الجنسية الثانوية تُعد تغييرات لا رجعة فيها وتتطلب تدخلاً طبياً لعكسها، وتحديداً نمو أنسجة الثدي وتغيّر نبرة الصوت لتصبح أكثر عمقاً (غلظةً). إذ لا يؤدي الإستروجين إلى جعل الصوت أكثر أنوثة، ولا يتسبب التستوستيرون في تقلص حجم الثديين (باستثناء ما ينتج عن فقدان الدهون). أما التغيرات في البنية الهيكلية (مثل تضخم العظام بفعل التستوستيرون أو اتساع الوركين بفعل الإستروجين)، فلا يمكن أن تحدث إلا قبل سن الخامسة والعشرين، أي خلال مرحلة النمو الجسدي.
 
-Some secondary traits can be surgically enhanced (breast augmentation, body contouring, facial masculinization / feminization), and some cannot be changed at all.
+يمكن تحسين بعض السمات الثانوية جراحياً (مثل تكبير الثدي، ونحت الجسم، وإضفاء الطابع الذكوري أو الأنثوي على الوجه)، في حين أن بعضها الآخر لا يمكن تغييره على الإطلاق.
 
-Physical dysphoria manifests in several different ways. Sometimes this is felt in a sort of phantom limb phenomenon, where the person can feel sensations from a penis or vagina that is not there, an ache in a uterus that does not exist, or a sense of absence on the chest from breasts that have not grown in.
+يتجلى الانزعاج الجسدي (أو عدم الرضا عن الجسد) بعدة طرق مختلفة؛ إذ قد يُشعر به أحياناً على غرار ظاهرة "الطرف الشبح"، حيث يختبر الشخص أحاسيس مرتبطة بعضو ذكري أو مهبل غير موجودين فعلياً، أو يشعر بألم في رحم غير موجود، أو ينتابه شعور بالفراغ في منطقة الصدر لغياب الثديين اللذين لم ينموا.
 
-It can be felt as a sort of *reverse* phantom effect, where the person is persistently aware of something that should *not* be there. The brain is receiving sensory input that it does not expect, such as the weight of breasts, or the presence of testicles or a uterus, and this input takes priority because it isn't expected.
+يمكن وصف الأمر بأنه نوع من "تأثير الطرف الشبح العكسي"؛ إذ يظل الشخص مدركاً باستمرار لوجود شيء *لا ينبغي* أن يكون موجوداً. فالدمغ يتلقى مدخلات حسية غير متوقعة — مثل ثقل الثديين، أو وجود الخصيتين أو الرحم — وتكتسب هذه المدخلات الأولوية نظراً لكونها غير متوقعة.
 
-It may be felt as horror or revulsion when looking at or touching the external genitals, triggering emotional outbursts or a strong desire to remove the offending organ. AFAB (assigned female at birth) trans people may experience feelings of wrongness during menstruation, or a sense of alien disconnect from their hormone cycle.
+قد يُصاحب النظر إلى الأعضاء التناسلية الخارجية أو لمسها شعورٌ بالرعب أو الاشمئزاز، مما قد يثير نوبات انفعالية أو رغبةً عارمةً في التخلص من العضو المسبِّب لهذا الضيق. كما قد يراود الأشخاص العابرين جنسياً -ممن حُدِّد جنسهم كإناث عند الولادة- شعورٌ بأن وضعهم الجسدي "غير صحيح" أثناء الدورة الشهرية، أو إحساسٌ بالاغتراب والانفصال عن دورتهم الهرمونية.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1220143004821938176'
 ] tweets=meta.tweets className="hide-reply" }}</div> }!}
 
-It can manifest as a compulsion to be rid of certain body traits, such as obsessively shaving body or facial hair. This can also manifest in the opposite compulsion, leading to meticulous grooming of those traits in order to try to control them, like maintaining a perfect beard, persistently keeping one's nails manicured and polished, or spending hours in the gym attempting to hone one's shape.
+قد يتجلى ذلك في صورة رغبة قهرية للتخلص من سمات جسدية معينة، مثل الهوس بحلق شعر الجسم أو الوجه. كما قد يظهر في صورة دافع قهري معاكس، يدفع المرء إلى العناية الفائقة بتلك السمات سعياً للسيطرة عليها؛ كالحرص على مظهر مثالي للحية، أو المواظبة الدقيقة على العناية بالأظافر وصقلها، أو قضاء ساعات طويلة في النادي الرياضي في محاولة لصقل قوام الجسم وتحسينه.
 
-Undesired physical features may prompt a person to experience envy of people who have been forced to remove those features due to illnesses, such as testicular or breast cancer. AMABs with severe genital dysphoria tend to have a wish for some kind of freak accident that would cause the loss of their phallus.
+قد تدفع السمات الجسدية غير المرغوب فيها الشخصَ إلى الشعور بالحسد تجاه الأفراد الذين اضطروا للتخلص من تلك السمات بسبب أمراض، مثل سرطان الخصية أو الثدي. ويميل الأفراد الذين وُلدوا بخصائص ذكرية (AMAB) ويعانون من انزعاج جنساني حاد يتعلق بالأعضاء التناسلية، إلى تمني وقوع حادث غريب يؤدي إلى فقدان العضو الذكري.
 
-Sometimes it may just simply be a feeling of being incorrect, which you may not even attribute to gender or sex. For most of my life, I believed that the reason I hate my body was because I was fat. It wasn't until I started transition that I realized I don't hate my fat at all; I hated having *male* fat. The feminine curves that HRT gave me make me feel so much more in tune with my body.
+أحياناً، قد يقتصر الأمر ببساطة على شعور بأن شيئاً ما "ليس صحيحاً"، وهو شعور قد لا تربطه حتى بالنوع الاجتماعي أو الجنس. طوال معظم حياتي، اعتقدت أن سبب كرهي لجسدي هو بدانتي؛ ولم أدرك حقيقة الأمر إلا عندما بدأت رحلة التحول، إذ اكتشفت أنني لا أكره الدهون في جسدي على الإطلاق، بل كنت أكره امتلاك دهون ذات طابع "ذكري". لقد جعلتني المنحنيات الأنثوية -التي اكتسبتها بفضل العلاج الهرموني- أشعر بانسجام أكبر بكثير مع جسدي.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1184580976581775366'
   '1184837108919230464'
 ] tweets=meta.tweets className="hide-reply" }}</div> }!}
 
-The dysphoria one feels about their body can and will change over time, for better and worse. For example, many trans women enter into transition feeling no disconnect with their genitals, but later find that as larger sources of dysphoria melt away, that they become less comfortable with their original configuration. Alternatively, some may assume that they will absolutely need facial feminization surgery, but then, two years into transition, realize they're actually okay with how they look.
+إن حالة الانزعاج أو عدم الرضا التي يشعر بها المرء تجاه جسده قابلة للتغير بمرور الوقت -سواء نحو الأفضل أو الأسوأ- وستتغير بالفعل. فعلى سبيل المثال، قد تبدأ العديد من النساء العابرات (trans women) رحلة التحول دون الشعور بأي انفصال أو عدم ارتياح تجاه أعضائهن التناسلية، لكنهن يكتشفن لاحقاً -مع تلاشي مصادر الانزعاج الأكبر- أنهن لم يعدن مرتاحات لتكوين أجسادهن الأصلي. وفي المقابل، قد يفترض البعض أنهم بحاجة ماسة إلى جراحة لتأنيث ملامح الوجه، ثم يدركون -بعد عامين من بدء التحول- أنهم راضون تماماً عن مظهرهم الحالي.
 
-It's okay for you to realize you need more or less than when you started.
+لا بأس أن تدرك أنك بحاجة إلى أكثر أو أقل مما كنت تحتاجه عند البدء.
 
-It's okay if you don't hate anything about your body and just wish you looked more feminine or masculine.
+لا بأس أن تحتاج إلى أكثر أو أقل مما تحتاجه عند البدء.
 
-It's okay if you only hate some aspects of your body and don't wish to change all of its sexual characteristics.
+لا بأس إذا كنت تكره بعض جوانب جسدك فقط ولا ترغب في تغيير جميع خصائصه الجنسية.
 
-It's okay if you don't need medical transition *at all*. Body feelings are not the be-all-end-all of transition.
+لا بأس إن كنت لا تحتاج إلى أي شكل من أشكال التحول الطبي على الإطلاق؛ فالمشاعر المتعلقة بالجسد ليست هي المعيار الوحيد أو الأهم في عملية التحول.
 
-**Total body physical dysphoria is not a requirement to be transgender. AFABs do not have to hate their chest, AMABs do not have to hate their penis. Every trans person's experience is different. All are valid.**
+**لا يُشترط الشعور بعدم الارتياح الجسدي الكامل لكون الشخص متحولاً جنسياً. فليس على النساء عند الولادة أن يكرهن صدورهن، وليس على الرجال عند الولادة أن يكرهوا أعضاءهم التناسلية. تجربة كل شخص متحول جنسياً مختلفة، وجميعها تجارب صحيحة.**
 
-### Internalized Body Image Issues
+### مشاكل صورة الجسد المستبطنة
 
-The world is full of subconscious messages about how men and women's bodies should be shaped. We are bombarded with advertising and media creating a normalized view of what is and is not beautiful. Don't be too fat, don't be too skinny, don't be too tall, don't be too short, don't have too broad of a chin, don't have too large of a nose, wear makeup but don't wear too much makeup, don't leave the house without a bra, but don't let the bra show. On and on and on, the constant barrage of expectations of gendered appearance.
+يعج العالم برسائل ضمنية حول الشكل الذي ينبغي أن تكون عليه أجساد الرجال والنساء؛ إذ نُقصف بوابل من الإعلانات والمواد الإعلامية التي تكرّس معايير محددة لما يُعدّ جميلاً وما لا يُعدّ كذلك. فلا ينبغي أن تكون بديناً جداً أو نحيفاً جداً، أو طويلاً جداً أو قصيراً جداً، ولا أن يكون ذقنك عريضاً أكثر من اللازم أو أنفك كبيراً للغاية؛ وعليكِ وضع المكياج ولكن دون مبالغة، وعدم الخروج من المنزل دون حمالة صدر، مع الحرص في الوقت ذاته على ألا تظهر تلك الحمالة. وتستمر القائمة بلا نهاية، في ظل سيلٍ متواصل من التوقعات المرتبطة بمظهر كل من الجنسين.
 
-Everyone absorbs these messages, and trans people internalize the factors which matter to the gender they align with. Those who align with femininity grow up mapping feminine standards onto themselves, those who align with masculinity map masculine standards on to themselves, and non-binary people may internalize shame around androgyny or the gender they are assumed to be after transition. This is *on top* of the shame trans people in general are loaded with for not living up to their assigned gender's standards.
+يتلقى الجميع هذه الرسائل، ويستبطن الأشخاص العابرون جنسياً المعايير المرتبطة بالهوية الجندرية التي يتماهون معها؛ فمن يتماهون مع الأنوثة ينشأون وهم يُسقِطون معايير الأنوثة على ذواتهم، ومن يتماهون مع الذكورة يُسقِطون معايير الذكورة على ذواتهم، أما الأشخاص غير الثنائيين جندرياً فقد يستبطنون شعوراً بالخجل إزاء الملامح المزدوجة (التي تجمع بين السمات الذكرية والأنثوية) أو إزاء الجندر الذي يُفترض أنهم ينتمون إليه بعد العبور. ويأتي كل هذا *إضافةً* إلى عبء الخجل الذي يُثقل كاهل العابرين جنسياً عموماً لعدم استيفائهم معايير الجندر الذي أُسند إليهم عند الولادة.
 
-What is the end result of this? Kathryn said it best:
+ما هي النتيجة النهائية لذلك؟ Kathryn عبّرت عن ذلك بأفضل صورة:
 
 {!{ {{import '~/tweet' ids=[
   '947522372315369472'
