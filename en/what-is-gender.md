@@ -1,14 +1,14 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "What is Gender?"
-description: "How do we define the concept of Gender, and how does it differ from Sex?"
-lang: en
+title: "ما هو النوع الاجتماعي"
+description: "كيف نُعرِّف مفهوم النوع الاجتماعي وهل يختلف عن الجنس؟"
+lang: ar
 preBody: '_disclaimer'
 siblings:
-  prev: /en/
-  prevCaption: Introduction
-  next: /en/history
-  nextCaption: The History of Gender Dysphoria
+  prev: /ar/
+  prevCaption: مقدمة
+  next: /ar/history
+  nextCaption: تاريخ اضطراب الهوية الاجتماعية
 classes:
   - gdb
 tweets:
@@ -16,24 +16,24 @@ tweets:
   - '1439225913623781377'
 ---
 
-# What is Gender?
+# ما هو النوع الاجتماعي؟?
 
 {!{
 <div class="gutter">
   <blockquote>
-    <strong>Gen·der</strong> - <em>Noun</em><br>
-    The range of characteristics pertaining to, and differentiating between, femininity and masculinity. Depending on the context, these characteristics may include biological sex, sex-based social structures (i.e., gender roles), or gender identity (the personal sense of one's own gender).
+    <strong>النوع الاجتماعي (Gender) </strong> - <em>اسم</em><br>
+    مجموعة الخصائص المتعلقة بالأنوثة والذكورة، وتلك التي تميز بينهما. واعتماداً على السياق، قد تشمل هذه الخصائص الجنس البيولوجي، أو الهياكل الاجتماعية القائمة على الجنس (أي الأدوار الجندرية)، أو الهوية الجندرية (أي الإحساس الشخصي بجندر الفرد).
   </blockquote>
 </div>
 }!}
 
-If you trace the etymology of the word to its Latin roots, gender simply means "type". The Norman French term **gendre** was in use in the 12th century to describe "the quality of being male or female."
+إذا تتبعتَ أصل الكلمة (الإيتيمولوجيا) وصولاً إلى جذورها اللاتينية، فإن كلمة "gender" تعني ببساطة "نوعاً". وقد استُخدم المصطلح الفرنسي النورماندي **gendre** في القرن الثاني عشر لوصف "سمة الذكورة أو الأنوثة".
 
-Many people attribute the term to psychologist John Money, who proposed using "gender" in 1955 to differentiate mental sex from physical sex. However, Money was not the first to do so. Cultural anthropologist [Margaret Mead](https://en.wikipedia.org/wiki/Margaret_Mead) used the term in 1949 in her book *Male and Female* to distinguish gendered behaviors and roles from biological sex. The American Journal of Psychology ([vol. 63, no. 2, 1950, pp. 312](https://www.jstor.org/stable/1418948)) described the book thusly:
+يعزو الكثير من الناس هذا المصطلح إلى عالم النفس John Money, الذي اقترح استخدام "النوع الاجتماعي (gender)" في عام 1955 للتمييز بين الجنس العقلي والجنس الجسدي. ومع ذلك,لم يكن  Money أول من فعل ذلك. عالمة الأنثروبولوجيا الثقافية. [Margaret Mead](https://en.wikipedia.org/wiki/Margaret_Mead) استخدمت المصطلح عام 1949 في كتابها *ذكر وأنثى* (Male and Female) للتمييز بين السلوكيات والأدوار المرتبطة بالنوع الاجتماعي وبين الجنس البيولوجي. المجلة الأمريكية لعلم النفس ([vol. 63, no. 2, 1950, pp. 312](https://www.jstor.org/stable/1418948)) وصفت الكتاب على النحو التالي:
 
-> A book, moreover, which gives beyond its premise; for it informs the reader upon **'gender' as well as upon 'sex,'** upon masculine and feminine roles as well as upon male and female and their reproductive functions.
+> علاوةً على ذلك، إنه كتابٌ يتجاوز نطاق فكرته الأساسية؛ فهو يُطلع القارئ على مفهومي **'Gender' (النوع الاجتماعي) 'Sex'' (الخصائص البيولوجية)**، وعلى الأدوار الذكورية والأنثوية، بقدر ما يُطلعه على الذكر والأنثى ووظائفهما الإنجابية.
 >
-> Margaret Mead moves from the specific delineation to the more general comparison of male and female in several communities, finally coming to an analysis of sex-patterns in our own midst and for our own time.
+> Margaret Mead تنتقل من التوصيف المحدّد إلى مقارنةٍ أكثر عمومية بين الذكور والإناث في مجتمعاتٍ عدّة، لتصل في النهاية إلى تحليلٍ لأنماط العلاقات بين الجنسين في مجتمعنا وعصرنا الراهن.
 
 {!{
 <div class="gutter">

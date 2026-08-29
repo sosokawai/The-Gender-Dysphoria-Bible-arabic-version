@@ -1,18 +1,18 @@
 
 module.exports = exports = {
-  MENU_LANGUAGE: 'English (EN)',
-  SITE_TITLE: 'That\'s Gender Dysphoria, FYI',
-  HEADER_TITLE: 'That\'s Gender Dysphoria, <abbr title="For Your Information">FYI</abbr>',
-  SITE_DESCRIPTION: 'A resource for those questioning their gender, already on a gender journey, or simply wanting to learn more about what it is to be transgender.',
+  MENU_LANGUAGE: 'العربية (Ar)',
+  SITE_TITLE: 'هذا يُعرف بـ "اضطراب الهوية الاجتماعية"، للعلم.',
+  HEADER_TITLE: 'هذا يُعرف بـ "اضطراب الهوية الاجتماعية", <abbr title="For Your Information">للعلم</abbr>',
+  SITE_DESCRIPTION: 'مصدرٌ مخصصٌ لأولئك الذين يتساءلون عن هويتهم الج أو ممن هم بالفعل في رحلة استكشاف هويتهم الاجتماعية أو ببساطة لمن يرغبون في معرفة المزيد عما يعنيه أن يكون المرء عابراً جندريا.',
 
-  PATREON_FOOTER_BODY: 'This site is made possible thanks to contributions from the community. If you have found this site invaluable, please consider <a href="https://www.patreon.com/curvyandtrans">making a pledge on patreon</a> or a <a href="https://ko-fi.com/curvyandtrans">donation via Ko-fi</a>.',
-  PATREON_FOOTER_THANKS: 'Special thanks to the following patreon supporters:',
-  FOOTER_COPYRIGHT: 'Site text, website code and original graphics are <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">licensed CC BY-NC-SA.</a>',
-  FOOTER_COPYRIGHT2: 'and Other Contributors',
+  PATREON_FOOTER_BODY: 'يعتمد استمرار هذا الموقع على مساهمات المجتمع. إذا وجدت هذا الموقع قيّماً ومفيداً، يرجى التفكير في <a href="https://www.patreon.com/curvyandtrans">تقديم دعم عبر patreon</a> او عبر <a href="https://ko-fi.com/curvyandtrans">التبرع من خلال Ko-fi</a>.',
+  PATREON_FOOTER_THANKS: 'شكر خاص لداعمي حشفقثخى التاليين::',
+  FOOTER_COPYRIGHT: 'نص الموقع، ورمز الموقع الإلكتروني، والرسومات الأصلية هي <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">مرخّص بموجب رخصة CC BY-NC-SA.</a>',
+  FOOTER_COPYRIGHT2: 'وغيرهم من المساهمين',
 
-  TRANS_TWITTER_TOPICS: 'Trans Twitter Topics',
-  MISSING_TWEET_FOR: 'Missing tweet for ',
-  QUOTED_TWEET_UNAVAILABLE: 'Quoted Tweet Unavailable',
+  TRANS_TWITTER_TOPICS: 'مواضيع تويتر المتعلقة بالمتحولين جنسياً',
+  MISSING_TWEET_FOR: 'تغريدة مفقودة لـ ',
+  QUOTED_TWEET_UNAVAILABLE: 'التغريدة المُقتبسة غير متاحة',
   TWEET_DATE_FORMAT: 'h:mm aa - EEE, LLL do, yyyy',
 };
 
