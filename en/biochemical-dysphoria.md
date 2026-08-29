@@ -1,9 +1,9 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "How Gender Dysphoria Manifests: Biochemical Dysphoria"
-linkTitle: "Biochemical Dysphoria"
-description: "The very real and biological factors of gender dysphoria that cause mental disturbance."
-lang: en
+title: "كيف يتجلى عسر الهوية الاجتماعية: العسر البيوكيميائي"
+linkTitle: "العسر البيوكيميائي"
+description: "العوامل الحقيقية والبيولوجية لعسر الهوية الاجتماعية التي تسبب اضطرابًا نفسيًا."
+lang: ar
 preBody: '_disclaimer'
 classes:
   - gdb
@@ -20,17 +20,17 @@ tweets:
   - '1222743360034758656'
   - '1222743749920464896'
 siblings:
-  prev: /en/physical-dysphoria
-  prevCaption: Physical Dysphoria
-  next: /en/social-dysphoria
-  nextCaption: Social Dysphoria
+  prev: /ar/physical-dysphoria
+  prevCaption: العسر الجسدي
+  next: /ar/social-dysphoria
+  nextCaption: العسر الاجتماعي
 ---
 
-# Biochemical Dysphoria
+# العسر البيوكيميائي
 
-The primary sexual features of the body begin development during the eighth week of human gestation. Typically, by week 11, it is possible to determine the genitals of a fetus via ultrasound. The brain, however, forms [between weeks 14 and 24](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2989000/#Sec5title). Current prevailing understanding of neurological development suggests that it is during these 10 weeks when the brain will either masculinize or feminize based upon the presence of testosterone in the fetus bloodstream (initiated by the SRY gene on the Y chromosome, or introduced from other sources). This process locks the brain into a pattern of either desiring estrogens or androgens.
+تبدأ السمات الجنسية الأساسية للجسم بالتكوّن خلال الأسبوع الثامن من الحمل. وعادةً، بحلول الأسبوع الحادي عشر، يصبح من الممكن تحديد الأعضاء التناسلية للجنين عبر الموجات فوق الصوتية. أما الدماغ، فيتشكّل [بين الأسبوعين 14 و24](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2989000/#Sec5title). يشير الفهم العلمي السائد حاليًا للنمو العصبي إلى أنه خلال هذه الأسابيع العشرة، يتحدد ميل الدماغ نحو الذكورة أو الأنوثة بناءً على وجود هرمون التستوستيرون في مجرى دم الجنين (سواء كان مصدره جين SRY الموجود على الكروموسوم Y، أو مصادر أخرى). هذه العملية "تُقفل" الدماغ على نمط معين، إما الرغبة في هرمونات الإستروجين أو هرمونات الأندروجين.
 
-If your brain is wired for one kind of gonadal hormones (such as testosterone) and your body produces the other hormone (such as estradiol), this can result in a biochemical malfunction within your brain chemistry. This produces a sort of brain fog: a reduction in mental capacity and a general state of anxiety and unease. This is the source of the first two symptoms that often alleviate with medical hormonal therapy: **depersonalization and derealization (DPDR)**.
+فإذا كان دماغك "مُعايرًا" لنوع معين من الهرمونات التناسلية (كالتستوستيرون)، بينما جسمك ينتج النوع الآخر (كالإستراديول)، فقد ينتج عن ذلك خلل كيميائي حيوي داخل كيمياء دماغك. وهذا يُنتج نوعًا من "الضباب الذهني": انخفاضًا في القدرة العقلية وحالة عامة من القلق وعدم الارتياح. وهذا هو مصدر أول عرَضين غالبًا ما يخفّان مع العلاج الهرموني: **تبدد الشخصية وتبدد الواقع (DPDR)**.
 
 {!{
 <div class="gutter">
@@ -38,7 +38,7 @@ If your brain is wired for one kind of gonadal hormones (such as testosterone) a
   <div class="ig-header">
     <div class="ig-avatar" style="background-image: url({{images.theredgrrl.sizes.0.url}});"></div>
     <div class="ig-name">
-      <strong>Brea</strong>
+      <strong>بريا</strong>
       <span>theredgrrl</span>
     </div>
   </div>
@@ -52,35 +52,35 @@ If your brain is wired for one kind of gonadal hormones (such as testosterone) a
   >
   {{/with}}
   <p class="ig-caption">
-    #TransformationTuesday - As I’ve often said on posts like this, our eyes reflect our lives. The biggest difference I see in how trans people look after transition is always the eyes; often looking sad or distant in the past, and being bright and full of life in the present
+    #ثلاثاء_التحول - كما قلتُ كثيرًا في منشورات مثل هذه، عيوننا تعكس حياتنا. أكبر فرق ألاحظه في مظهر الأشخاص المتحولين بعد انتقالهم في الهوية الاجتماعية هو دائمًا في العينين؛ غالبًا ما تبدوان حزينتين أو بعيدتين في الماضي، وتصبحان مشرقتين ومفعمتين بالحياة في الحاضر
   </p>
   <p class="ig-footer">
-    <time datetime="2019-11-05T19:54:45+00:00">Nov 5, 2019</time>
+    <time datetime="2019-11-05T19:54:45+00:00">5 نوفمبر 2019</time>
   </p>
 </a>
 </div>
 }!}
 
-**Depersonalization** is a disconnect from your own body: an inability to believe that the person you see in the mirror is actually yourself. You feel like you are watching someone else in your body. You may find yourself not caring about what happens to your body, feeling a lack of concern with weight changes or improving your fitness because you have no ownership of this fleshy vehicle that transports you around your life.
+**تبدد الشخصية** هو انفصال عن جسدك: عجز عن تصديق أن الشخص الذي تراه في المرآة هو أنت فعلاً. تشعر وكأنك تراقب شخصًا آخر يسكن جسدك. وقد تجد نفسك غير مكترث بما يحدث لجسدك، لا تهتم بتغيرات الوزن أو تحسين لياقتك البدنية، لأنك لا تشعر بأي ملكية لهذه "المركبة اللحمية" التي تنقلك عبر حياتك.
 
-Zinnia Jones [gives these descriptions for Depersonalization](https://web.archive.org/web/20190406141617/https://genderanalysis.net/2017/06/depersonalization-in-gender-dysphoria-widespread-and-widely-unrecognized/):
+تصف زينيا جونز [تبدد الشخصية بهذه الأوصاف](https://web.archive.org/web/20190406141617/https://genderanalysis.net/2017/06/depersonalization-in-gender-dysphoria-widespread-and-widely-unrecognized/):
 
-- A sense of detachment or estrangement from your own thoughts, feelings, or body: “I know I have feelings but I don’t feel them”
-- Feeling split into two parts, with one going through the motions of participating in the world and one observing quietly: “There is this body that walks around and somebody else just watches”
-- Feeling as if you have an “unreal” or absent self: “I have no self”
-- Experiencing the world as distant, dreamlike, foggy, lifeless, colorless, artificial, like a picture with no depth, or less than real
-- Being absorbed in yourself and experiencing a compulsive self-scrutiny or extreme rumination
-- Having an ongoing and coherent dialog with yourself
-- Feeling like a veil or glass wall separates you from the world
-- Emotional or physical numbness, such as a feeling of having a head filled with cotton
-- Lacking a sense of agency – feeling flat, robotic, dead, or like a “zombie”
-- Inability to imagine things
-- Being able to think clearly, but feeling as if some essential quality is lacking from your thoughts or experience of the world
-- A sense of disconnectedness from life, impeding you from creative and open involvement with the world
+- شعور بالانفصال أو الاغتراب عن أفكارك أو مشاعرك أو جسدك: "أعرف أن لدي مشاعر لكنني لا أشعر بها"
+- الشعور بالانقسام إلى جزأين، أحدهما يقوم بأداء الحركات ويشارك في العالم، والآخر يراقب بصمت: "هناك هذا الجسد الذي يتجول، وشخص آخر فقط يراقب"
+- الشعور بأن لديك ذاتًا "غير حقيقية" أو غائبة: "ليس لدي ذات"
+- تجربة العالم كشيء بعيد، أشبه بحلم، ضبابي، بلا حياة، بلا لون، مصطنع، كصورة بلا عمق، أو أقل واقعية
+- الانغماس في الذات وتجربة تدقيق ذاتي قهري أو اجترار مفرط للأفكار
+- إجراء حوار داخلي مستمر ومتماسك مع نفسك
+- الشعور وكأن حجابًا أو جدارًا زجاجيًا يفصلك عن العالم
+- خدر عاطفي أو جسدي، كالشعور برأس مملوء بالقطن
+- افتقار الشعور بالفاعلية - الشعور بالتسطح، أو الآلية، أو الموت، أو أنك "زومبي"
+- العجز عن تخيل الأشياء
+- القدرة على التفكير بوضوح، لكن مع شعور بأن جوهرًا أساسيًا مفقود من أفكارك أو تجربتك للعالم
+- شعور عام بالانفصال عن الحياة، يعيق المشاركة الإبداعية والمنفتحة مع العالم
 
-You may put little care into your physical appearance, reaching for only the basic utilitarian needs in clothing and personal hygiene. Alternatively, you may hyperfocus on your appearance, attempting to try to spark some kind of joy, any kind of feeling of pride in your own body, only to be met with more hollowness.
+قد تولي القليل من الاهتمام لمظهرك الجسدي، مكتفيًا بالحد الأدنى الوظيفي من الملابس والنظافة الشخصية. أو على العكس، قد تفرط في التركيز على مظهرك، محاولًا إشعال أي نوع من البهجة أو الفخر بجسدك، لكنك لا تجد سوى الفراغ.
 
-You may be unconcerned with the state of your body, perhaps not even fearing death, because you have so little attachment to your life.
+قد لا تكترث بحالة جسدك، وربما لا تخاف حتى من الموت، لأن ارتباطك بحياتك ضعيف جدًا.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1215716438972993536'
@@ -89,39 +89,39 @@ You may be unconcerned with the state of your body, perhaps not even fearing dea
   '1215740224325783553'
 ] tweets=meta.tweets className="oneblock" }}</div> }!}
 
-**Derealization** is a detachment from the world around you: a mental sense that everything you perceive is false.
+**تبدد الواقع** هو انفصال عن العالم المحيط بك: شعور ذهني بأن كل ما تدركه غير حقيقي.
 
-- Your surroundings seem alien or unfamiliar, even if you've always been there, like someone has swapped out your house for a stage replica.
-- Moving through the world feels like you're walking on a treadmill, with the buildings moving around you instead of you through them.
-- Feeling emotionally disconnected from people you care about, as if you were separated by a glass wall, or like they are just actors pretending to be the people they claim to be.
-- Surroundings that appear distorted, blurry, colorless, two-dimensional or artificial, or a heightened awareness and clarity of your surroundings. Leaves on trees feel like they have extra sharp edges, for example.
-- Distortions in perception of time, such as recent events feeling like distant past.
-- Distortions of distance and the size and shape of objects
-- Feeling like a passive observer in the events of your life
+- محيطك يبدو غريبًا أو غير مألوف، حتى لو كنت موجودًا فيه دائمًا، كأن أحدهم استبدل منزلك بنسخة مسرحية طبق الأصل.
+- التنقل عبر العالم يشبه المشي على جهاز المشي الرياضي، حيث تتحرك المباني حولك بدلًا من أن تتحرك أنت خلالها.
+- الشعور بالانفصال العاطفي عن الأشخاص الذين تهتم بهم، وكأن جدارًا زجاجيًا يفصلكم، أو كأنهم مجرد ممثلين يتظاهرون بأنهم الأشخاص الذين يدّعون أنهم هم.
+- محيط يبدو مشوهًا، ضبابيًا، بلا لون، ثنائي الأبعاد أو مصطنعًا، أو على العكس وعي وحدة إدراك مفرطة بمحيطك. فمثلًا، تشعر أن أوراق الأشجار لها حواف حادة بشكل زائد.
+- تشوهات في إدراك الزمن، كأن تشعر بأن أحداثًا حديثة وقعت في ماضٍ بعيد.
+- تشوهات في إدراك المسافة وحجم وشكل الأشياء.
+- الشعور بأنك مراقب سلبي لأحداث حياتك.
 
-If you found yourself strongly relating to *The Matrix* or *The Truman Show*, you might be experiencing derealization. This can also manifest as a feeling of otherworldliness, like you don't belong in this society. You're just walking around waiting for your super powers to appear, or for an owl to fly up with your letter to Hogwarts. As a teen I was obsessed with an episode of *The Outer Limits* where a boy discovers a spaceship under his house and learns that he and his parents aren't actually human.
+إذا وجدت نفسك تتماهى بشدة مع فيلم *ذا ماتريكس* أو *ذا ترومان شو*، فقد تكون تعاني من تبدد الواقع. وقد يتجلى هذا أيضًا كشعور بالغرابة عن العالم، وكأنك لا تنتمي إلى هذا المجتمع. أنت فقط تتجول منتظرًا ظهور قواك الخارقة، أو وصول بومة تحمل رسالة قبولك في هوغوورتس. في مراهقتي، كنت مهووسًا بحلقة من مسلسل *ذا أوتر ليمتس* حيث يكتشف صبي مركبة فضائية تحت منزله ويعلم أنه ووالديه ليسوا بشرًا فعلًا.
 
-DPDR sometimes comes with an emotional stunting. You are able to laugh and find humor, but rarely ever genuine joy. Moments of sadness or grief cause you to just go numb, dissociated by the event that caused it. This can also go in the opposite direction, where the person is under so much anxiety that their emotional response is extremely disproportionate to the catalyst, resulting in severe crying or violent outbursts from seemingly small events.
+غالبًا ما يترافق تبدد الشخصية وتبدد الواقع مع خدر عاطفي. تستطيع الضحك وتذوق الفكاهة، لكن نادرًا ما تشعر بفرح حقيقي. لحظات الحزن أو الأسى تجعلك تخدر فقط، منفصلًا عن الحدث الذي سبّبها. وقد يحدث العكس أيضًا، حيث يكون الشخص تحت ضغط نفسي هائل لدرجة أن استجابته العاطفية تكون غير متناسبة تمامًا مع المحفز، مما ينتج عنه بكاء شديد أو انفعالات عنيفة من أحداث تبدو صغيرة.
 
-It's important to note that DPDR is not exclusive to gender dysphoria. This condition is comorbid with several other mental health issues, including chronic depression, obsessive compulsive disorder, and borderline personality disorder. DPDR should not be taken as a sign of gender dysphoria purely on its own; it's just a big alarm signal that something is very wrong. It's also usually pretty easy to spot externally, once you know how to watch for it. People with DPDR tend to have a mile long stare as they move about in the world; eyes so gloomy and dead that they look like a shell. One of the most common comments on transition timelines is how the eyes gain so much spark.
+من المهم الإشارة إلى أن تبدد الشخصية وتبدد الواقع ليسا حكرًا على عسر الهوية الاجتماعية. فهذه الحالة مصاحبة لعدة اضطرابات نفسية أخرى، منها الاكتئاب المزمن، واضطراب الوسواس القهري، واضطراب الشخصية الحدية. لذا لا ينبغي اعتبار DPDR وحده دليلاً على عسر الهوية الاجتماعية، بل هو مجرد جرس إنذار كبير بأن هناك خللاً ما. وعادةً ما يسهل ملاحظته خارجيًا بمجرد معرفة كيفية رصده؛ فالأشخاص المصابون بـ DPDR غالبًا ما تكون نظرتهم شاردة بعيدة أثناء تنقلهم في العالم، وعيونهم كئيبة وميتة وكأنها قشرة فارغة. ومن أكثر التعليقات شيوعًا على "الجداول الزمنية للانتقال في الهوية الاجتماعية" هو مدى استعادة العينين لبريقهما.
 
-### The Ebb and Flow
+### المد والجزر
 
-The intensity of physical and biochemical dysphoria is highly influenced by other factors in the body. Because it is a function of endocrine balance, it is also manipulated by those balances. This means that it can rise and fall from day to day. For example:
+تتأثر شدة العسر الجسدي والبيوكيميائي بشكل كبير بعوامل أخرى في الجسم. ولأنه نتاج توازن الغدد الصماء، فإنه يتأثر أيضًا بتقلبات هذا التوازن، ما يعني أنه قد يرتفع وينخفض من يوم لآخر. على سبيل المثال:
 
-- If your blood sugar is out of whack, or you have a thyroid condition, it could cause your dysphoria to spike.
-- If you are having dopamine withdrawal because of ceasing stimulants, that can make it worse.
-- If you start on an SSRI antidepressant and start running with more serotonin, that can make it less intense.
-- Transfeminine AMABs (people assigned male at birth) with testicles experience surges in testosterone in relation to attraction and desire, which can make them more dysphoric.
-- Transmasculine AFABs (people assigned female at birth) with unsuppressed ovaries experience rises and falls in estrogen and progesterone over the course of their menstrual cycle, making their dysphoria intensify and lessen based on what day of the cycle they are on.
+- إذا كان مستوى السكر في دمك مضطربًا، أو كنت تعاني من مشكلة في الغدة الدرقية، فقد يتسبب ذلك في تفاقم عسرك.
+- إذا كنت تمر بأعراض انسحاب الدوبامين بسبب التوقف عن تناول المنشطات، فقد يزيد ذلك الأمر سوءًا.
+- إذا بدأت بتناول مضادات اكتئاب من نوع SSRI وارتفع مستوى السيروتونين لديك، فقد يخفف ذلك من حدة الأعراض.
+- الأشخاص المتحولون نحو الأنوثة (المولودون ذكورًا عند الولادة) ممن لديهم خصيتان يمرون بارتفاعات في هرمون التستوستيرون مرتبطة بالانجذاب والرغبة، ما قد يزيد من شعورهم بالعسر.
+- الأشخاص المتحولون نحو الذكورة (المولودون إناثًا عند الولادة) ممن لم تُوقف مبايضهم عن العمل يمرون بارتفاعات وانخفاضات في هرموني الإستروجين والبروجستيرون خلال دورتهم الشهرية، مما يجعل عسرهم يشتد ويخف حسب يوم الدورة.
 
-There are dozens of systems in the body that all work in tandem, and they all fluctuate from day to day, manipulating general mental state. This general dysphoria can amplify the affect of all other dysphoria. One day you can shrug off misgendering like it's nothing, and then the next it hurts like a stab in the heart every time. One day you see yourself in the mirror, the next you're staring at the old you.
+هناك عشرات الأنظمة في الجسم تعمل معًا، وتتقلب جميعها يوميًا، مؤثرة على الحالة النفسية العامة. وهذا العسر العام يمكن أن يضخّم تأثير كل أشكال العسر الأخرى. ففي يوم ما قد تتجاهل تسميتك بالضمير الخاطئ وكأنه لا شيء، وفي اليوم التالي قد يؤلمك الأمر كطعنة في القلب في كل مرة. يومًا ترى نفسك في المرآة، ويومًا آخر ترى "نفسك القديمة" فقط.
 
-Some people experience this in a genderfluid way, with some days leaning male, some days leaning female, and other days not feeling any gender, or both. Others just feel it like a seasonal river; sometimes it swells because of rains up stream, sometimes it slows to a trickle because of drought.
+يعيش بعض الأشخاص هذا بطريقة سيولة في الهوية الاجتماعية، فبعض الأيام يميلون نحو الذكورة، وأخرى نحو الأنوثة، وأيام أخرى لا يشعرون بأي هوية اجتماعية محددة، أو يشعرون بكليهما معًا. آخرون يشعرون به كنهر موسمي؛ يفيض أحيانًا بسبب الأمطار في المنبع، ويتباطأ أحيانًا إلى جدول رفيع بسبب الجفاف.
 
-All of this is valid, and just because you feel very dysphoric one day and not dysphoric the next does not mean that you aren't really trans.
+كل هذا صحيح ومقبول، ومجرد شعورك بعسر شديد يومًا وعدم شعورك به في اليوم التالي لا يعني أنك لست متحولًا فعلاً.
 
-### This Happens Both Ways
+### هذا يحدث في الاتجاهين أيضًا
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1222738910821978113'
@@ -132,12 +132,12 @@ All of this is valid, and just because you feel very dysphoric one day and not d
   '1222743749920464896'
 ] tweets=meta.tweets className="oneblock" }}</div> }!}
 
-Sometimes you will hear naysayers suggesting that taking hormone therapy always improves mental health. I heard this myself when I came out to my mother. "Estrogen makes everyone happier." This is flat out false. When cis people are put on cross-hormone therapy it always results in dysphoria. This is one reason why Spironolactone is rarely ever prescribed to men, because the anti-androgen factor causes mental instability. Five to ten percent of cis women suffer from [polycystic ovary syndrome (PCOS)](https://en.wikipedia.org/wiki/Polycystic_ovary_syndrome), a condition which causes the ovaries to produce testosterone instead of estrogen. Ask any one of them how their mental health has been, and they will give you an earful.
+أحيانًا ستسمع من يشكك في الأمر، مدّعيًا أن العلاج الهرموني يحسّن الصحة النفسية دائمًا. سمعت هذا بنفسي عندما أخبرت والدتي بحقيقتي: "الإستروجين يجعل الجميع أكثر سعادة". هذا غير صحيح إطلاقًا. فعندما يُعطى الأشخاص السيسجندر علاجًا هرمونيًا معاكسًا لجنسهم، فإن ذلك ينتج عنه دائمًا عسر في الهوية الاجتماعية. وهذا أحد أسباب ندرة وصف دواء "سبيرونولاكتون" للرجال، لأن عامل مضاد الأندروجين فيه يسبب اضطرابًا نفسيًا. ما بين 5 إلى 10 بالمئة من النساء السيسجندر يعانين من [متلازمة تكيس المبايض (PCOS)](https://en.wikipedia.org/wiki/Polycystic_ovary_syndrome)، وهي حالة تجعل المبايض تنتج التستوستيرون بدلًا من الإستروجين. اسأل أيًا منهن عن حالتها النفسية، وستحصل على إجابة مطولة.
 
-One very potent demonstration of this is the tragic case of [David Reimer](https://en.wikipedia.org/wiki/David_Reimer). At seven months of age David and his twin brother were given circumcisions to treat a bad case of phimosis (a skin condition on the foreskin). David's went horribly wrong, and the penis was destroyed. The decision was made to perform vaginoplasty and raise him as a girl, including estrogen therapy at pubescence. By the age of 13, he was deep into suicidal depression and suffering greatly, as no amount of coaching and encouraging can make a boy enjoy being a girl. When his parents informed him of what had happened, he returned to a male presentation, switched to testosterone therapy, and over the course of his teen years had multiple operations in order to transition back to male.
+من الأمثلة القوية جدًا على هذا، قصة [ديفيد رايمر](https://en.wikipedia.org/wiki/David_Reimer) المأساوية. ففي عمر سبعة أشهر، خضع ديفيد وتوأمه لعملية ختان لعلاج حالة شديدة من "الشُّبم" (ضيق في جلد القلفة). لكن عملية ديفيد سارت بشكل كارثي، ودُمّر قضيبه. فاتُخذ قرار بإجراء عملية "رأب المهبل" وتربيته كفتاة، بما في ذلك العلاج بالإستروجين عند البلوغ. وبحلول سن الثالثة عشرة، كان قد وصل إلى اكتئاب حاد وأفكار انتحارية، وعانى بشدة، إذ لا يمكن لأي قدر من التدريب والتشجيع أن يجعل صبيًا يستمتع بأن يكون فتاة. وعندما أخبره والداه بما حدث فعلًا، عاد إلى التقديم كذكر، وتحول للعلاج بالتستوستيرون، وخضع لعمليات جراحية متعددة خلال سنوات مراهقته للعودة إلى هويته الذكورية.
 
-People know when they're living the wrong gender.
+الناس يدركون عندما يعيشون بالهوية الاجتماعية الخاطئة.
 
-Psychologist John Money oversaw David's case and was largely responsible for the decisions that were made in David's upbringing. Money, seeking to make a name for himself, massively misreported on David's case, calling it a complete success in his reports. The result of this echoes to this day, as Money's reports were used as an example of why performing genital corrective surgeries on intersex infants was an appropriate course of action. Fifty years later there are still doctors who believe that you can just change a child's genitals and raise them as that gender and it will stick.
+أشرف عالم النفس جون موني على قضية ديفيد وكان مسؤولاً بشكل كبير عن القرارات التي اتُخذت في تربيته. وسعيًا لصنع اسم لنفسه، أساء موني بشكل جسيم الإبلاغ عن حالة ديفيد، واصفًا إياها في تقاريره بأنها نجاح تام. وامتد أثر ذلك إلى يومنا هذا، إذ استُخدمت تقارير موني كمثال يُبرر إجراء عمليات جراحية تصحيحية للأعضاء التناسلية للرضع من [ثنائيي/متعددي الجنس](https://en.wikipedia.org/wiki/Intersex). وبعد خمسين عامًا، ما زال هناك أطباء يعتقدون أنه يمكن ببساطة تغيير الأعضاء التناسلية لطفل وتربيته على تلك الهوية الاجتماعية، وأن الأمر سيستمر ويثبت.
 
-This is the tragedy of the [intersex](https://en.wikipedia.org/wiki/Intersex) community. Roughly one in every 60 births results in some kind of intersex condition (though not all of these are related to genitalia). Often times the "corrective" procedures used on intersex children results in a loss of function and/or sensation. Far too frequently, doctors would opt towards forced female assignment because it was easier to construct a vulva than a penis.
+هذه هي مأساة مجتمع ثنائيي/متعددي الجنس. فما يقارب واحدًا من كل 60 ولادة ينتج عنه حالة من حالات ثنائية/تعددية الجنس (وإن لم تكن جميعها مرتبطة بالأعضاء التناسلية). وغالبًا ما تؤدي الإجراءات "التصحيحية" المُجراة على هؤلاء الأطفال إلى فقدان الوظيفة و/أو الإحساس. وفي أحيان كثيرة جدًا، كان الأطباء يميلون نحو تحديد الجنس أنثويًا قسرًا، لأن بناء فرج كان أسهل من بناء قضيب.
