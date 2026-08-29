@@ -24,59 +24,59 @@ siblings:
 <div class="gutter print-inline">
   {{import '~/img' images.hbscale
     className="card print-span34 print-center"
-    caption="Harry Benjamin Diagnostic Scale"
+    caption="مقياس Harry Benjamin التشخيصي"
   }}
 </div>
 }!}
 
 إذا كنتَ شخصاً عابراً جندرياً وتقرأ هذا، فربما تكون قد سمعتَ الاسم Harry Benjamin قبلا, ولكن ربما ليس في سياق إيجابي؛ ففي عام 1979، استُخدم اسمه (بموافقته) عند تأسيس "الجمعية الدولية لهاري بنجامين لاضطراب الهوية الجنسية/ Harry Benjamin International Gender Dysphoria Association " (HBIGDA), التي أصدرت معايير الرعاية (SoC) للأشخاص العابرين جنسيا. أصبحت هذه المعايير تُعرف باسم "قواعد هاري بنجامين".كما اتسمت تلك المعايير بقيود صارمة ومثيرة للجدل فيما يتعلق بكيفية تشخيص "اضطراب الهوية الاجتماعية"؛ إذ كان يتم تصنيف المرضى وفق مقياس مكوّن من ست درجات استناداً إلى مستوى معاناتهم ودرجة الخلل الوظيفي الجنسي لديهم. فإذا لم يصل المريض إلى الدرجة الخامسة أو أعلى -وهي الفئة التي تُصنّف تحت مسمى "متحوّل جنسياً حقيقي" (True Transsexual)- فغالباً ما كان يُرفض طلبه للحصول على العلاج.
 
-The problem was that Tiers 5 and 6 required that you had to be exclusively attracted to your own birth sex. Transition *had* to be making you straight, not gay, and bisexuals were not allowed. You also had to be experiencing severe distress with your body and genitals and already be living as your true gender without treatment. Many trans people got around these limitations through community coaching and performative presentations, but for many people (myself included) it was believed that, if you did not fit all the criteria, you were not trans enough to transition.
+كانت المشكلة تكمن في أن المستويين الخامس والسادس يشترطان أن يكون الشخص منجذبًا حصريًا لجنسه البيولوجي. كان التحول الجنسي *يجب* أن يجعله مغايرًا جنسيًا، لا مثليًا، ولم يكن يُسمح بثنائيي الميول الجنسية. كما كان يشترط أن يعاني الشخص من ضيق شديد بسبب جسده وأعضائه التناسلية، وأن يكون قد عاش بالفعل بجنسه الحقيقي دون علاج. تجاوز العديد من المتحولين جنسيًا هذه القيود من خلال التوجيه المجتمعي والعروض التقديمية، ولكن بالنسبة للكثيرين (وأنا منهم) كان يُعتقد أنه إذا لم يستوفِ الشخص جميع المعايير، فهو ليس متحولًا جنسيًا بما يكفي للخضوع للتحول.
 
-In 2011, the HBIGDA reorganized itself to respond to mounting pressures in trans understanding and acceptance, taking on the new name World Professional Association for Transgender Health (WPATH). Under guidance by actual transgender people (a first for the organization), WPATH then proceeded to release an entirely new Standards of Care (SoC, version 7, the first in ten years) which abandoned the Benjamin Scale, focusing on specific individual symptoms and disconnecting gender from sexuality entirely. Two years later, in 2013, the American Psychiatric Association changed their diagnostic criteria to match the WPATH SoC in their Diagnostic and Statistical Manual of Mental Disorders (DSM) version 5, replacing Gender Identity Disorder with Gender Dysphoria. With this change, medical transition became available to all trans people in the United States.
+في عام 2011، أعادت منظمة HBIGDA تنظيم نفسها استجابةً للضغوط المتزايدة المتعلقة بفهم قضايا العبور الجنسي وتقبّلها، واتخذت اسماً جديداً هو "الجمعية المهنية العالمية لصحة المتحولين جنسياً" (WPATH). وتحت إشراف مباشر من أشخاص عابرين جنسياً (وهي سابقة أولى للمنظمة)، أصدرت الجمعية نسخة جديدة كلياً من "معايير الرعاية" (SoC، الإصدار السابع، والأول منذ عشر سنوات)؛ حيث تخلت عن "مقياس بنجامين" (Benjamin Scale)، وركزت بدلاً من ذلك على أعراض فردية محددة، وفصلت تماماً بين الهوية الاجتماعية والتوجه الجنسي. وبعد عامين، وتحديداً في عام 2013، عدّلت الجمعية الأمريكية للطب النفسي معاييرها التشخيصية لتتوافق مع معايير الرعاية الصادرة عن WPATH وذلك في الإصدار الخامس من "الدليل التشخيصي والإحصائي للاضطرابات النفسية" (DSM-5)، حيث استبدلت مصطلح "اضطراب الهوية الجندرية" بمصطلح "الاضطراب المصاحب لعدم التوافق الجندري" (Gender Dysphoria). ومع هذا التغيير، أصبح التحول الطبي متاحاً لجميع الأشخاص العابرين جنسياً في الولايات المتحدة.
 
-This is why trans presence across the world has suddenly exploded in the last decade. With easier access comes larger numbers, with larger numbers comes more visibility, with more visibility comes more awareness, and with more awareness comes more people accessing treatment. [A study conducted in 2014](https://williamsinstitute.law.ucla.edu/wp-content/uploads/TransAgeReport.pdf) showed 0.6% of adults and 0.7% of youth in the United States identified as transgender, [a study conducted in 2016](https://www.cdc.gov/mmwr/volumes/68/wr/mm6803a3.htm) showed 1.8% of high school age students identified as transgender, and [a survey conducted by GLAAD in 2017](https://www.glaad.org/files/aa/2017_GLAAD_Accelerating_Acceptance.pdf) showed a whopping 12% of respondents 18 to 34 did not identify as cisgender.
+ولهذا السبب، شهد حضور الأشخاص المتحولين جنسياً حول العالم طفرةً مفاجئةً خلال العقد الماضي؛ فسهولة الوصول تؤدي إلى زيادة الأعداد، وزيادة الأعداد تعزز الظهور العلني، وهذا الظهور يزيد من مستوى الوعي، مما يدفع بالمزيد من الأشخاص إلى السعي للحصول على العلاج. [دراسة أُجريت عام 2014](https://williamsinstitute.law.ucla.edu/wp-content/uploads/TransAgeReport.pdf) أظهرت الدراسات أن 0.6% من البالغين و0.7% من الشباب في الولايات المتحدة عرّفوا أنفسهم بأنهم متحولون جنسياً. [دراسة أُجريت عام 2016](https://www.cdc.gov/mmwr/volumes/68/wr/mm6803a3.htm) أظهرت الدراسة أن 1.8% من طلاب المرحلة الثانوية عرّفوا أنفسهم كمتحولين جنسياً، و [استطلاع أجرته منظمة GLAAD عام 2017](https://www.glaad.org/files/aa/2017_GLAAD_Accelerating_Acceptance.pdf) أظهرت النتائج أن نسبة كبيرة للغاية بلغت 12% من المشاركين في الاستطلاع، ممن تتراوح أعمارهم بين 18 و34 عاماً، لا يُعرّفون أنفسهم كأشخاص متوافقين جنسياً (cisgender).
 
-Transgender people are coming out of the woodwork; we are everywhere.
+يظهر المتحولون جنسياً في كل مكان؛ نحن موجودون في كل مكان.
 
-## So What Is Gender Dysphoria?
+## إذن، ما هو اضطراب الهوية الاجتماعية؟
 
 {!{
 <div class="gutter print-span4">
   <blockquote>
-    <strong>Dys·pho·ri·a</strong> - <em>Noun</em><br>
-    A state of unease or generalized dissatisfaction with life. The opposite of euphoria.
+    <strong>اضطراب</strong> - <em>اسم</em><br>
+    حالة من عدم الارتياح أو عدم الرضا العام عن الحياة؛ وهي نقيض حالة النشوة الغامرة.
   </blockquote>
   {{import '~/img' images.glue className="card print-span4"}}
 </div>
 }!}
 
-There is a common misconception among both cisgender and transgender people that gender dysphoria refers exclusively to a physical discomfort with ones own body. However, this belief that body discomfort is central to gender dysphoria is in fact a misconception, and is not even a majority component of a gender dysphoria diagnosis. Gender dysphoria crosses a large number of all aspects of life, including how you interact with others, how others interact with you, how you dress, how you behave, how you fit into society, how you perceive the world around you, and, yes, how you relate to your own body. Consequently, proponents of the WPATH SoC 7 and the DSM-5 have taken to a habit of saying that you do not have to have dysphoria to be transgender. This statement is often repeated like a mantra, as it informs people who do not feel significant body discomfort that they may also be transgender.
+هناك اعتقاد خاطئ شائع -سواء بين الأشخاص المتوافقين جنسياً أو المتحولين جنسياً- مفاده أن "اضطراب الهوية الاجتماعية" (gender dysphoria) يقتصر حصراً على الشعور بعدم الارتياح الجسدي تجاه الجسد. غير أن هذا الاعتقاد -بأن عدم الارتياح الجسدي يمثل جوهر هذا الاضطراب- هو في الواقع تصور خاطئ؛ إذ لا يُعد هذا الجانب المكون الأبرز أو الأكثر شيوعاً في تشخيص الحالة. فالاضطراب يمتد ليشمل جوانب عديدة من الحياة، بما في ذلك كيفية تفاعلك مع الآخرين وكيفية تفاعلهم معك، وطريقة لباسك وسلوكك، وموقعك في المجتمع، ونظرتك للعالم من حولك، وبالطبع، علاقتك بجسدك. ونتيجة لذلك، دأب القائمون على معايير الرعاية (SoC 7) الصادرة عن الجمعية العالمية المهنية لصحة المتحولين جنسياً (WPATH) والدليل التشخيصي والإحصائي الخامس (DSM-5) على التأكيد بأن المرء لا يشترط أن يعاني من هذا الاضطراب ليكون متحولاً جنسياً. وغالباً ما يُردد هذا القول كعبارة ثابتة ومحورية، إذ يوضح للأشخاص الذين لا يشعرون بعدم ارتياح جسدي كبير أنهم قد يكونون أيضاً من المتحولين جنسياً.
 
-In principle, gender dysphoria is a feeling of wrongness intrinsic to the self. There is no logical backing to this wrongness; there is nothing which explains it, and you can not describe why you feel this way; it is just there. Things in your existence are incorrect, and even knowing which things *are* incorrect can be hard to properly identify.
+من حيث المبدأ، يُعد "اضطراب الهوية الجنسية" (أو عدم التوافق الجندري) شعوراً متأصلاً في الذات بأن ثمة خطأً ما؛ وهو شعور يفتقر إلى أي مبرر منطقي أو تفسير يوضحه، كما يعجز المرء عن وصف سبب هذا الإحساس، إذ إنه ببساطة موجود وحسب. إن ثمة جوانب في كيانك ليست على ما يرام، بل قد يكون من الصعب حتى تحديد ماهية هذه الجوانب الخاطئة بدقة.
 
-The way I used to describe it is like wearing an adult's glove when you are a child. You can put your hand into the glove, and your fingers feed into the digits of the glove, but your dexterity with the glove is severely hindered. You might be able to pick something up, but you can not manipulate it like an adult could. Things just aren't quite right.
+لطالما وصفتُ الأمر بأنه يشبه ارتداء قفاز مخصص للبالغين وأنت لا تزال طفلاً؛ إذ يمكنك إدخال يدك في القفاز وتوجيه أصابعك إلى أماكنها المخصصة فيه، لكن قدرتك على التحكم وحرية حركتك تصبحان مقيدتين للغاية. قد تتمكن من التقاط شيء ما، لكنك تعجز عن التعامل معه ببراعة وإتقان كما يفعل البالغون؛ فالأمر برمته لا يبدو طبيعياً تماماً.
 
-Evey Winters described it this way [in her Dysphoria post](https://eveywinters.com/on-dysphoria-before-enduring-and-after/).
+وصفت Evey Winters الأمر على هذا النحو [في منشورها حول "اضطراب الهوية الجندرية" (Dysphoria)](https://eveywinters.com/on-dysphoria-before-enduring-and-after/).
 
-> Have you ever been sitting somewhere in a public or a formal place and all of a sudden the bottom of your foot itches? It’s not like you can remove your shoes right there and scratch it, so you endure the feeling of dying inside while this itch grows and grows until you are ready to murder the next person that speaks to you.
+> هل سبق أن كنت جالساً في مكان عام أو رسمي، وفجأة شعرت بحكة في باطن قدمك؟ بالطبع، لا يمكنك خلع حذائك في تلك اللحظة لحكّها، فتضطر إلى كبت شعورٍ يكاد يقتلك من الداخل بينما تزداد تلك الحكة وتشتد، حتى تصبح مستعداً لارتكاب جريمة قتل بحق أول شخص يوجه إليك كلمة.
 >
-> Or when I was younger I used to watch cable TV in the mornings before school. Because it was cable TV in rural WV in the early 90’s, every so often I’d turn on my favorite channel to watch my shows while I ate my maple oatmeal and I’d be seeing Power Rangers — but the audio would be from another station (usually the weather channel). The video was fine. The audio was fine. But the mismatch between them? That’s the kind of frustration that sits with you all day as a child.
+> أو عندما كنت أصغر سناً، اعتدت مشاهدة التلفزيون عبر الكابل في الصباح قبل الذهاب إلى المدرسة. ونظراً لأن الخدمة كانت تعتمد على الكابل في منطقة ريفية بولاية فيرجينيا الغربية خلال أوائل التسعينيات، فكثيراً ما كنت أشغّل قناتي المفضلة لمتابعة برامجي أثناء تناول وجبة الشوفان بنكهة القيقب، فأجد نفسي أشاهد (Power Rangers) - لكن الصوت كان يأتي من محطة أخرى (عادةً قناة الطقس). كانت الصورة سليمة، وكان الصوت سليماً أيضاً، لكن ذلك التفاوت وعدم التطابق بينهما؟ كان ذلك النوع من الإحباط الذي يلازمك طوال اليوم وأنت طفل.
 >
-> It’s the feeling you get when you ask for a crisp refreshing Diet Coke and the server says, “Is Pepsi ok?”
+> إنه ذلك الشعور الذي ينتابك عندما تطلب مشروب Diet Coke، فيرد عليك النادل قائلاً: "هل Pepsi مناسب؟"
 >
-> It is knowing that something is wrong and not being able to do a damn thing about it.
+> أن تدرك أن ثمة خطأً ما، ولا تملك فعل أي شيء حياله على الإطلاق.
 
-Gender dysphoria is, at its core, simply emotional reactions to the brain knowing that something does not fit. This incongruence is so deep inside the brain's subsystems that there is no obvious message of what the problem is. The only way we have to identify it is via the emotions that it triggers. Our consciousness receives either positive (euphoria) or negative (dysphoria) feedback according to how well our current environment aligns with our internal sense of self. Part of transition is learning to recognize those signals.
+يتمثل "اضطراب الهوية الجنسية" (أو عدم التطابق الجندري) في جوهره ببساطة في ردود فعل عاطفية تنشأ عن إدراك الدماغ لوجود شيء غير متوافق؛ إذ يكمن هذا التنافر في أعماق الأنظمة الفرعية للدماغ لدرجة أنه لا توجد رسالة واضحة تحدد ماهية المشكلة، وتظل الطريقة الوحيدة للتعرف عليه هي من خلال المشاعر التي يثيرها. يتلقى وعينا إشارات تغذية راجعة -سواء كانت إيجابية (تتمثل في شعور بالنشوة والرضا) أو سلبية (تتمثل في شعور بالضيق والانزعاج)- بناءً على مدى توافق بيئتنا الحالية مع إحساسنا الداخلي بذواتنا، وتُعد عملية تعلّم تمييز هذه الإشارات جزءاً من رحلة التحول.
 
-Cisgender people receive them as well, but since the signals usually align with their environment, they take them for granted. There have been a few notable occasions, however, when a cisgender person has been [put into a situation](https://www.teenvogue.com/story/maisie-williams-arya-stark-game-of-thrones-affected-her-body-image) where they experience gender dysphoria. Attempts to raise cisgender children [as the opposite sex](https://www.nytimes.com/2004/05/12/us/david-reimer-38-subject-of-the-john-joan-case.html) (Content warning: suicide) have always met with failure when the child inevitably declares themselves differently.
+يتلقى الأشخاص المتوافقون جنسياً (cisgender) هذه الإشارات أيضاً، ولكن نظراً لأنها عادةً ما تتوافق مع بيئتهم، فإنهم يعتبرونها أمراً مسلماً به. ومع ذلك، كانت هناك بضع حالات بارزة [وُضع فيها شخص متوافق جنسياً في موقف](https://www.teenvogue.com/story/maisie-williams-arya-stark-game-of-thrones-affected-her-body-image) حيث يعانون من اضطراب الهوية الجنسية. محاولات تربية الأطفال المتوافقين جنسياً [على أنهم من الجنس الآخر](https://www.nytimes.com/2004/05/12/us/david-reimer-38-subject-of-the-john-joan-case.html) (تحذير بشأن المحتوى: انتحار) لطالما باءت المحاولات بالفشل حين يُعلن الطفل -حتماً- عن هويته المختلفة.
 
-These impulses of euphoria and dysphoria, arousal and aversion — they all manifest in many different ways: some obvious, some much more subtle. Dysphoria changes over time as well, taking on new shapes as one moves from pre-awareness into understanding and through transition. The goal of this book is to break down these manifestations into their distinct categories and describe them so that others may learn to recognize them.
+تتجلى هذه الدوافع -التي تتراوح بين النشوة والضيق، وبين الاستثارة والنفور- بأشكال متنوعة للغاية؛ فبعضها ظاهر وواضح، وبعضها الآخر خفي ودقيق. كما أن حالة الضيق تتغير بمرور الوقت، إذ تتخذ أشكالاً جديدة مع انتقال المرء من مرحلة ما قبل الإدراك إلى مرحلة الفهم، وخلال مراحل التحول؛ ويهدف هذا الكتاب إلى تصنيف هذه المظاهر إلى فئات متميزة ووصفها، ليتسنى للآخرين تعلم كيفية التعرف عليها.
 
-However, first I must stress something very important, so important that I am putting it into big bold letters:
+ولكن، عليّ أولاً أن أشدد على أمرٍ بالغ الأهمية، لدرجة أنني سأكتبه بأحرف كبيرة وبارزة:
 
-**EVERY SINGLE TRANS PERSON EXPERIENCES A DIFFERENT SET OF DYSPHORIA SOURCES AND INTENSITIES**
+**يواجه كل شخص عابر جنسياً مجموعة مختلفة من مصادر ودرجات حدة "اضطراب الهوية الجنسية"**
 
-There is no one single trans experience; there is no standard set of feelings and discomforts; there *is no one true trans narrative*. Every trans person experiences dysphoria in their own way to their own degree, and what bothers one person may not bother another.
+لا توجد تجربة واحدة للأشخاص العابرين جنسياً؛ ولا توجد مجموعة نمطية من المشاعر أو حالات الانزعاج؛ كما *لا توجد رواية واحدة صحيحة* تعبر عنهم. إذ يختبر كل شخص عابر جنسياً "اضطراب الهوية الجندرية" (dysphoria) بطريقته الخاصة وبدرجة متفاوتة، وما قد يزعج شخصاً ما قد لا يزعج شخصاً آخر.
 
-Okay, with that disclaimer out of the way, let's get to the meat and potatoes.
+حسناً، بعد الانتهاء من هذا التنويه، دعونا ننتقل إلى صلب الموضوع.
