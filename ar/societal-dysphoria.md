@@ -1,15 +1,15 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "How Gender Dysphoria Manifests: Societal Dysphoria"
-linkTitle: "Societal Dysphoria"
-description: "Because a role is a role, and a toll is a toll, and it's a heavy toll to live the wrong role."
-lang: en
+title: "كيف يتجلى اضطراب الهوية الجنسية: الاضطراب المرتبط بالمجتمع"
+linkTitle: "الانزعاج الجندري المجتمعي"
+description: "لأن الدور دور، والثمن ثمن، وإنها لضريبةٌ باهظةٌ أن تعيشَ دوراً ليس دورك."
+lang: ar
 preBody: '_disclaimer'
 siblings:
-  prev: /en/social-dysphoria
-  prevCaption: Social Dysphoria
-  next: /en/sexual-dysphoria
-  nextCaption: Sexual Dysphoria
+  prev: /ar/social-dysphoria
+  prevCaption: الانزعاج الاجتماعي
+  next: /ar/sexual-dysphoria
+  nextCaption: الانزعاج الجنسي
 classes:
   - gdb
 tweets:
@@ -25,35 +25,35 @@ tweets:
 
 ---
 
-# Societal Dysphoria
+# الانزعاج الجندري المجتمعي
 
-Gender roles exist, and, as much as we may try to buck them and point out the sexism that exists, there will always be expectations placed on people for their gender. The strongest of these are in marital and parental roles; "Husband", "Wife", "Mother", "Father", these terms come with loads of baggage attached to them, and the wrong role, or even any role at all, can feel like a lead-lined straitjacket. You are given a whole book full of behaviors and actions, likes and dislikes, that you are just expected to fulfill, and if you fail to meet those requirements then you are seen as a bad spouse or a bad parent. In the case of non-binary people, you may be given competing expectations that are impossible to fulfill, or even be reproached by others for assuming a gendered role at all.
+توجد أدوار محددة للجنسين، ومهما حاولنا التمرد عليها أو تسليط الضوء على التحيز الجنسي المصاحب لها، ستظل هناك دائماً توقعات مفروضة على الأفراد بناءً على جنسهم. وتتجلى أقوى هذه التوقعات في الأدوار الزوجية والأبوية؛ فمصطلحات مثل "الزوج" و"الزوجة" و"الأم" و"الأب" محملة بأعباء وتصورات مسبقة ثقيلة، لدرجة أن تبنّي دورٍ ما -أو حتى مجرد الانخراط في أي دور- قد يبدو وكأنه قيدٌ خانق ومُكبِّل للحركة. إذ يُفرض عليك "كتيب" كامل من السلوكيات والأفعال والتفضيلات التي يُتوقع منك الالتزام بها، وإذا أخفقت في تلبية تلك المتطلبات، يُنظر إليك باعتبارك شريكاً أو أباً (أو أماً) سيئاً. أما بالنسبة للأشخاص غير الثنائيين جندرياً، فقد يواجهون توقعات متضاربة يستحيل الوفاء بها، أو حتى يتعرضون للانتقاد واللوم لمجرد تبنيهم دوراً مرتبطاً بجنس محدد.
 
-An AFAB parent who gives birth may experience severe dysphoria around being labeled as a mother. The vast majority of resources for birth are *extremely* female-gendered, so just the very process of conceiving, carrying, and giving birth is exceptionally loaded with gender expectations. If you are pregnant then you are labeled a mom, regardless of how you actually feel about your role, and with that comes a whole load of assumptions — assumptions about caregiving, breastfeeding, and child-rearing.
+قد يعاني الوالد الذي وُلد بجنس أنثوي (AFAB) ويخوض تجربة الولادة من شعور حاد بالانزعاج أو عدم الارتياح (ديسفوريا) إزاء تصنيفه كـ "أم"؛ إذ تتسم الغالبية العظمى من الموارد والمعلومات المتعلقة بالولادة بصبغة أنثوية طاغية، مما يجعل عمليات الحمل والولادة بحد ذاتها محملةً بأعباء هائلة من التوقعات المرتبطة بالنوع الاجتماعي. فبمجرد حدوث الحمل، يُطلق عليك لقب "أم" بغض النظر عن مشاعرك الحقيقية تجاه هذا الدور، ويصاحب ذلك سيلٌ من الافتراضات المسبقة المتعلقة بمهام الرعاية والرضاعة الطبيعية وتربية الأطفال.
 
-[Cisgender-passing](https://en.wikipedia.org/wiki/Passing_(gender)) transfeminine individuals also run into this. If you are holding an infant or tending to a child then you are labeled a mom (unless the child is mixed race, in which case you're demoted to nanny, but that's a whole other topic). This can be validating, because it is a sign that you've been seen as a woman, but it can also be extremely *invalidating* when cis women start to talk about what they think are shared experiences with reproductive processes.
+[Cisgender-passing / المرور كمتوافق(ة) الجنس](https://en.wikipedia.org/wiki/Passing_(gender)) تواجه الأفراد ذوات الهوية الجندرية الأنثوية (transfeminine) هذا الأمر أيضاً؛ فإذا كنتِ تحملين رضيعاً أو تعتنين بطفل، يُنظر إليكِ باعتباركِ "أماً" (إلا إذا كان الطفل من عرق مختلط، وحينها تُصنَّفين في مرتبة أدنى كـ "مربية"، لكن هذا موضوع آخر تماماً). قد يكون هذا الموقف معززاً لهويتكِ، لأنه دليل على أن الآخرين يرونكِ امرأة، ولكنه قد يكون أيضاً مصدراً لشعور قوي بـ "نفي الهوية" (أو عدم الاعتراف بها) عندما تبدأ النساء غير المتحولات جنسياً (cis women) بالحديث عما يعتقدن أنه تجارب مشتركة تتعلق بالعمليات الإنجابية.
 
-Some unexpected ways that societal dysphoria can appear are in the need to conform to the social standards of your true gender. For example, many trans women have stories about feeling the need to cover up their chest pre-transition out of an intrinsic sense of modesty. A discomfort at swimming topless is a common trait, even when there is no understanding of one's true self; something just knows.
+من الأشكال غير المتوقعة التي قد يتجلى فيها "الاضطراب الجندري الاجتماعي" (societal dysphoria) تلك الحاجة إلى الامتثال للمعايير الاجتماعية المرتبطة بالجندر الحقيقي للفرد. فعلى سبيل المثال، لدى العديد من النساء العابرات جنسياً قصصٌ حول شعورهن بالحاجة إلى تغطية منطقة الصدر قبل مرحلة التحول، وذلك بدافع شعور داخلي وفطري بالحياء؛ إذ يُعد الشعور بعدم الارتياح عند السباحة دون تغطية الصدر سمةً شائعة، حتى في الحالات التي لا يدرك فيها المرء حقيقة هويته الجندرية بوضوح؛ إذ يظل هناك شعورٌ داخليٌ عميقٌ يدرك هذه الحقيقة بالفطرة.
 
-### Shame
+### عار
 
-Failure to live up to these roles can manifest *intensely* as shame and humiliation. Growing up closeted and struggling to fit into common gender tropes often results in signs of disappointment from parents and peers who expected otherwise. A father may be disappointed that their AMAB child isn't willing to engage in sports or other masculine activities. Female peers may demonstrate disapproval of an AFAB teenager choosing to hang out with a male social circle. Teen boys may ostracize an AMAB trans person who doesn't join in with their humor.
+قد يتجلى عدم الالتزام بهذه الأدوار بشكلٍ حادٍّ في صورة خجلٍ وإذلال. غالبًا ما يؤدي النشأة في بيئةٍ سريةٍ مع صعوبة التوافق مع الصور النمطية للجنسين إلى خيبة أملٍ من الأهل والأقران الذين توقعوا غير ذلك. قد يشعر الأب بخيبة أملٍ لأن طفله المولود ذكرًا لا يرغب في ممارسة الرياضة أو غيرها من الأنشطة التي تُعتبر ذكورية. وقد تُبدي الفتيات استياءً من مراهقةٍ مولودةٍ أنثى تختار قضاء وقتها مع دائرةٍ اجتماعيةٍ ذكورية. وقد ينبذ المراهقون الذكور شخصًا متحولًا جنسيًا مولودًا ذكرًا لا يشاركهم دعاباتهم.
 
-These kinds of situations can lead to bullying and abuse, pushing the trans person to feel isolated, alone, and out of place. This sense of division then creates feelings of shame for failing to be the person everyone expects them to be. This then manifests as depression on top of other dysphoria, compounding their pain.
+قد تؤدي مثل هذه المواقف إلى التنمر والإساءة، مما يدفع الشخص المتحول جنسياً إلى الشعور بالعزلة والوحدة وعدم الانتماء. ويولّد هذا الشعور بالانفصال أحاسيس بالخجل نتيجة العجز عن أن يكون الشخص الذي يتوقع الجميع منه أن يكون عليه؛ وهو ما يتجلى لاحقاً في صورة اكتئاب يُضاف إلى ما يعانيه الفرد من اضطراب الهوية الجنسية (أو الانزعاج الجندري)، مما يفاقم معاناته.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
     '1201138482569195526'
 ] tweets=meta.tweets className="" }}</div> }!}
 
-The shame becomes especially intense at the moment of revealing themselves to be trans. Transphobic friends and family having negative (sometimes even violent) reactions to a trans person coming out of the closet converts that shame into extreme guilt and disgrace. An adult trans person in a marriage may feel a tremendous amount of remorse at upending their spouse's life by revealing themselves. They may expect reproach from their neighbors and peers, and fear how that will affect their spouse and/or children.
+تشتد حدة الشعور بالخزي بشكل خاص عند لحظة الإفصاح عن الهوية العابرة جنسياً؛ إذ تؤدي ردود الفعل السلبية (التي قد تصل أحياناً إلى العنف) من جانب الأصدقاء وأفراد الأسرة -ممن يناهضون العبور الجنسي- تجاه هذا الإفصاح، إلى تحويل ذلك الخزي إلى شعور عارم بالذنب والعار. وقد ينتاب الشخص العابر جنسياً -إذا كان متزوجاً- شعورٌ هائل بالندم لتسببه في قلب حياة شريكه رأساً على عقب جراء الكشف عن هويته؛ كما قد يتوقع اللوم والانتقاد من الجيران والأقران، ويخشى من تداعيات ذلك على شريكه أو أطفاله.
 
-This too is a form of gender dysphoria, as these influences would not have been felt if the person had been cisgender.
+يُعد هذا أيضاً شكلاً من أشكال اضطراب الهوية الجنسية (gender dysphoria)، إذ لم تكن هذه التأثيرات لتُشعر بها لو كان الشخص متوافقاً جنسياً (cisgender).
 
-The other way shame comes into play is in the systemic transphobia present in our society. Trans adults of today grew up watching transphobic media in their childhood. The transsexual obsession of the late 80s and early 90s was horrifically traumatic for trans kids of the time, watching all the adults and peers around them laugh and jeer at and be disgusted by people whom they not only identified with but strongly empathized with and looked up to. This shame sits with us for our entire lives; it is a fundamental reason for why so many trans people do not come out until their late 30s or later, because only when they reach mid-life are they able to overcome that shame.
+ثمة جانب آخر يلعب فيه الشعور بالخزي دوراً، يتمثل في رهاب التحول الجنسي الممنهج السائد في مجتمعنا؛ فقد نشأ البالغون من المتحولين جنسياً اليوم وهم يشاهدون محتوىً إعلامياً يكرس هذا الرهاب خلال طفولتهم. لقد كانت حالة الهوس بموضوع التحول الجنسي -التي سادت أواخر الثمانينيات وأوائل التسعينيات- تجربة صادمة ومروعة للأطفال المتحولين جنسياً آنذاك، إذ كانوا يشاهدون البالغين والأقران من حولهم يضحكون ويسخرون ويُبدون اشمئزازاً تجاه أشخاص لم يقتصر الأمر على شعورهم بالتماهي معهم، بل تعداه إلى تعاطفهم العميق معهم واتخاذهم قدوةً لهم. يظل هذا الشعور بالخزي ملازماً لنا طوال حياتنا، ويُعد سبباً جوهرياً لتأخر الكثير من المتحولين جنسياً في الإفصاح عن هويتهم حتى بلوغهم أواخر الثلاثينيات أو ما بعد ذلك؛ إذ لا يتسنى لهم تجاوز هذا الخزي إلا عند وصولهم إلى منتصف العمر.
 
-Shame also tends to build up until it boils over into radical action. A very common aspect among trans people's histories are cycles where they will build up their presentation, fighting their feelings less and less, until suddenly they feel overcome with shame and purge everything, vowing to never pursue those feelings again. This pattern repeats over and over again.
+غالباً ما يتراكم الشعور بالخجل لدى الأشخاص المتحولين جنسياً حتى يبلغ ذروته ويتحول إلى تصرفات جذرية؛ إذ تتكرر لديهم دورات نمطية يبدؤون فيها بتطوير مظهرهم الخارجي والتصالح تدريجياً مع مشاعرهم، إلى أن تغمرهم فجأة مشاعر الخجل فيتخلصون من كل ما يتعلق بذلك، عازمين على عدم السعي وراء تلك المشاعر مجدداً. وتتكرر هذه الدورة مراراً وتكراراً.
 
-### Dating and Romantic Relationships
+### المواعدة والعلاقات الرومانسية
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1216109204093722630'
@@ -66,14 +66,14 @@ Shame also tends to build up until it boils over into radical action. A very com
   '1216112014411599877'
 ] tweets=meta.tweets className="oneblock capped" }}</div> }!}
 
-Societal dysphoria *strongly* comes into play with courtship rituals. Being forced into being the boyfriend or girlfriend when you are not a boy or a girl is extremely disorienting and often feels very unfair. AMABs may find themselves wishing *they* were the one being pampered. While unwanted attention causes discomfort for all genders, AFABs may become uncomfortable with even the amount of *genuine* attention they receive from prospective partners. The expectations placed on them by their partners to fill these courtship roles may feel like a heavy burden to bear. By contrast, dating as your true gender becomes euphoric. Buy a trans girl flowers and see how much she swoons.
+يلعب اضطراب الهوية الجنسية المجتمعية دورًا بارزًا في طقوس المغازلة. فإجبار الشخص على لعب دور الحبيب أو الحبيبة رغم أنه ليس ذكرًا أو أنثى أمرٌ مُربك للغاية، وغالبًا ما يُشعره بالظلم. قد يتمنى الذكور عند الولادة لو كانوا هم من يُدللون. وبينما يُسبب الاهتمام غير المرغوب فيه إزعاجًا لجميع الأجناس، قد تشعر الإناث عند الولادة بعدم الارتياح حتى مع القدر الضئيل من الاهتمام الحقيقي الذي يتلقينه من الشركاء المحتملين. وقد تبدو التوقعات التي يفرضها عليهن شركاؤهن لأداء أدوار المغازلة عبئًا ثقيلًا. في المقابل، تُصبح المواعدة بالهوية الجنسية الحقيقية تجربةً مُبهجة. جرّب شراء باقة زهور لفتاة متحولة جنسيًا وشاهد مدى إعجابها.
 
-A closeted trans person may feel so much pressure to conform to heterosexuality that they suppress their own instincts with regards to relationships and take on a performative role. Many a trans woman has attempted to play the role of a heterosexual husband to a wife, only to realize with transition that they would much prefer the role of the wife. They may not even be attracted to women.
+قد يشعر الشخص المتحول جنسياً -الذي لم يُفصح عن هويته- بضغط هائل للامتثال لمعايير المغايرة الجنسية، مما يدفعه إلى كبت غرائزه الفطرية فيما يتعلق بالعلاقات وتقمص دورٍ مصطنع؛ إذ حاولت العديد من النساء المتحولات جنسياً لعب دور الزوج المغاير جنسياً لزوجة، ليكتشفن -بعد إتمام عملية التحول- أنهن يفضلن بشدة دور الزوجة، بل إنهن قد لا يشعرن بأي انجذاب للنساء من الأساس.
 
-Beyond discomfort, many trans people realize that the dynamics of relationships that they have experienced simply did not fit the shape of how they appeared. Many trans people come to realize after transition that they had never actually dated like a cis person of their assigned gender, instead always having romantic relationships that fit their true orientation. Male to male and female to female relationships have completely different patterns from heterosexual relationships; different courtship rituals, different perceptions, different communication styles. Men relate differently to men than they do to women, and women to women differently than they do to men, even when they don't know they are men or women.
+إلى جانب الشعور بعدم الارتياح، يدرك العديد من المتحولين جنسيًا أن ديناميكيات العلاقات التي مروا بها لم تكن متوافقة مع مظهرهم الخارجي. ويكتشف الكثيرون منهم بعد عملية التحول أنهم لم يواعدوا قط كما يفعل الشخص غير المتحول جنسيًا من جنسهم البيولوجي، بل كانت علاقاتهم العاطفية دائمًا متوافقة مع ميولهم الحقيقية. تختلف أنماط العلاقات بين الرجال والنساء اختلافًا جذريًا عن العلاقات بين الجنسين؛ فلكلٍّ منها طقوسها الخاصة، وتصوراتها المختلفة، وأساليب تواصلها المتباينة. ويختلف تعامل الرجال مع بعضهم البعض عن تعاملهم مع النساء، وتختلف علاقات النساء مع بعضهن البعض عن تعاملهن مع الرجال، حتى وإن لم يدركوا هويتهم الجنسية.
 
-For example, I myself realized after coming out to my wife that all of my previous dating attempts had absolutely been sapphic in nature. My first order had always been to become good friends with them. Dates would never be labeled as dates because we would just sit and talk somewhere, hanging out together. Consequently, several of my relationships ended simply because I was too scared to make the first move out of destroying the friendship. I would spend half my waking day thinking about them and wanting to be around them, not out of sexual lust, but out of personal infatuation. My first girlfriend straight up told me on our first date that I was unlike any man she'd ever dated because I enjoyed talking instead of just trying to get physical. She broke up with me two months later because I wasn't as assertive as she wanted from a partner.
+على سبيل المثال، أدركتُ بنفسي -بعد أن أفصحتُ لزوجتي عن حقيقتي- أن كل محاولاتي السابقة للدخول في علاقات عاطفية كانت في جوهرها علاقات ذات طابع "سافيكي" (أي علاقات نسائية مثلية). كان دأبي الأول دائماً هو بناء صداقة وطيدة معهن؛ فلم تكن لقاءاتنا تُصنّف أبداً على أنها "مواعيد غرامية"، إذ كنا نكتفي بالجلوس والحديث في مكان ما وقضاء الوقت معاً. ونتيجة لذلك، انتهت عدة علاقات لي ببساطة لأنني كنت خائفاً جداً من اتخاذ الخطوة الأولى، خشية أن يؤدي ذلك إلى تدمير الصداقة. كنت أقضي نصف ساعات يقظتي في التفكير فيهن والرغبة في التواجد بقربهن، لا بدافع الشهوة الجنسية، بل بدافع الانجذاب العاطفي والشخصي. حتى أن أول حبيبة لي أخبرتني صراحةً في موعدنا الأول بأنني مختلف عن أي رجل واعدته من قبل، لأنني كنت أستمتع بالحديث بدلاً من محاولة الانتقال فوراً إلى الجانب الجسدي؛ ومع ذلك، انفصلت عني بعد شهرين لأنني لم أكن أتمتع بالحزم الذي كانت تتوقعه من شريكها.
 
-These dynamics get even more complex for non-binary people, some of whom can at best describe their dating style as queer. Some struggle to identify what role they play in a relationship. Others take a specific role that is typically seen as a binary gendered role, and may not be the one assumed from their appearance. Some non-binary people wish to be seen as a boyfriend/girlfriend even if they are not a boy/girl. Some want to play a role seen by society as neutral or consisting of aspects from both binary roles. Some non-binary people may feel uneasy about heterosexual dating dynamics in particular, whether they play the "male" or "female" role.
+تزداد هذه الديناميكيات تعقيداً بالنسبة للأشخاص غير الثنائيين جندرياً؛ إذ يصف بعضهم أسلوبهم في المواعدة -في أحسن الأحوال- بأنه "كوير" (queer). ويواجه البعض الآخر صعوبة في تحديد الدور الذي يؤدونه في العلاقة، بينما يتبنى آخرون دوراً محدداً يُنظر إليه عادةً على أنه دور جندري ثنائي (ذكر أو أنثى)، وقد لا يكون هذا الدور متوافقاً مع الانطباع المأخوذ عنهم بناءً على مظهرهم الخارجي. ويرغب بعض الأشخاص غير الثنائيين في أن يُنظر إليهم بصفتهم "حبيباً" (boyfriend) أو "حبيبة" (girlfriend) حتى وإن لم يكونوا ذكوراً أو إناثاً بالمعنى التقليدي، في حين يفضل آخرون أداء دور يراه المجتمع محايداً أو يجمع بين سمات كلا الدورين الثنائيين. كما قد يشعر بعض الأشخاص غير الثنائيين بعدم الارتياح تجاه ديناميكيات المواعدة المغايرة (بين رجل وامرأة) تحديداً، سواء كانوا يؤدون دور "الذكر" أو دور "الأنثى".
 
-As many people define their orientations in terms of their gender relation to men and women in a way that does not map to non-binary people, some non-binary people may find the traditional language of "heterosexual" or "homosexual" itself induces dysphoria.
+نظراً لأن الكثيرين يحددون توجهاتهم بناءً على علاقتهم الجندرية بالرجال والنساء —وهو نمط لا ينطبق على الأشخاص غير الثنائيين جندرياً— فقد يجد بعض هؤلاء الأشخاص أن المصطلحات التقليدية مثل "مغاير الجنس" أو "مثلي الجنس" بحد ذاتها تسبب لهم شعوراً بعدم التوافق الجندري (ديسفوريا).
