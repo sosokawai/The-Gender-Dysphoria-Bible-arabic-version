@@ -1,44 +1,44 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Am I Trans?"
-linkTitle: "Am I Trans?"
+title: "هل أنا عابر/ة جنسياً؟"
+linkTitle: "هل أنا عابر/ة جنسياً؟"
 description: "A Roadmap To Figuring Out The Toughest Question"
-lang: en
+lang: ar
 siblings:
-  prev: /en/impostor-syndrome
-  prevCaption: Impostor Syndrome
-  next: /en/diagnoses
-  nextCaption: Clinical Diagnoses
+  prev: /ar/impostor-syndrome
+  prevCaption: متلازمة المنتحل
+  next: /ar/diagnoses
+  nextCaption: التشخيصات السريرية
 classes:
   - gdb
 preBody: '_disclaimer'
 ---
 
-æææ<div class="cw"><p><strong>Curator's Note</strong>: The following page comes from <a href="https://aninjusticemag.com/am-i-trans-a-roadmap-to-figuring-out-the-toughest-question-7bb0e809a32d" target="_blank" rel="noopener">a fantastic post written by Cassie LaBelle</a> and has been reshared with permission. <a href="https://cassielabelle.medium.com/" target="_blank" rel="noopener">You can read more of her writing on Medium.</a></div>æææ
+æææ<div class="cw"><p><strong>Curator's Note</strong>: الصفحة التالية مأخوذة من <a href="https://aninjusticemag.com/am-i-trans-a-roadmap-to-figuring-out-the-toughest-question-7bb0e809a32d" target="_blank" rel="noopener">منشور رائع كتبته Cassie LaBelle</a> وتمت إعادة مشاركته بإذن. <a href="https://cassielabelle.medium.com/" target="_blank" rel="noopener">يمكنك قراءة المزيد من كتاباتها على منصة "ميديوم" (Medium).</a></div>æææ
 
-# Am I Trans?
+# هل أنا عابر/ة جنسياً؟
 
-Long before I started questioning my gender, I had this idle fantasy where one of my best lady friends would walk up to me and say, “Give it up. You’re not fooling anyone.”
+قبل وقت طويل من بدئي في التساؤل عن هويتي الجندرية، راودني خيالٌ عابرٌ تتجّه فيه إليّ إحدى صديقاتي المقرّبات وتقول: "كُفَّ عن هذا؛ فأنت لا تخدع أحداً".
 
-If you’d confronted me about this fantasy at the time, I couldn’t have told you what, exactly, I meant by “you’re not fooling anyone.” Deep down I knew that it was probably related to gender, but my lips wouldn’t have been able to form those words. All I knew was that I was pretending to be someone I was not, in some vague, passive, and ephemeral way.
+لو أنك واجهتني بشأن هذا الخيال في ذلك الوقت، لما استطعت أن أوضح لك -على وجه التحديد- ما كنت أعنيه بعبارة "أنت لا تخدع أحداً". كنت أدرك في قرارة نفسي أن الأمر يتعلق -على الأرجح- بالهوية الجندرية، لكن شفتيَّ لم تكونا قادرتين على النطق بتلك الكلمات. كل ما كنت أعرفه هو أنني كنت أتظاهر بأنني شخص آخر غير حقيقتي، وذلك بطريقة غامضة وسلبية وعابرة.
 
-Once I self-accepted as a trans woman and started the long process of coming out, all I wanted was for someone to tell me that they already knew. “I’m so happy you figured it out,” I wanted them to gush. “I’ve known the truth for years. It was so obvious. I don’t know how anyone could have ever thought that you were a boy. I’m so happy that you’ll finally get to live as your true self now.”
+بمجرد أن تقبلتُ نفسي كامرأة عابرة جنسياً وبدأتُ رحلة الإفصاح الطويلة عن هويتي، كان كل ما أصبو إليه هو أن يخبرني أحدهم بأنه كان يدرك ذلك بالفعل. كنتُ أرغب في أن يعبّروا بحماس قائلين: "أنا سعيد للغاية لأنكِ أدركتِ حقيقتكِ؛ فقد كنتُ أعرف الحقيقة منذ سنوات، إذ كان الأمر جلياً وواضحاً للغاية. لا أدري كيف كان بوسع أي شخص أن يظن يوماً أنكِ صبي. أنا سعيد جداً لأنكِ ستتمكنين أخيراً من عيش حياتكِ بشخصيتكِ الحقيقية".
 
-Nobody ever said this to me, though. My coming-out process was successful, and most of my friends were supportive, but I never got the external validation that I craved. My friends and family accepted me as trans because I told them I was trans. They hadn’t noticed that I’d spent the past two decades wearing the ill-fitting costume of a man who barely existed.
+لكن لم يقل لي أحدٌ هذا قط. لقد كانت رحلة إفصاحي عن هويتي ناجحة، وكان معظم أصدقائي داعمين لي، إلا أنني لم أحظَ قط بذلك التأكيد الخارجي الذي كنت أتوق إليه؛ فقد تقبّلني أصدقائي وعائلتي بصفتي شخصاً عابراً جنسياً لمجرد أنني أخبرتهم بذلك، دون أن يلحظوا أنني قضيت العقدين الماضيين أرتدي "زيّاً" لا يلائمني لرجلٍ لم يكن له وجودٌ حقيقيٌ يُذكر.
 
 ---
 
-My good friend Lily coined the phrase **“Egg Prime Directive”** to describe the fact that trans people have an unspoken agreement not to tell people who are questioning their gender whether or not they are trans.
+ابتكرت صديقتي العزيزة "ليلي" مصطلح **"المبدأ التوجيهي الأول للبيض"** (Egg Prime Directive) لوصف حقيقة وجود اتفاق ضمني بين الأشخاص العابرين جنسياً على عدم إخبار الأفراد الذين يتساءلون عن هويتهم الجندرية بما إذا كانوا عابرين جنسياً أم لا.
 
-When someone is just told they are trans, that opens ground for denial; it activates defense mechanisms built by internalized transphobia, and it has a high probability of pushing them further into the closet, if not making them outright transphobic. Even when it doesn’t, it leaves ground for their own subconscious to reject their dysphoria, claiming that they were just manipulated or deceived.
-The much more effective strategy is to talk about your own experiences with dysphoria so that they see the common grounds and come to their own conclusion about their gender. The code doesn’t forbid helping them to explore their gender; it forbids assigning a gender to them.
-Or, to put it more succinctly, no one can be told what the Matrix is. You have to see it for yourself.
+عندما يُقال لشخصٍ ما ببساطة إنه "عابر جنسياً" (trans)، فإن ذلك يفتح الباب أمام الإنكار؛ إذ يُفعّل آليات دفاعية نشأت نتيجة رهاب العبور الجنسي المستبطن، كما أنه ينطوي على احتمال كبير لدفع ذلك الشخص إلى مزيد من الانكفاء والتستر على هويته، أو حتى تحويله إلى شخص معادٍ للعابرين جنسياً بشكل صريح. وحتى في الحالات التي لا يحدث فيها ذلك، يظل هناك مجال لعقل الشخص الباطن كي يرفض شعوره بـ "اضطراب الهوية الجندرية" (dysphoria)، متذرعاً بأنه كان مجرد ضحية للتلاعب أو الخداع.
+تتمثل الاستراتيجية الأكثر فعالية بكثير في الحديث عن تجاربك الشخصية مع "اضطراب الهوية الجنسية" (dysphoria)، لكي يدركوا القواسم المشتركة ويتوصلوا بأنفسهم إلى استنتاجٍ حول هويتهم الجنسية؛ فالقواعد لا تحظر مساعدتهم على استكشاف هويتهم، بل تحظر فرض هوية جنسية محددة عليهم.
+أو بعبارة أكثر إيجازاً: لا يمكن لأحد أن يُشرح له ماهية "الماتريكس" (Matrix)؛ إذ يتحتم عليك رؤيتها بنفسك.
 
-I’m sure there are some trans people out there who don’t follow the Egg Prime Directive, but I haven’t met them. It’s one of the only things that seems to unify the whole trans community, myself included. Even though I wanted my own external validation more than anything, I now see that true acceptance could have only come from within. The only person who can tell you that you are trans is yourself.
+أنا واثق من وجود بعض الأشخاص المتحولين جنسياً ممن لا يلتزمون بـ "مبدأ البيضة الأساسي" (Egg Prime Directive)، لكنني لم ألتقِ بهم قط؛ إذ يُعد هذا المبدأ أحد الأمور القليلة التي توحّد مجتمع المتحولين جنسياً بأسره، بمن فيهم أنا. ورغم أنني كنت أتوق بشدة للحصول على تأكيد خارجي لهويتي، إلا أنني أدرك الآن أن القبول الحقيقي لم يكن ليأتي إلا من الداخل؛ فالشخص الوحيد القادر على إخبارك بأنك متحول جنسياً هو أنت نفسك.
 
-The paradox is that most closeted trans people are absolutely terrible at trusting their inner voice. When you spend your whole life with a nagging disconnect between how the world sees you and how you see yourself, it becomes easier to rely on other people to tell you “who you really are.” Even if you know deep down that all the people in your life are missing some fundamental fact about your identity, it’s nearly impossible to avoid listening to others over oneself.
+تكمن المفارقة في أن معظم الأشخاص المتحولين جنسياً الذين يخفون هويتهم يجدون صعوبة بالغة في الوثوق بصوتهم الداخلي؛ فعندما تقضي حياتك بأكملها في حالة من الانفصال المؤرق بين نظرة العالم إليك ونظرتك لنفسك، يصبح من الأسهل الاعتماد على الآخرين ليخبروك "من أنت حقاً". وحتى لو كنت تدرك في قرارة نفسك أن كل المحيطين بك يغفلون حقيقة جوهرية تتعلق بهويتك، يظل من شبه المستحيل ألا تُغلِّب أصوات الآخرين على صوتك الداخلي.
 
-My goal today, then, is to give you some of the information and mental framing that helped me self-accept. I can’t tell you whether or not you are transgender, but I can point you down a path that you might be able to travel down yourself. I can’t provide the answers, but I can try to give you the right questions.
+إذن، يتمثل هدفي اليوم في تزويدك ببعض المعلومات والأطر الذهنية التي ساعدتني على تقبّل ذاتي. لا يمكنني أن أجزم ما إذا كنتَ شخصاً عابراً جنسياً (transgender) أم لا، لكن بوسعي إرشادك إلى مسارٍ قد تتمكن من السير فيه بنفسك. لا أستطيع تقديم الإجابات الجاهزة، لكنني أستطيع محاولة طرح الأسئلة الصحيحة عليك.
 
 æææ
 <div class="gutter flex flex-end">
