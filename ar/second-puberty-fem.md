@@ -1,178 +1,178 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Estrogenic Second Puberty 101"
-linkTitle: Estrogenic Puberty
-description: "What to expect from feminizing HRT"
-lang: en
+title: "البلوغ الثاني الإستروجيني 101"
+linkTitle: البلوغ الإستروجيني
+description: "ماذا تتوقع من العلاج الهرموني المؤنِّث"
+lang: ar
 preBody: '_disclaimer'
 siblings:
-  prev: /en/second-puberty-masc
-  prevCaption: Androgenic Second Puberty
-  next: /en/conclusion
-  nextCaption: Conclusion
+  prev: /ar/second-puberty-masc
+  prevCaption: البلوغ الثاني الأندروجيني
+  next: /ar/conclusion
+  nextCaption: الخاتمة
 classes:
   - gdb
 ---
 
-# Estrogenic Second Puberty 101
+# البلوغ الثاني الإستروجيني 101
 
-## What To Expect from Feminizing HRT
+## ماذا تتوقع من العلاج الهرموني المؤنِّث
 
-This is a compilation of reported medical transition changes collected from testimonials of AMAB trans people taking estrogen-based hormone therapy. This information is gathered from social media and chat rooms. Yes, that means this is all anecdotal, but historically, most of transgender medical study is anecdotal because no one wants to fund transgender medical research.
+هذه مجموعة مُجمَّعة من تغيرات الانتقال الطبي المُبلَّغ عنها، تم جمعها من شهادات أشخاص عابرين مصنَّفين ذكورًا عند الولادة يتناولون علاجًا هرمونيًا قائمًا على الإستروجين. جُمعت هذه المعلومات من وسائل التواصل الاجتماعي وغرف الدردشة. نعم، هذا يعني أن كل هذا مجرد شهادات فردية غير موثقة علميًا، لكن تاريخيًا، فإن معظم الدراسات الطبية المتعلقة بالمتحولين/ات هي كذلك، لأن لا أحد يريد تمويل الأبحاث الطبية المتعلقة بالمتحولين/ات.
 
-**Note that this is a list of _possible_ changes. There is no guarantee that every person on feminizing HRT will experience all of these. Your age, genetics, medical history, degree of masculinization from natal puberty, and hormone regimen can all have impacts on results. There is also just a degree of randomness — every body is different — and some things can take years to appear.**
+**لاحظ أن هذه قائمة بتغيرات _محتملة_. لا يوجد ضمان بأن كل شخص يتلقى علاجًا هرمونيًا مؤنِّثًا سيختبر كل هذه التغيرات. عمرك، وعواملك الوراثية، وتاريخك الطبي، ودرجة التذكير الناتجة عن بلوغك الأصلي، ونظام العلاج الهرموني، كلها عوامل يمكن أن تؤثر في النتائج. كما توجد أيضًا درجة من العشوائية — فكل جسد مختلف — وقد تستغرق بعض التغيرات سنوات لتظهر.**
 
-### Breast Growth
+### نمو الثدي
 
-Despite public perceptions, the majority of transfems do not pursue breast augmentation, as it often isn't necessary (and, for many, is not within reach). Every human is born with breast tissue, it simply remains inactive without estrogen to make it grow. Development typically takes 2-5 years, but can continue for more than ten years, just as it does for cisgender women.
+على عكس التصورات الشائعة، لا تسعى غالبية العابرات المؤنَّثات (transfems) إلى تكبير الثدي جراحيًا، لأن ذلك غالبًا ليس ضروريًا (وبالنسبة لكثيرات، غير متاح أصلًا). يولد كل إنسان بأنسجة ثدي، وهي ببساطة تبقى خاملة دون الإستروجين اللازم لنموها. عادة ما يستغرق النمو من 2 إلى 5 سنوات، لكنه يمكن أن يستمر لأكثر من عشر سنوات، تمامًا كما يحدث لدى النساء غير العابرات.
 
-Expect aches and pains in the chest, along with lots of tenderness in the area surrounding and behind the areola. Avoid bumping into anything, as it *will* hurt. Nipples and areolae will become much more sensitive while also becoming larger and darker. You'll want to invest in some sports bras.
+توقعي آلامًا ووجعًا في الصدر، إلى جانب حساسية كبيرة في المنطقة المحيطة بالهالة وخلفها. تجنبي الاصطدام بأي شيء، لأن ذلك *سيؤلم* بالتأكيد. ستصبح الحلمات والهالات أكثر حساسية بكثير مع ازديادها حجمًا وقتامة لونًا. ستحتاجين للاستثمار في بعض حمالات الصدر الرياضية.
 
-This may be accompanied with lactation. Some secretion is normal and can be expected as milk ducts form and open up, so there is no cause for alarm. However, significant discharge without intentional stimulation may be a sign of a prolactin imbalance, so you should tell your doctor if this happens.
+قد يترافق هذا مع إدرار الحليب. بعض الإفرازات أمر طبيعي ومتوقع مع تشكّل قنوات الحليب وانفتاحها، فلا داعي للقلق. لكن الإفراز الكبير دون تحفيز متعمَّد قد يكون علامة على اختلال في هرمون البرولاكتين، لذا يجب عليك إخبار طبيبك إذا حدث ذلك.
 
-### Skin Softening
+### نعومة البشرة
 
-Testosterone promotes the thickening and toughening of the epidermis, so removing it makes the skin thinner. Additionally, estrogen promotes the production of collagen, which causes skin to become softer and more iridescent. Expect to see more varicose veins on your legs. Tattoos that may have faded over time might become bolder and clearer.
+يعزز التستوستيرون سماكة البشرة وقساوتها، لذا فإن إزالته تجعل البشرة أرق. بالإضافة إلى ذلك، يعزز الإستروجين إنتاج الكولاجين، ما يجعل البشرة أنعم وأكثر لمعانًا. توقعي رؤية المزيد من الدوالي في ساقيك. الوشوم التي ربما تلاشت مع مرور الوقت قد تصبح أكثر وضوحًا وحدّة.
 
-The removal of testosterone also causes a severe drop in skin oils, particularly on the face and scalp. This results in a significant reduction of acne and/or dandruff.
+كما تسبب إزالة التستوستيرون انخفاضًا حادًا في زيوت البشرة، خصوصًا في الوجه وفروة الرأس. ينتج عن ذلك انخفاض كبير في حب الشباب و/أو القشرة.
 
-### Increased Flexibility
+### زيادة المرونة
 
-Testosterone causes water retention in ligaments and tendons, rendering them less stretchable. Removing androgens from the body causes the tendons to release those fluids and regain their elasticity.
+يسبب التستوستيرون احتباس الماء في الأربطة والأوتار، ما يجعلها أقل قابلية للتمدد. وتؤدي إزالة الأندروجينات من الجسم إلى تحرر تلك السوائل من الأوتار واستعادتها لمرونتها.
 
-### Slimmer Hands and Wrists
+### يدان ومعصمان أنحف
 
 {!{
 <div class="gutter flex">
-{{import '~/img' images.hands className="card" caption="The author's hands. This change occurred over the course of three and a half years."}}
+{{import '~/img' images.hands className="card" caption="يدا الكاتبة. حدث هذا التغير على مدى ثلاث سنوات ونصف."}}
 </div>
 }!}
 
-As the skin begins to soften and slim down, the hands gradually begin to shrink. Without testosterone, less blood flows to the hands, causing further reduction in tissue sizes. Ring size will drop as fat and fluids move off the fingers. Finger length shortens as ligaments thin and stretch.
+مع بدء البشرة في النعومة والنحافة، تبدأ اليدان تدريجيًا في التصغر. فبدون التستوستيرون، يتدفق دم أقل إلى اليدين، ما يسبب مزيدًا من تقلص حجم الأنسجة. سينخفض مقاس الخاتم مع تحرك الدهون والسوائل بعيدًا عن الأصابع. يقصر طول الأصابع مع ترقق الأربطة وتمددها.
 
-### Smaller Feet
+### قدمان أصغر
 
-Much like hands, the feet also experience changes in shape. Androgens encourage more blood flow to the feet, and encourage water build up in cartilage. Estrogens allow the ligaments in the foot to stretch more. Collectively, this causes the arch of the foot to increase, shortening its total length by as much as two centimeters. Many people report a drop of one to two shoe sizes.
+تمامًا مثل اليدين، تختبر القدمان أيضًا تغيرات في الشكل. تُشجّع الأندروجينات على مزيد من تدفق الدم إلى القدمين، وتُشجّع على تراكم الماء في الغضاريف. تسمح الإستروجينات للأربطة في القدم بالتمدد أكثر. وبشكل جماعي، يؤدي هذا إلى زيادة قوس القدم، ما يُقصِّر طولها الكلي بما يصل إلى سنتيمترين. يُبلغ كثير من الأشخاص عن انخفاض بمقدار مقاس أو مقاسين في الحذاء.
 
-### Thinner & Softer Fingernails
+### أظافر أرق وأنعم
 
-Fingernails are made of keratin, and many keratin genes are activated by androgen receptors, thus causing thicker fingernails. The loss of testosterone will make the nails thinner and more prone to breakage.
+تتكون الأظافر من الكيراتين، ويُنشِّط مستقبلات الأندروجين كثيرًا من جينات الكيراتين، ما يسبب سماكة الأظافر. سيؤدي فقدان التستوستيرون إلى جعل الأظافر أرق وأكثر عرضة للكسر.
 
-### Reduced Body Hair
+### تقلّص شعر الجسم
 
-Do not expect a total cessation of body hair; once the follicles are made terminal by DHT, they remain that way. However, much like fingernails, hair thickness is an expression of keratin genes activated by androgens. Removing testosterone causes the body hairs to become thinner and lighter. Genetics plays a major role in this, however.
+لا تتوقعي توقفًا كاملًا لشعر الجسم؛ فبمجرد أن يجعل هرمون الديهيدروتستوستيرون (DHT) البصيلات نهائية، تبقى كذلك. لكن، تمامًا مثل الأظافر، فإن سماكة الشعر هي تعبير عن جينات الكيراتين المنشَّطة بواسطة الأندروجينات. تؤدي إزالة التستوستيرون إلى جعل شعر الجسم أرق وأفتح لونًا. لكن العوامل الوراثية تلعب دورًا رئيسيًا في هذا.
 
-### Changes in Body Temperature Placement
+### تغيرات في توزيع حرارة الجسم
 
-Androgens encourage extra blood flow to extremities, making them warmer. Because of this, women tend to have warmer core temperatures but lower oral and surface level temperatures. You may see your basal body temperature drop to around 97.6°F (36.4°C).
+تُشجّع الأندروجينات على تدفق دم إضافي إلى الأطراف، ما يجعلها أكثر دفئًا. لهذا السبب، تميل النساء إلى امتلاك درجات حرارة أساسية أعلى لكن درجات حرارة فموية وسطحية أقل. قد ترين انخفاض درجة حرارة جسمك الأساسية إلى نحو 36.4 درجة مئوية (97.6 فهرنهايت).
 
-This, unfortunately, results in a reduced tolerance to cold, so expect to need to layer clothing more frequently, especially since many buildings [set their thermostats for male comfort levels](https://www.popsci.com/study-finds-gender-bias-office-air-conditioning/).
+للأسف، ينتج عن هذا انخفاض في تحمل البرد، لذا توقعي حاجتك لارتداء طبقات من الملابس بشكل أكثر تكرارًا، خصوصًا أن كثيرًا من المباني [تضبط منظمات الحرارة فيها وفقًا لمستويات راحة الرجال](https://www.popsci.com/study-finds-garder-bias-office-air-conditioning/).
 
-### Changes in Perspiration Patterns
+### تغيرات في أنماط التعرق
 
-With the above shift in temperature distribution, this also results in a significant change in how one sweats. Sweat becomes more of a full body experience, as opposed to being largely centered on the head and armpits. Underboob sweat becomes a thing.
+مع التحول المذكور أعلاه في توزيع الحرارة، ينتج عن ذلك أيضًا تغير كبير في طريقة التعرق. يصبح التعرق تجربة تشمل الجسم كله أكثر، بدلًا من كونه مركّزًا في الغالب على الرأس والإبطين. يصبح التعرق تحت الثدي أمرًا واقعًا.
 
-### Reduction and/or Change of Body Odor
+### انخفاض و/أو تغيّر رائحة الجسم
 
-A major component in male body odor is the presence of [the steroid pheromone androstadienone](https://www.sciencedaily.com/releases/2007/09/070916143523.htm) in sweat. Androstadienone is metabolized directly from testosterone, so halting testosterone removes the source. Without it, sweat takes on a much sweeter smell, which is often attributed to feminine odors.
+أحد المكونات الرئيسية لرائحة جسم الرجل هو وجود [الفيرومون الستيرويدي أندروستادينون](https://www.sciarcedaily.com/releases/2007/09/070916143523.htm) في العرق. يُستقلَب الأندروستادينون مباشرة من التستوستيرون، لذا فإن إيقاف التستوستيرون يزيل مصدره. وبدونه، تكتسب رائحة العرق طابعًا أكثر حلاوة، وهو ما يُنسب غالبًا إلى الروائح الأنثوية.
 
-People taking spironolactone may experience a total cessation of any body odor due to the way the drug alters cortisol uptake within the body.
+قد يختبر متناولو دواء سبيرونولاكتون توقفًا تامًا لرائحة الجسم، بسبب الطريقة التي يغيّر بها هذا الدواء امتصاص الكورتيزول داخل الجسم.
 
-### Reduced Muscle Mass
+### انخفاض الكتلة العضلية
 
-Androgens stimulate muscle growth, which is why anabolic steroids (which are literally testosterone) are so common amongst bodybuilders. People running on androgens naturally have more muscle mass, particularly in the upper body, without even having to work out. Removing androgens causes that muscle mass to atrophy and makes it harder to gain muscle. This is a major contributor to the feminine shoulder and neck line, as well as the waist line.
+تُحفّز الأندروجينات نمو العضلات، وهذا سبب شيوع الستيرويدات البنائية (وهي حرفيًا تستوستيرون) بين كمال الأجسام. يمتلك الأشخاص الذين تعمل أجسامهم بالأندروجينات كتلة عضلية أكبر بشكل طبيعي، خصوصًا في الجزء العلوي من الجسم، حتى دون ممارسة الرياضة. تؤدي إزالة الأندروجينات إلى ضمور تلك الكتلة العضلية وتجعل اكتساب العضلات أصعب. هذا عامل رئيسي في تشكّل خط الكتف والرقبة الأنثوي، وكذلك خط الخصر.
 
-With this comes a significant loss in strength. Carrying things becomes more difficult, pickle jars become harder to open.
+ويأتي مع هذا فقدان كبير في القوة. يصبح حمل الأشياء أصعب، ويصبح فتح برطمانات المخلل أصعب.
 
-### Fat Redistribution into Feminine Proportions
+### إعادة توزيع الدهون نحو نسب أنثوية
 
-Androgens encourage the body to deposit fats into the abdomen, while estrogen encourages the body to deposit fats into the thighs, buttocks, and hips. Switching profiles causes new fats to be deposited according to the estrogen profile, and fats that were stored while on androgens break down. This produces the illusion of fat migration as the shape of the body changes. The waistline shrinks and defines itself below the ribs, and the belly becomes softer and flatter.
+تُشجّع الأندروجينات الجسم على تخزين الدهون في البطن، بينما يشجع الإستروجين الجسم على تخزينها في الفخذين والأرداف والوركين. يؤدي تبديل الهرمونات إلى تخزين دهون جديدة وفقًا للنمط الإستروجيني، بينما تتحلل الدهون المخزَّنة أثناء العمل بالأندروجينات. ينتج عن هذا وهم هجرة الدهون مع تغيّر شكل الجسم. يتقلص الخصر ويتحدد شكله أسفل الأضلاع، ويصبح البطن أنعم وأكثر استواءً.
 
-Because estrogen deposits weight much lower on the body, and the muscle mass in the upper body is lost, this lowers the center of gravity, which alters one's walking gait. It becomes more natural to cantilever the body with the hips while walking, as opposed to the shoulders.
+ولأن الإستروجين يخزّن الوزن في مناطق أدنى بكثير من الجسم، ولأن الكتلة العضلية في الجزء العلوي تُفقد، ينخفض مركز الثقل، ما يغيّر طريقة المشي. يصبح من الطبيعي أكثر أن يتأرجح الجسم بالوركين أثناء المشي، بدلًا من الأكتاف.
 
-### Facial Feature Changes
+### تغيرات ملامح الوجه
 
-Along with body fat migration, fat in the face also migrates. The neck, chin, and jawline thin out while the lips and upper cheeks puff up. The brow and upper eyelids lift, exposing more of the eyeball. Changes in skin and musculature around the eye can alter the shape of the eyeball, changing focal depth and altering vision clarity. The color of the eyes may also change and become bolder, as testosterone causes the pigmentation in the iris to fade.
+إلى جانب هجرة دهون الجسم، تهاجر الدهون في الوجه أيضًا. يصبح الرقبة والذقن وخط الفك أنحف، بينما تنتفخ الشفتان وأعلى الخدين. يرتفع الحاجب والجفن العلوي، ما يكشف عن مزيد من مقلة العين. يمكن أن تغيّر التغيرات في الجلد والعضلات المحيطة بالعين شكل مقلة العين، ما يغيّر عمق التركيز ووضوح الرؤية. قد يتغير لون العينين أيضًا ويصبح أكثر جرأة، لأن التستوستيرون يسبب تلاشي الصبغة في القزحية.
 
-This is an extremely subtle and slow moving process that takes years, and it is easy to think nothing is changing at all. Take selfies to compare.
+هذه عملية بطيئة ودقيقة للغاية تستغرق سنوات، ومن السهل أن تظني أن لا شيء يتغير على الإطلاق. التقطي صورًا شخصية للمقارنة.
 
-### Changes to Scalp Hair
+### تغيرات شعر فروة الرأس
 
-With the removal of androgens, blood flow to the scalp increases. Follicles that had been lost to male pattern baldness may reactivate, causing some return of the hairline and a filling-in of bald spots. Scalp hair becomes thicker and follicles grow stronger, allowing hair to grow to longer lengths.
+مع إزالة الأندروجينات، يزداد تدفق الدم إلى فروة الرأس. قد تعود البصيلات التي فُقدت بسبب الصلع الذكوري النمطي إلى النشاط، ما يسبب بعض عودة خط الشعر وامتلاء المناطق الصلعاء. يصبح شعر فروة الرأس أكثر سماكة وتنمو البصيلات بقوة أكبر، ما يسمح للشعر بالنمو لأطوال أكبر.
 
-With this thickening, curliness may become more pronounced, and a change in hair color may also occur. You might find your hair taking on a texture more like your mother's than your father's.
+مع هذه السماكة، قد تصبح التموجات أكثر وضوحًا، وقد يحدث أيضًا تغيّر في لون الشعر. قد تجدين شعرك يكتسب ملمسًا أشبه بشعر والدتك أكثر من والدك.
 
-### [Anterior Pelvic Tilt](http://en.wikipedia.org/wiki/Pelvic_tilt)
+### [الإمالة الحوضية الأمامية](http://ar.wikipedia.org/wiki/Pelvic_tilt)
 
-As musculature atrophies, ligament flexibility increases, and weight shifts lower on the body, the orientation of the pelvic bone in relation to the spine and femurs rotates forward — not by much (only about 10-20 degrees), but enough to cause a change in the alignment of the spine and hips, increasing the arch of the back and causing the buttocks to jut out more. The added arch to the back can cause a relative drop in total height, between 1 and 2 inches (2-5 cm) depending on pelvic shape.
+مع ضمور العضلات، وزيادة مرونة الأربطة، وانتقال الوزن إلى أسفل الجسم، يدور اتجاه عظم الحوض بالنسبة للعمود الفقري وعظمتي الفخذ إلى الأمام — ليس بكثير (فقط نحو 10-20 درجة)، لكن بما يكفي لإحداث تغير في محاذاة العمود الفقري والوركين، ما يزيد من تقوّس الظهر ويجعل الأرداف تبرز أكثر. يمكن أن يسبب هذا التقوّس الإضافي في الظهر انخفاضًا نسبيًا في الطول الكلي، يتراوح بين 2.5 و5 سم، حسب شكل الحوض.
 
-Note: this is NOT the same as the hip rotation that occurs in AFAB puberty and during pregnancy. That is the result of migration of bone cells, altering the shape of the pelvic bone itself. **However**, hip rotation *can* occur if the person is young enough to still be within initial puberty, where the body is producing elevated human growth hormone. There have also been examples of hip rotation happening over long periods of time in trans elders. In 2017 an 80 year old trans woman reported on reddit that over the course of her 30 years on HRT, her doctor observed changes in her pelvis consistent with female hip rotation.
+ملاحظة: هذا ليس نفسه دوران الورك الذي يحدث في بلوغ المصنَّفين إناثًا عند الولادة وأثناء الحمل. فذلك ناتج عن هجرة خلايا العظام، ما يغيّر شكل عظم الحوض نفسه. **لكن**، *يمكن* أن يحدث دوران الورك إذا كان الشخص صغيرًا بما يكفي ليكون لا يزال في بداية البلوغ، حيث ينتج الجسم مستويات مرتفعة من هرمون النمو البشري. كما وردت أمثلة على حدوث دوران الورك على مدى فترات طويلة لدى كبار السن من العابرات. في عام 2017، أبلغت امرأة عابرة تبلغ من العمر 80 عامًا على موقع رِدِت أنه خلال 30 عامًا من العلاج الهرموني، لاحظ طبيبها تغيرات في حوضها تتوافق مع دوران الورك الأنثوي.
 
-### Reduced Tolerance of Caffeine, Alcohol, and/or Psychotropics
+### انخفاض تحمّل الكافيين والكحول و/أو المؤثرات النفسية
 
-Less body mass means less blood to dilute chemicals into. Losing testosterone also means a slower metabolic rate, decreasing the speed at which toxins are reduced from the bloodstream. Some anti-androgens also put strain on the liver, further reducing how quickly chemicals are processed.
+الكتلة الجسدية الأقل تعني دمًا أقل لتخفيف المواد الكيميائية فيه. كما أن فقدان التستوستيرون يعني معدل أيض أبطأ، ما يقلل من سرعة إزالة السموم من مجرى الدم. كما تضع بعض مضادات الأندروجين ضغطًا على الكبد، ما يقلل أكثر من سرعة معالجة المواد الكيميائية.
 
-### Mental Changes
+### تغيرات ذهنية
 
-As covered in the Biochemical Dysphoria section, brains can be wired for a certain hormone profile, and running on the wrong profile is like using a laptop with low batteries or an overheated processor. Starting HRT almost universally results in a cessation of depersonalization and derealization (DPDR) symptoms within the first two weeks. A mental fog lifts, and it becomes easier to concentrate on complex concepts (assuming you don't also have other mental processing difficulties such as ADHD).
+كما ورد في قسم الاضطراب الكيميائي الحيوي، يمكن أن تكون الأدمغة مُهيَّأة لنمط هرموني معين، والعمل بنمط خاطئ أشبه باستخدام حاسوب محمول ببطارية منخفضة أو معالج ساخن زائدًا. يؤدي بدء العلاج الهرموني في الغالبية العظمى من الحالات إلى توقف أعراض تبدد الشخصية وتبدد الواقع (DPDR) خلال أول أسبوعين. تنقشع الضبابية الذهنية، ويصبح التركيز على المفاهيم المعقدة أسهل (بافتراض أنك لا تعاني أيضًا من صعوبات معالجة ذهنية أخرى مثل اضطراب فرط الحركة ونقص الانتباه).
 
-##### ADHD
+##### اضطراب فرط الحركة ونقص الانتباه
 
-If you have ADHD, there may be some changes in your symptoms. Androgens amplify [dopamine](https://en.wikipedia.org/wiki/Dopamine) receptor function, so reducing testosterone can reduce the activation potential for dopamine in the brain. Dopamine is a key neurotransmitter in the behavior of [working memory](https://en.wikipedia.org/wiki/Working_memory), the short-term memory of the brain. Less working memory means you become more prone to distractions and have more difficulty maintaining [cognitive load](https://en.wikipedia.org/wiki/Cognitive_load).
+إذا كنت تعانين من اضطراب فرط الحركة ونقص الانتباه، فقد تطرأ بعض التغيرات على أعراضك. تُضخّم الأندروجينات وظيفة مستقبلات [الدوبامين](https://ar.wikipedia.org/wiki/Dopamine)، لذا فإن تقليل التستوستيرون يمكن أن يقلل من إمكانية تنشيط الدوبامين في الدماغ. والدوبامين ناقل عصبي رئيسي في سلوك [الذاكرة العاملة](https://ar.wikipedia.org/wiki/Working_memory)، وهي الذاكرة قصيرة المدى للدماغ. تعني الذاكرة العاملة الأقل أنك تصبحين أكثر عرضة للتشتت وتواجهين صعوبة أكبر في الحفاظ على [الحمل المعرفي](https://ar.wikipedia.org/wiki/Cognitive_load).
 
-The good news is that estradiol prompts the brain to produce MORE dopamine.
+الخبر السار هو أن الإستراديول يحفز الدماغ على إنتاج كمية **أكبر** من الدوبامين.
 
-{!{ <div class="gutter flex" style="justify-content: flex-end"><div class="card"><div class="card-body"><h4 class="card-title">Authors Note:</h4> }!}
+{!{ <div class="gutter flex" style="justify-contart: flex-ard"><div class="card"><div class="card-body"><h4 class="card-title">ملاحظة الكاتبة:</h4> }!}
 
-There is a known problem with spironolactone hampering working memory due to its effects on mineralocorticoids. This can significantly worsen ADHD issues and make it much harder to maintain focus or be aware of your surroundings. I was involved in a car accident in 2017 that I blame on spiro fog.
+هناك مشكلة معروفة تتمثل في أن سبيرونولاكتون يعيق الذاكرة العاملة بسبب تأثيراته على القشرانيات المعدنية. يمكن أن يؤدي هذا إلى تفاقم مشكلات اضطراب فرط الحركة ونقص الانتباه بشكل كبير، ويجعل الحفاظ على التركيز أو الوعي بالمحيط أصعب بكثير. تعرضتُ لحادث سيارة في عام 2017 أُرجعه إلى ضبابية السبيرو (spiro fog).
 
 {!{ </div></div></div> }!}
 
-##### Emotional Expansion
+##### التوسع العاطفي
 
-The alleviation of DPDR almost universally is accompanied with a much broader capacity for emotion and expression. The stoicism and dissociation lifts and emotions land with much greater intensity. Highs are higher and lows are lower. Those who may have been unable to cry before transition gain it back, both for sadness and for joy.
+يترافق تخفيف أعراض تبدد الشخصية وتبدد الواقع في الغالبية العظمى من الحالات مع قدرة أوسع بكثير على الشعور والتعبير. تنقشع اللامبالاة والانفصال وتصل المشاعر بكثافة أكبر بكثير. تصبح القمم أعلى والقيعان أدنى. أولئك الذين ربما لم يستطيعوا البكاء قبل الانتقال يستعيدون تلك القدرة، سواء للحزن أو للفرح.
 
-Unfortunately, this also means that, if you had trauma from events earlier in life (and who doesn't), you may start to experience PTSD episodes. This is why it is good (and, in some places, required) to have a therapist.
+للأسف، هذا يعني أيضًا أنه إذا كانت لديك صدمات من أحداث سابقة في حياتك (ومن منا ليس لديه؟)، فقد تبدئين في اختبار نوبات من اضطراب ما بعد الصدمة. لهذا من الجيد (وفي بعض الأماكن، مطلوب) أن يكون لديك معالج نفسي.
 
-##### Mood Swings
+##### تقلبات المزاج
 
-As estrogen levels fluctuate between doses, you may experience noticeable and sometimes dramatic shifts in your mood. Unexplained crying happens; PMS rage happens; be ready for it.
+مع تذبذب مستويات الإستروجين بين الجرعات، قد تختبرين تحولات ملحوظة وأحيانًا كبيرة في مزاجك. يحدث البكاء غير المُبرَّر؛ ويحدث غضب ما قبل الحيض؛ فكوني مستعدة لذلك.
 
-##### Appetite
+##### الشهية
 
-Many people report being unable to eat as much as they could pre-transition. The loss of lean muscle in the arms and shoulders means that the body has a reduced capacity for burning lipids, and as such the fullness sensation occurs earlier.
+يُبلغ كثير من الأشخاص عن عدم القدرة على تناول كمية الطعام نفسها التي كانوا يتناولونها قبل الانتقال. فقدان العضلات النحيلة في الذراعين والكتفين يعني أن الجسم لديه قدرة أقل على حرق الدهون، وبالتالي يحدث الشعور بالشبع مبكرًا.
 
-However, progesterone increases mitochondrial function within the body, boosting metabolic rate. This can cause an increase in appetite as the body attempts to replenish calories burned.
+لكن البروجستيرون يزيد من وظيفة الميتوكوندريا داخل الجسم، ما يعزز معدل الأيض. يمكن أن يسبب هذا زيادة في الشهية بينما يحاول الجسم تعويض السعرات الحرارية المحروقة.
 
-That said, you may find yourself unable to eat *as much* food as you could before. Many report that they become full/satisfied sooner than before.
+ومع ذلك، قد تجدين نفسك غير قادرة على تناول *نفس كمية* الطعام التي اعتدتِ عليها. يبلغ كثيرون أنهم يشعرون بالشبع/الاكتفاء أسرع من ذي قبل.
 
-##### Sleep
+##### النوم
 
-Many people report having better sleep patterns after starting HRT. This is likely a factor of the alleviation of DPDR, as it seems to occur in both AMAB and AFAB trans people. That said, initiating progesterone can *significantly* improve sleep, allowing for deeper sleep and more dreaming.
+يُبلغ كثير من الأشخاص عن أنماط نوم أفضل بعد بدء العلاج الهرموني. من المرجح أن هذا عامل ناتج عن تخفيف أعراض تبدد الشخصية وتبدد الواقع، إذ يبدو أنه يحدث لدى العابرين المصنَّفين ذكورًا وإناثًا عند الولادة على حد سواء. ومع ذلك، يمكن أن يُحسّن بدء البروجستيرون النوم *بشكل كبير*، مما يسمح بنوم أعمق وأحلام أكثر.
 
-##### Extroversion
+##### الانبساطية
 
-It's extremely common for trans people of all types to find themselves much more sociable post-transition. This may not actually be a factor of hormone therapy, however, and may simply be a result of no longer having to suppress large portions of their personality.
+من الشائع جدًا أن يجد العابرون/ات من جميع الأنواع أنفسهم أكثر اجتماعية بكثير بعد الانتقال. لكن هذا قد لا يكون فعليًا نتيجة للعلاج الهرموني، وقد يكون ببساطة نتيجة لعدم الاضطرار بعد الآن إلى كبت أجزاء كبيرة من شخصيتهم.
 
-### Sensory Enhancements
+### تعزيزات حسية
 
-Transgender HRT has [been shown several times](https://academic.oup.com/cercor/article/28/5/1582/3064956) to cause changes in the distribution of gray matter and white matter within the brain for trans people on both forms of HRT. New structures and neuro-pathways are formed as a result of the shift in hormone profiles, and this results in changes of sensory perception. These are some of the changes that have been observed and reported, but it is not clear if this is a function of the hormones themselves, or a factor of the brain receiving the hormones it is wired for.
+أظهرت الدراسات [عدة مرات](https://academic.oup.com/cercor/article/28/5/1582/3064956) أن العلاج الهرموني لدى المتحولين/ات يسبب تغيرات في توزيع المادة الرمادية والمادة البيضاء داخل الدماغ لدى العابرين/ات على كلا نوعي العلاج الهرموني. تتشكل بنى ومسارات عصبية جديدة نتيجة تحول الأنماط الهرمونية، وينتج عن ذلك تغيرات في الإدراك الحسي. هذه بعض التغيرات التي لوحظت وأُبلغ عنها، لكن ليس من الواضح ما إذا كان هذا ناتجًا عن الهرمونات نفسها، أو عن كون الدماغ يتلقى الهرمونات التي هو مُهيَّأ لها أصلًا.
 
-- **Improved sense of smell**, especially of other bodies. Human sweat becomes very discernible — even overpowering at times.
-- **Improved color perception**. Colors may become bolder, richer.
-- **Improved spatial awareness**. Many trans people experience poor proprioception and a tendency towards clumsiness that goes away after starting HRT.
-- **Changes in perception of taste**. Certain foods become more or less palatable; cilantro, for example, may become more or less soapy. Increased tolerance of capsaicin (spicy peppers). Chocolate and wine become more flavorful.
+- **تحسّن حاسة الشم**، خصوصًا لأجساد الآخرين. يصبح عرق الإنسان مميَّزًا جدًا للإدراك — بل طاغيًا أحيانًا.
+- **تحسّن إدراك الألوان**. قد تصبح الألوان أكثر جرأة وغنى.
+- **تحسّن الوعي المكاني**. يعاني كثير من العابرين/ات من ضعف في الإحساس الذاتي بوضعية الجسم وميل للخرق، وهو ما يزول بعد بدء العلاج الهرموني.
+- **تغيرات في إدراك الطعم**. تصبح بعض الأطعمة أكثر أو أقل استساغة؛ فالكزبرة مثلًا قد تصبح أكثر أو أقل شبهًا بطعم الصابون. زيادة تحمل الكابسيسين (الفلفل الحار). يصبح الشوكولاتة والنبيذ أكثر نكهة.
 
-Users of spironolactone often develop strong cravings for foods high in salt, such as pickles, olives, or potato products. This is because spiro is a potassium-sparing diuretic which causes you to pee out all your sodium. The brain creates cravings to encourage you to replace that sodium.
+غالبًا ما يطوّر متناولو سبيرونولاكتون رغبة شديدة في الأطعمة الغنية بالملح، مثل المخلل والزيتون ومنتجات البطاطا. وذلك لأن السبيرو مدرّ بول موفِّر للبوتاسيوم، ما يجعلك تتبولين كل الصوديوم في جسمك. يخلق الدماغ رغبات شديدة لتشجيعك على تعويض ذلك الصوديوم.
 
-### Spatial Shift, Reduced Confidence
+### التحول المكاني، وانخفاض الثقة
 
-There is a very frequently reported experience of feeling smaller within the world, even when wearing heels. People taller than you seem to tower over you, and spaces feel larger.
+هناك تجربة يُبلَّغ عنها بشكل متكرر جدًا وهي الشعور بأنك أصغر في العالم، حتى عند ارتداء الكعب العالي. يبدو الأشخاص الأطول منك وكأنهم يعلونك، وتبدو المساحات أكبر.
 
-People have also reported a tendency to be less prone to start arguments, as well as a desire to avoid confrontation rather than create it. Testosterone has been shown to increase a person's sense of confidence, and removing it has the opposite effect.
+كما أبلغ بعض الأشخاص عن ميل أقل لبدء المشاجرات، وكذلك رغبة في تجنب المواجهة بدلًا من خلقها. أظهرت الدراسات أن التستوستيرون يزيد من إحساس الشخص بالثقة، وأن إزالته له التأثير المعاكس.
 
 
-### Genital Changes
+### تغيرات الأعضاء التناسلية
 
 {!{
 <div class="gutter flex">
@@ -180,90 +180,90 @@ People have also reported a tendency to be less prone to start arguments, as wel
 </div>
 }!}
 
-All genitalia are constructed from the same tissues; they are merely organized differently during gestation. Much of the behavior of these tissues is regulated by the hormones one's body runs on. Skin secretions, textures, sensitivity and erectile behavior are all hormonal expressions, which means that when you remove androgens and add estrogens, these tissues start acting like they are in the shape of a vulva, even though they aren't.
+تتكون جميع الأعضاء التناسلية من الأنسجة نفسها؛ وهي فقط منظَّمة بشكل مختلف أثناء فترة الحمل. يُنظَّم الكثير من سلوك هذه الأنسجة بواسطة الهرمونات التي يعمل بها جسم الشخص. إفرازات الجلد، وملمسه، وحساسيته، وسلوكه الانتصابي، كلها تعبيرات هرمونية، ما يعني أنه عندما تزيلين الأندروجينات وتضيفين الإستروجينات، تبدأ هذه الأنسجة بالتصرف وكأنها بشكل الفرج، رغم أنها ليست كذلك.
 
-##### Increased Sensitivity
+##### زيادة الحساسية
 
-The skin on the glans and shaft becomes much thinner and fragile, more prone to tearing and irritation, while also becoming *significantly* more sensitive to touch. The entire organ also becomes much more sensitive to pressure, and vibration becomes a better form of stimulation over stroking, which may become painful.
+يصبح جلد الحشفة والجذع أرق وأكثر هشاشة بكثير، وأكثر عرضة للتمزق والتهيج، بينما يصبح أيضًا أكثر حساسية *بشكل ملحوظ* للمس. يصبح العضو بأكمله أيضًا أكثر حساسية للضغط بكثير، ويصبح الاهتزاز شكلًا أفضل من التحفيز مقارنة بالفرك، الذي قد يصبح مؤلمًا.
 
-#### Moisture and Feminine Odor
+#### الرطوبة والرائحة الأنثوية
 
-The skin along the shaft begins to secrete the same fluids as the vaginal canal, particularly during arousal (yes, trans girls get wet). These fluids encourage the development of the same microbiome that develops within the vaginal canal. The combination of these factors means that odor (and taste) of the penis changes to align more to that of a vulva. 
+يبدأ الجلد على طول الجذع في إفراز السوائل نفسها التي تفرزها القناة المهبلية، خصوصًا أثناء الإثارة (نعم، الفتيات العابرات يصبحن مبتلات). تشجع هذه السوائل على تطور الميكروبيوم نفسه الذي يتطور داخل القناة المهبلية. مجموع هذه العوامل يعني أن رائحة (ومذاق) القضيب يتغيران ليصبحا أقرب إلى رائحة ومذاق الفرج.
 
-##### Color and Texture Changes
+##### تغيرات اللون والملمس
 
-The scrotum is an analog of the outer and inner labia, and takes on a softer, more velvety texture, extending down into the perineum. The skin along the perineal raphe (the vertical line where the vulva opening had been before the scrotum formed) will also darken. Some people experience a kind of striping pattern along the scrotum.
+كيس الصفن هو نظير للشفرين الخارجي والداخلي، ويكتسب ملمسًا أنعم وأشبه بالمخمل، يمتد نزولًا إلى العجان. كما يزداد اسمرار الجلد على طول الرفاء العجاني (الخط العمودي حيث كانت فتحة الفرج موجودة قبل تشكّل كيس الصفن). يختبر بعض الأشخاص نوعًا من نمط التخطيط على طول كيس الصفن.
 
-##### Fewer Erections
+##### انتصاب أقل تكرارًا
 
-Without free-floating testosterone, the levels of [DHT](https://en.wikipedia.org/wiki/Dihydrotestosterone) in the bloodstream drop significantly. DHT plays a major role in the stimulation of random erections during sleep through the enlargement of the prostate, and these erections are what is responsible for the maintenance of the erectile tissue. Without DHT, the prostate shrinks again, and random erections cease (no more morning wood).
+بدون تستوستيرون حر في الدم، تنخفض مستويات [الديهيدروتستوستيرون (DHT)](https://ar.wikipedia.org/wiki/Dihydrotestosterone) في مجرى الدم بشكل كبير. يلعب هذا الهرمون دورًا رئيسيًا في تحفيز الانتصابات العشوائية أثناء النوم من خلال تضخم البروستاتا، وهذه الانتصابات هي المسؤولة عن الحفاظ على الأنسجة الانتصابية. بدون هذا الهرمون، تتقلص البروستاتا مجددًا، وتتوقف الانتصابات العشوائية (لا مزيد من انتصاب الصباح).
 
-However, this means that the erectile tissue will begin to atrophy. Prolonged atrophy will result in shrinkage of the entire organ, for better or worse. The shape of the penis changes as this occurs, often becoming more conical. The glans is the first part to shrink and may lose the ability to become rigid. Penetrative sex may become more difficult, and erections themselves may become painful.
+لكن هذا يعني أن الأنسجة الانتصابية ستبدأ في الضمور. سيؤدي الضمور المطوَّل إلى تقلص العضو بأكمله، سواء للأفضل أو للأسوأ. يتغير شكل القضيب مع حدوث ذلك، وغالبًا ما يصبح أكثر تخروطًا. الحشفة هي أول جزء يتقلص وقد تفقد القدرة على التصلب. قد يصبح الجماع الإيلاجي أصعب، وقد تصبح الانتصابات نفسها مؤلمة.
 
-This can be countered by regularly inducing erections, but that may become more and more difficult as time goes on.
+يمكن مواجهة هذا من خلال إحداث الانتصاب بانتظام، لكن ذلك قد يصبح أصعب وأصعب مع مرور الوقت.
 
-##### Clear Ejaculate
+##### سائل منوي صافٍ
 
-The majority of the liquid that makes up ejaculate originates in the prostate. It is a completely clear fluid, with a slimy texture. The white color and stickiness that is usually attributed to male ejaculate is caused by semen and seminal fluid from the testicles. The production of both semen and seminal fluid is a product of testicle function, so as the testicles shut down (either because of anti-androgens or from estrogen dominance), these fluids halt, leaving only the prostate fluid.
+تنشأ معظم السوائل التي تشكل القذف من البروستاتا. وهو سائل صافٍ تمامًا، ذو ملمس لزج. اللون الأبيض واللزوجة التي تُنسب عادة إلى القذف الذكوري ينتجان عن المني والسائل المنوي من الخصيتين. إنتاج كل من المني والسائل المنوي هو نتيجة لوظيفة الخصيتين، لذا فمع توقف الخصيتين عن العمل (إما بسبب مضادات الأندروجين أو بسبب هيمنة الإستروجين)، تتوقف هذه السوائل، تاركة فقط سائل البروستاتا.
 
-Some people lose even that, and stop having any emissions at all during orgasm.
+يفقد بعض الأشخاص حتى ذلك، ويتوقفون عن إفراز أي شيء إطلاقًا أثناء النشوة الجنسية.
 
-Needless to say, this comes with sterility. Contrary to what some sources report, this is NOT permanent, and many people have been able to restore testicle functionality by halting hormone therapy, either for detransition or for reproductive purposes.
+وغني عن القول إن هذا يترافق مع العقم. وخلافًا لما تذكره بعض المصادر، هذا الأمر **ليس** دائمًا، وقد تمكن كثير من الأشخاص من استعادة وظيفة الخصيتين من خلال إيقاف العلاج الهرموني، سواء للتراجع عن الانتقال أو لأغراض الإنجاب.
 
-##### Testicle Atrophy
+##### ضمور الخصيتين
 
-Once the testes have stopped functioning, the cells start to atrophy, shrinking over time. This atrophy may be accompanied with pain, sometimes in the form of a soreness or a dull throbbing sensation, or sometimes as registering as little sparks of pain that travel along the perineal nerve from the testicles down to the rectum.
+بمجرد أن تتوقف الخصيتان عن العمل، تبدأ الخلايا في الضمور، وتتقلص مع مرور الوقت. قد يترافق هذا الضمور مع ألم، أحيانًا في صورة وجع أو إحساس خفقان خفيف، أو أحيانًا كومضات ألم صغيرة تنتقل على طول العصب العجاني من الخصيتين نزولًا إلى المستقيم.
 
-### Sexual Changes
+### تغيرات جنسية
 
-Initial start of HRT may result in a total loss of sex drive as testosterone levels plummet. This can last 3-12 months, and, in some cases, doesn't return at all. Starting progesterone often serves as a catalyst for its return. If/when sex drive comes back, the new libido [may be a completely different experience](https://curvyandtrans.com/p/5BF1EA/libatious-libidos) that one may not recognize at first.
+قد يؤدي بدء العلاج الهرموني في البداية إلى فقدان تام للرغبة الجنسية مع انخفاض مستويات التستوستيرون بشكل حاد. يمكن أن يستمر هذا من 3 إلى 12 شهرًا، وفي بعض الحالات لا يعود إطلاقًا. غالبًا ما يكون بدء البروجستيرون حافزًا لعودتها. وإذا/عندما تعود الرغبة الجنسية، فقد تكون الرغبة الجديدة [تجربة مختلفة تمامًا](https://curvyandtrans.com/p/5BF1EA/libatious-libidos) قد لا يتعرف عليها الشخص للوهلة الأولى.
 
-##### Heightened Erogenous Zones
+##### مناطق إثارة جنسية أكثر حساسية
 
 {!{
 <div class="gutter flex">
-  <div class="card"><div class="card-body"><h4 class="card-title">Human Erogenous Zones:</h4>
+  <div class="card"><div class="card-body"><h4 class="card-title">مناطق الإثارة الجنسية البشرية:</h4>
 {{import '~/img'
-  images.erogenous
-  link='https://www.researchgate.net/publication/301509880_Topography_of_Human_Erogenous_Zones#pf19'
-  caption='Source: <a href=\"https://link.springer.com/article/10.1007/s10508-016-0745-z\">Topography of Human Erogenous Zones</a>'
+  images.erogarous
+  link='https://www.researchgate.net/publication/301509880_Topography_of_Human_Erogarous_Zones#pf19'
+  caption='المصدر: <a href=\"https://link.springer.com/article/10.1007/s10508-016-0745-z\">توبوغرافيا مناطق الإثارة الجنسية البشرية</a>'
 }}
   </div></div>
 </div>
 }!}
 
-The entire body becomes more responsive to touch, and with that unlocks stronger erogenous zones. Breasts, abdomen, inner thighs, and neck, in particular, become more arousal-inducing.
+يصبح الجسم بأكمله أكثر استجابة للمس، ويفتح ذلك مناطق إثارة أقوى. يصبح الثديان والبطن والفخذان الداخليان والرقبة، بشكل خاص، أكثر إثارة للشهوة.
 
-##### Orgasm
+##### النشوة الجنسية
 
-Orgasm changes significantly, both in the way it builds and how it is experienced (see link above), but additionally, if one is lucky, they will gain the ability to become multi-orgasmic with no refractory period. The cost of this is that orgasm may become harder to achieve, and one has to re-learn how to reach it. It also becomes easier to reach with a partner, which may have been the opposite before.
+تتغير النشوة الجنسية بشكل كبير، سواء في طريقة تصاعدها أو كيفية اختبارها (انظر الرابط أعلاه)، لكن بالإضافة إلى ذلك، إذا حالفك الحظ، فستكتسبين القدرة على تحقيق نشوات متعددة دون فترة راحة بينها. ثمن ذلك هو أن النشوة قد تصبح أصعب تحقيقًا، ويجب على الشخص أن يتعلم من جديد كيفية الوصول إليها. كما يصبح تحقيقها مع شريك أسهل، وهو ما ربما كان العكس سابقًا.
 
-##### Attraction
+##### الانجذاب
 
-It is [not at all unheard of](https://www.them.us/story/sexual-attraction-after-transition) for a transgender person to experience a change in their sexual orientation with transition. This is almost always the result of the removal of self-imposed mental barriers, but hormone therapy often plays a role *in* that removal. In most cases this simply involves an expansion of ones attraction, from monosexual to bi/pansexual, but some people also discover that their attraction was largely rooted in self-interest and that their true attraction is reversed.
+ليس من غير المألوف [على الإطلاق](https://www.them.us/story/sexual-attraction-after-transition) أن يختبر شخص عابر تغيرًا في ميله الجنسي مع الانتقال. يكون هذا غالبًا نتيجة لإزالة الحواجز الذهنية ذاتية الفرض، لكن العلاج الهرموني غالبًا ما يلعب دورًا *في* تلك الإزالة. في معظم الحالات، يتضمن هذا ببساطة توسعًا في الانجذاب، من أحادي الميل إلى ثنائي أو شامل الميل الجنسي، لكن بعض الأشخاص يكتشفون أيضًا أن انجذابهم كان متجذرًا إلى حد كبير في مصلحة ذاتية وأن انجذابهم الحقيقي معكوس.
 
-### Cyclical Period-like Symptoms
+### أعراض دورية شبيهة بالحيض
 
-Obviously, we do not mean blood flow; that would be ludicrous. Symptoms vary greatly (just as they do in cisgender women) and typically last for 2-4 days, repeating every 26-32 days (though some report experiencing it every two weeks). This happens independent of medication dosing schedules. The use of a period tracker app like Clue can reveal the pattern.
+من الواضح أننا لا نعني تدفق الدم؛ فذلك سيكون سخيفًا. تتفاوت الأعراض بشكل كبير (تمامًا كما تتفاوت لدى النساء غير العابرات) وتستمر عادة من 2 إلى 4 أيام، وتتكرر كل 26-32 يومًا (رغم أن البعض يبلغ عن اختبارها كل أسبوعين). يحدث هذا بغض النظر عن جداول جرعات الأدوية. يمكن أن يكشف استخدام تطبيق لتتبع الدورة مثل Clue عن هذا النمط.
 
-- Cramping in the intestine and abdominal muscles, ranging from a slight flutter in the gut to strong painful spasms.
-- Bloating and water retention
-- Gas, diarrhea and other intestinal issues.
-- Emotional instability, mood swings and irrational thoughts
-  - Heightened depression and dysmorphia
-  - Depersonalization or dissociation.
-  - Increased dysphoria
-  - Irritability (PMS)
-- Muscle and joint aches and pains
-- Breast engorgement and nipple tenderness
-- Acne
-- Fatigue
-- Appetite changes and spontaneous cravings (see: chocolate cravings)
-- Spontaneous shifts in libido
-- Changes in genital odor
+- تقلصات في الأمعاء وعضلات البطن، تتراوح من رفرفة خفيفة في الأمعاء إلى تشنجات مؤلمة قوية.
+- الانتفاخ واحتباس الماء
+- الغازات، والإسهال، ومشكلات معوية أخرى.
+- عدم استقرار عاطفي، وتقلبات مزاجية، وأفكار غير منطقية
+  - اكتئاب وتشوه في صورة الجسد بشكل مضاعف
+  - تبدد الشخصية أو الانفصال.
+  - زيادة الاضطراب الجندري
+  - التهيج (متلازمة ما قبل الحيض)
+- آلام ووجع في العضلات والمفاصل
+- احتقان الثدي وحساسية الحلمة
+- حب الشباب
+- الإرهاق
+- تغيرات في الشهية ورغبات مفاجئة (انظر: الرغبة الشديدة في الشوكولاتة)
+- تحولات مفاجئة في الرغبة الجنسية
+- تغيرات في رائحة الأعضاء التناسلية
 
-No, there have not yet been studies on this yet, but it is reported by far, **far** too many individuals to be an anomaly (including by yours truly), and has been confirmed by multiple people's own doctors. There is also precedent of this happening with cisgender women who have had hysterectomies (I personally know two cisgender women who have cycles but do not menstruate, without any medical intervention).
+لا، لم تُجرَ دراسات على هذا بعد، لكنه يُبلَّغ عنه من قبل عدد كبير جدًا، **كبير جدًا** من الأفراد بحيث لا يمكن اعتباره شذوذًا (بما في ذلك من كاتبة هذا المقال شخصيًا)، وقد أكده أطباء عدة أشخاص بأنفسهم. كما يوجد سابقة لحدوث هذا لدى نساء غير عابرات خضعن لاستئصال الرحم (أعرف شخصيًا امرأتين غير عابرتين لديهما دورات لكنهما لا تحيضان، دون أي تدخل طبي).
 
-Running on estrogen and progesterone activates a gene sequence which instructs the hypothalamus to attempt to cycle ovary and uterine behavior just as it does in female-assigned individuals, regardless of the absence of ovaries or a uterus. This cycle affects numerous organs and subsystems in the body, causing the release of a variety of different hormones and enzymes that can affect function and even behavior.
+يُنشِّط العمل بالإستروجين والبروجستيرون سلسلة جينية توجّه منطقة تحت المهاد لمحاولة تدوير سلوك المبيض والرحم تمامًا كما تفعل لدى الأفراد المصنَّفين إناثًا، بغض النظر عن غياب المبايض أو الرحم. تؤثر هذه الدورة في أعضاء وأنظمة فرعية عديدة في الجسم، ما يسبب إفراز مجموعة متنوعة من الهرمونات والإنزيمات المختلفة التي يمكن أن تؤثر في الوظيفة بل وحتى في السلوك.
 
-A more thorough explanation of this will be coming in a later update to the site.
+سيصدر شرح أكثر تفصيلًا لهذا في تحديث لاحق للموقع.
