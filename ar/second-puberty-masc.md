@@ -1,18 +1,17 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Androgenic Second Puberty 101"
-linkTitle: Androgenic Puberty
-description: "What to expect from masculinizing HRT"
-lang: en
+title: "البلوغ الثاني الأندروجيني 101"
+linkTitle: البلوغ الأندروجيني
+description: "ماذا تتوقع من العلاج الهرموني المُذكِّر"
+lang: ar
 preBody: '_disclaimer'
 siblings:
-  prev: /en/hormones
-  prevCaption: How Hormones Work
-  next: /en/second-puberty-fem
-  nextCaption: Estrogenic Second Puberty
+  prev: /ar/hormones
+  prevCaption: كيف تعمل الهرمونات
+  next: /ar/second-puberty-fem
+  nextCaption: البلوغ الثاني الإستروجيني
 classes:
   - gdb
-
 tweets:
   - '1374054574579798016'
   - '1374039857773875201'
@@ -27,140 +26,140 @@ tweets:
   - '1431244926214356993'
 ---
 
-# Androgenic Second Puberty 101
+# البلوغ الثاني الأندروجيني 101
 
-## What To Expect from Masculinizing HRT
+## ماذا تتوقع من العلاج الهرموني المُذكِّر
 
-This is a compilation of reported medical transition changes collected from testimonials of AFAB trans people taking testosterone hormone therapy. This information is gathered from social media and chat rooms. Yes, that means this is all anecdotal, but historically, most of transgender medical study is anecdotal because no one wants to fund transgender medical research.
+هذا تجميع للتغيرات المُبلَّغ عنها أثناء التحول الطبي، مأخوذ من شهادات أشخاص متحولين وُلدوا بجهاز تناسلي أنثوي (AFAB) يتلقون العلاج الهرموني بالتستوستيرون. جُمعت هذه المعلومات من وسائل التواصل الاجتماعي وغرف الدردشة. نعم، هذا يعني أن كل ما هنا قصصي غير موثّق علميًا بشكل صارم، لكن تاريخيًا، معظم الدراسات الطبية المتعلقة بالمتحولين جنسيًا كانت قصصية لأن لا أحد يريد تمويل الأبحاث الطبية الخاصة بالمتحولين.
 
-**Note that this is a list of _possible_ changes. There is no guarantee that every person on masculinizing HRT will experience all of these. Your age, genetics, medical history, degree of feminization from natal puberty, and hormone regimen can all have impacts on results. There is also just a degree of randomness — every body is different — and some things can take years to appear.**
+**لاحظ أن هذه قائمة بتغيرات محتملة. لا يوجد ضمان بأن كل شخص يتلقى العلاج الهرموني المُذكِّر سيختبر كل هذه التغيرات. عمرك، جيناتك، تاريخك الطبي، درجة التأنيث الناتجة عن البلوغ الطبيعي، ونظام العلاج الهرموني، كلها عوامل تؤثر في النتائج. وهناك أيضًا درجة من العشوائية — فكل جسم مختلف — وبعض التغيرات قد تستغرق سنوات لتظهر.**
 
-### Voice Drop
+### انخفاض الصوت
 
-Androgens cause the tissue that comprises the vocal cords to thicken and harden, permanently lowering the pitch of the voice. This is not a very fast change, but rather incremental over the first few years. Some people do not experience any voice change at all, it varies person to person. The change will not be drastic; if you are a soprano, you are not going to become a bass, but it could bring you down to a contralto or tenor.
+تتسبب الأندروجينات في سماكة وتصلّب الأنسجة المكوّنة للحبال الصوتية، مما يخفض نبرة الصوت بشكل دائم. هذا التغيّر ليس سريعًا، بل يحدث تدريجيًا على مدى السنوات القليلة الأولى. بعض الأشخاص لا يختبرون أي تغيّر في الصوت على الإطلاق، فالأمر يختلف من شخص لآخر. لن يكون التغيّر جذريًا؛ فإذا كنت تمتلك صوت سوبرانو، لن تصبح صوت باص، لكن قد ينخفض صوتك إلى كونترالتو أو تينور.
 
-This does *not* mean that your voice will automatically become read as male. Pitch is only a piece of how people gender voice, and the way you speak plays a much larger role. Vocal training will be needed to amplify resonance and change speaking style.
+هذا لا يعني أن صوتك سيُصنَّف تلقائيًا كصوت ذكوري. فنبرة الصوت ليست سوى جزء واحد من كيفية إدراك الناس لجندر الصوت، وطريقة كلامك تلعب دورًا أكبر بكثير. ستحتاج إلى تدريب صوتي لتعزيز الرنين وتغيير أسلوب الكلام.
 
-### Changes in Body Temperature Placement
+### تغيرات في توزيع حرارة الجسم
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1374039857773875201'
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
-Androgens encourage extra blood flow to the extremities, making them warmer. Because of this, men have cooler cores but warmer oral and surface level temperatures. You may see your basal body temperature increase. The net result is that you will *feel* warmer, and likely will not be able to layer clothing as much as previously possible. If you live in cold climates, exposing your calves can help to dissipate heat without chilling you too severely.
+تشجّع الأندروجينات على زيادة تدفق الدم إلى الأطراف، مما يجعلها أكثر دفئًا. لهذا السبب، يمتلك الرجال لبًّا أبرد وحرارة سطحية وفموية أدفأ. قد تلاحظ ارتفاع درجة حرارة جسمك الأساسية. النتيجة النهائية هي أنك ستشعر بدفء أكبر، وقد لا تستطيع ارتداء طبقات ملابس بقدر ما كنت تفعل سابقًا. إذا كنت تعيش في مناخات باردة، فإن كشف ربلتي الساق يمكن أن يساعد على تبديد الحرارة دون أن تشعر ببرد شديد.
 
-This change often comes fairly early on; expect night sweats while your system gets used to it.
+غالبًا ما يحدث هذا التغيّر مبكرًا نسبيًا؛ توقّع تعرّقًا ليليًا ريثما يعتاد جسمك على التغيير.
 
-### Changes in Perspiration
+### تغيرات في التعرّق
 
-With the above shift in temperature distribution, this also results in a significant change in how one sweats. Sweat will pool on the head, back and armpits. You'll also likely sweat more often, so keep water handy.
+مع التحول المذكور أعلاه في توزيع الحرارة، يحدث أيضًا تغيّر كبير في طريقة التعرّق. سيتجمع العرق في الرأس والظهر والإبطين. كما ستتعرّق على الأرجح بشكل أكثر تكرارًا، فاحرص على إبقاء الماء في متناول يدك.
 
-### Body Odor
+### رائحة الجسم
 
-Often one of the first things to change: sweat and general body odor will become much stronger, especially during exercise. The smell will take on a sour, muskier smell. Tends to even out over time.
+غالبًا ما تكون من أوائل الأشياء التي تتغير: ستصبح رائحة العرق ورائحة الجسم بشكل عام أقوى بكثير، خصوصًا أثناء ممارسة الرياضة. ستأخذ الرائحة طابعًا حامضًا وأكثر مسكية. تميل إلى الاعتدال مع مرور الوقت.
 
-### Body Hair, Everywhere
+### شعر الجسم في كل مكان
 
-Androgens significantly increase the presence of body hair on the legs, groin, buttocks, chest, back, and arms. Hair will grow in thicker, longer, and darker. This will likely happen well before facial hair growth, which can take over a year to start. Rogaine/minoxidil can help with that, but be careful, as it is poisonous if ingested (especially to cats).
+تزيد الأندروجينات بشكل ملحوظ من وجود شعر الجسم على الساقين والعانة والأرداف والصدر والظهر والذراعين. سينمو الشعر أكثر سمكًا وطولًا وقتامة. من المرجح أن يحدث هذا قبل نمو شعر الوجه بوقت طويل، والذي قد يستغرق أكثر من عام ليبدأ. يمكن أن يساعد الروجين/مينوكسيديل في ذلك، لكن كن حذرًا، فهو سام إذا ابتُلع (خصوصًا بالنسبة للقطط).
 
-### Male Pattern Baldness
+### الصلع الوراثي الذكوري
 
-MPB is caused by [dihydrotestosterone](https://en.wikipedia.org/wiki/Dihydrotestosterone) (DHT), an androgen which metabolizes from Testosterone. Having more T in your body means more DHT can form, and the gene that contributes to MPB causes the hair follicles on the scalp to receive less blood, choking them out until the follicles die. There will likely be *some* loss of hair line eventually, no matter what, but if there is a history of baldness among the men in your family, then you can expect to see that as well. Again, minoxidil can help with this.
+الصلع الوراثي الذكوري (MPB) ناتج عن [ثنائي هيدروتستوستيرون](https://ar.wikipedia.org/wiki/%D8%AB%D9%86%D8%A7%D8%A6%D9%8A_%D9%87%D9%8A%D8%AF%D8%B1%D9%88%D8%AA%D8%B3%D8%AA%D9%88%D8%AA%D9%8A%D8%B1%D9%88%D9%86) (DHT)، وهو أندروجين يتحول استقلابيًا من التستوستيرون. زيادة التستوستيرون في جسمك تعني إمكانية تكوّن المزيد من DHT، والجين المسؤول عن الصلع الوراثي الذكوري يتسبب في تقليل تدفق الدم إلى بصيلات شعر فروة الرأس، مما يخنقها حتى تموت البصيلات. من المرجح أن يحدث بعض فقدان لخط الشعر في نهاية المطاف، بغض النظر عن أي شيء آخر، لكن إذا كان هناك تاريخ من الصلع بين الرجال في عائلتك، فيمكنك توقع حدوث ذلك أيضًا. مرة أخرى، يمكن أن يساعد المينوكسيديل في هذا.
 
-The synthetic androgen [nandrolone](https://en.wikipedia.org/wiki/Nandrolone) does not metabolize into DHT and may be a viable alternative in place of direct testosterone if hair loss is a concern. However, DHT is important for genital growth, so this is a double-edged sword.
+الأندروجين الاصطناعي [نانْدرولون](https://ar.wikipedia.org/wiki/%D9%86%D8%A7%D9%86%D8%B6%D8%B1%D9%88%D9%84%D9%88%D9%86) لا يتحول استقلابيًا إلى DHT وقد يكون بديلاً قابلاً للتطبيق بدلاً من التستوستيرون المباشر إذا كان تساقط الشعر مصدر قلق. ومع ذلك، فإن DHT مهم لنمو الأعضاء التناسلية، لذا فهذا سلاح ذو حدين.
 
-### Thicker and Oilier Skin
+### بشرة أكثر سماكة ودهنية
 
-Testosterone promotes the thickening and toughening of the epidermis, causing skin to become coarser. As estrogen levels fall, the body will produce less collagen. This causes the skin to become tougher and drier (especially in the knees and elbows). Veins on the hands, arms, and legs may become more pronounced, but not varicose.
+يعزز التستوستيرون سماكة وتصلّب البشرة، مما يجعلها أكثر خشونة. مع انخفاض مستويات الإستروجين، سينتج الجسم كمية أقل من الكولاجين. هذا يجعل البشرة أكثر صلابة وجفافًا (خصوصًا في الركبتين والمرفقين). قد تصبح الأوردة في اليدين والذراعين والساقين أكثر بروزًا، لكن دون أن تصبح دوالي.
 
-Expect your face and scalp to become oilier. Acne is likely to be a problem, and not just on the face. This tends to be worst immediately after dosing. This will generally improve after the first few years.
+توقّع أن يصبح وجهك وفروة رأسك أكثر دهنية. من المرجح أن يصبح حب الشباب مشكلة، وليس فقط على الوجه. يميل هذا إلى أن يكون في أسوأ حالاته مباشرة بعد الجرعة. سيتحسن هذا عمومًا بعد السنوات القليلة الأولى.
 
-### Larger Hands / Feet
+### يدان / قدمان أكبر
 
-Over long periods of time (3-5 years) the hands may become tougher and more calloused. You may need to increase your ring size eventually.
+على مدى فترات طويلة (3-5 سنوات) قد تصبح اليدان أكثر صلابة وتشققًا. قد تحتاج إلى زيادة مقاس خاتمك في نهاية المطاف.
 
-Testosterone also causes ligaments and tendons to retain more water, altering their flexibility. Over time this can result in an increase in foot size as the arch of the foot lowers.
+يتسبب التستوستيرون أيضًا في احتفاظ الأربطة والأوتار بمزيد من الماء، مما يغيّر مرونتها. بمرور الوقت يمكن أن يؤدي هذا إلى زيادة في حجم القدم مع انخفاض قوس القدم.
 
-### Thicker and Stronger Nails
+### أظافر أكثر سماكة وقوة
 
-Both fingernails and toenails will grow thicker over time as keratin levels rise due to the presence of androgens.
+سينمو كل من أظافر اليدين والقدمين بشكل أكثر سماكة بمرور الوقت مع ارتفاع مستويات الكيراتين بسبب وجود الأندروجينات.
 
-### Increased Muscle Mass
+### زيادة الكتلة العضلية
 
-Androgens stimulate muscle growth, which is why anabolic steroids (which are literally testosterone) are so common amongst bodybuilders. The body will naturally gain more muscle without even having to exercise, but *with* exercise there can be substantial gains, particularly in the arms and shoulders. Beware; you won't know your own strength at first.
+تحفّز الأندروجينات نمو العضلات، وهو سبب شيوع المنشطات الابتنائية (وهي في الأساس تستوستيرون) بين كمال الأجسام. سيكتسب الجسم بشكل طبيعي المزيد من العضلات حتى دون ممارسة الرياضة، لكن مع التمرين يمكن أن تكون هناك مكاسب كبيرة، خصوصًا في الذراعين والكتفين. احذر؛ لن تعرف قوتك الحقيقية في البداية.
 
-Added lean muscle in the upper body redefines the shoulder and neck line, creating a more masculine silhouette. It also improves the body's ability to process lipids, making weight loss easier.
+العضلات الخالية من الدهون المضافة في الجزء العلوي من الجسم تعيد تشكيل خط الكتف والرقبة، مما يخلق مظهرًا أكثر ذكورية. كما تحسّن قدرة الجسم على معالجة الدهون، مما يجعل فقدان الوزن أسهل.
 
-### Fat Redistribution
+### إعادة توزيع الدهون
 
-Where estrogen encourages the body to deposit fats into the thighs, buttocks, and hips, androgens encourage the body to deposit fats largely into the abdomen. Starting testosterone will encourage your body to follow the androgen pattern, so you can expect new weight to deposit into your belly, while weight loss will take away from all over. Fat in the breasts, thighs and buttocks will slowly shift away as muscle builds, but this may take a long time.
+بينما يشجّع الإستروجين الجسم على تخزين الدهون في الفخذين والأرداف والوركين، تشجّع الأندروجينات الجسم على تخزين الدهون بشكل أكبر في البطن. سيؤدي بدء التستوستيرون إلى تشجيع جسمك على اتباع نمط الأندروجين، لذا يمكنك توقع أن يترسب الوزن الجديد في بطنك، بينما سيأخذ فقدان الوزن من كل مكان. ستنتقل الدهون في الثديين والفخذين والأرداف ببطء بعيدًا مع بناء العضلات، لكن هذا قد يستغرق وقتًا طويلاً.
 
-### Facial Feature Changes
+### تغيرات ملامح الوجه
 
-Along with body fat migration, fat in the face also moves. The neck, chin and jawline will fill out while the lips and upper cheeks shrink. The color of the eyes may also change and become fainter in the long term, as testosterone causes the pigmentation in the iris to fade.
+جنبًا إلى جنب مع هجرة دهون الجسم، تتحرك أيضًا الدهون في الوجه. ستمتلئ الرقبة والذقن وخط الفك بينما تنكمش الشفتان وأعلى الخدين. قد يتغير أيضًا لون العينين ويصبح أكثر بهتانًا على المدى الطويل، حيث يتسبب التستوستيرون في تلاشي التصبغ في القزحية.
 
-This is an extremely subtle and slow moving process that takes years, and it is easy to think nothing is changing at all. The greatest shifts seem to happen in years 3 and 4. Take selfies to compare.
+هذه عملية بطيئة للغاية وخفية تستغرق سنوات، ومن السهل الاعتقاد بأنه لا يتغير شيء على الإطلاق. يبدو أن أكبر التحولات تحدث في السنتين الثالثة والرابعة. التقط صورًا شخصية للمقارنة.
 
-### Increased Tolerance of Caffeine, Alcohol, and/or Psychotropics
+### زيادة تحمّل الكافيين والكحول و/أو الأدوية النفسية
 
-More mass means more blood to dilute chemicals into. Increasing testosterone also means a higher metabolic rate, increasing the speed at which toxins are removed from the bloodstream.
+كتلة أكبر تعني دمًا أكثر لتخفيف المواد الكيميائية فيه. زيادة التستوستيرون تعني أيضًا معدل أيض أعلى، مما يزيد من سرعة إزالة السموم من مجرى الدم.
 
-### Mental Changes
+### التغيرات النفسية
 
-As covered in the Biochemical Dysphoria section, brains can be wired for a certain hormone profile, and running on the wrong profile is like using a laptop with low batteries or an overheated processor. Starting HRT almost universally results in a cessation of depersonalization and derealization (DPDR) symptoms within the first two weeks. A mental fog lifts, and it becomes easier to concentrate on complex concepts (assuming you don't also have other mental processing difficulties such as ADHD).
+كما ورد في قسم خلل النفور الكيميائي الحيوي، يمكن للأدمغة أن تكون مُهيَّأة لتوليفة هرمونية معينة، والعمل بتوليفة خاطئة أشبه باستخدام حاسوب محمول ببطارية منخفضة أو معالج ساخن جدًا. يؤدي بدء العلاج الهرموني في الغالب إلى توقف أعراض تبدد الشخصية وتبدد الواقع (DPDR) خلال الأسبوعين الأولين. تنقشع ضبابية ذهنية، ويصبح من الأسهل التركيز على المفاهيم المعقدة (بافتراض عدم وجود صعوبات معالجة ذهنية أخرى مثل اضطراب فرط الحركة ونقص الانتباه).
 
-##### ADHD
+##### اضطراب فرط الحركة ونقص الانتباه (ADHD)
 
-If you have ADHD, there may be some changes in your symptoms. Androgens amplify [dopamine](https://en.wikipedia.org/wiki/Dopamine) receptor function, so increasing testosterone can improve the activation potential for dopamine in the brain. Dopamine is a key neurotransmitter in the behavior of [working memory](https://en.wikipedia.org/wiki/Working_memory), the short-term memory of the brain. More working memory means you may become less prone to distractions and have an easier time maintaining [cognitive load](https://en.wikipedia.org/wiki/Cognitive_load).
+إذا كنت تعاني من اضطراب فرط الحركة ونقص الانتباه، فقد تحدث بعض التغيرات في أعراضك. تعزز الأندروجينات وظيفة مستقبلات [الدوبامين](https://ar.wikipedia.org/wiki/%D8%AF%D9%88%D8%A8%D8%A7%D9%85%D9%8A%D9%86)، لذا فإن زيادة التستوستيرون يمكن أن تحسّن إمكانية تنشيط الدوبامين في الدماغ. الدوبامين ناقل عصبي رئيسي في سلوك [الذاكرة العاملة](https://ar.wikipedia.org/wiki/%D8%B0%D8%A7%D9%83%D8%B1%D8%A9_%D8%B9%D8%A7%D9%85%D9%84%D8%A9)، وهي الذاكرة قصيرة المدى للدماغ. المزيد من الذاكرة العاملة يعني أنك قد تصبح أقل عرضة للتشتت وتجد سهولة أكبر في الحفاظ على [الحمل المعرفي](https://ar.wikipedia.org/wiki/%D8%AD%D9%85%D9%84_%D9%85%D8%B9%D8%B1%D9%81%D9%8A).
 
-*However*, estradiol encourages the production of dopamine, so as estrogen levels fall there will be less dopamine for the brain to work with. Your symptoms worsen, not improve.
+لكن، الإستراديول يعزز إنتاج الدوبامين، لذا مع انخفاض مستويات الإستروجين سيكون هناك دوبامين أقل ليعمل عليه الدماغ. أعراضك تتفاقم، لا تتحسن.
 
-##### Emotional Expansion
+##### التوسّع العاطفي
 
-The alleviation of DPDR almost universally is accompanied with a much broader capacity for emotion and emotional regulation. Emotions become somewhat more controllable and suppressible, less likely to overwhelm on the spot. *Please note: suppressing emotions is a very quick way to develop trauma.*
+يترافق تخفيف أعراض تبدد الشخصية/تبدد الواقع في الغالب مع قدرة أوسع بكثير على التعبير العاطفي وتنظيمه. تصبح المشاعر أكثر قابلية للتحكم والكبت، وأقل عرضة للطغيان الفوري. ملاحظة: كبت المشاعر طريقة سريعة جدًا لتطوير صدمة نفسية.
 
-However, the ability to express them may become reduced. Some people lose the ability to cry after starting on testosterone, but this is *not* a universal experience and may be tied into how strong your T dose is. The reasons behind this aren't well known, although some studies have found that androgens alter function in parts of the brain connected to emotional processing. If you do lose the ability to cry, it may return in time as your brain becomes more acclimated and you come out of second puberty. Therapy may also help provide you with techniques to cry in a healthy manner.
+مع ذلك، قد تقل القدرة على التعبير عنها. يفقد بعض الأشخاص القدرة على البكاء بعد بدء التستوستيرون، لكن هذه ليست تجربة عامة وقد ترتبط بقوة جرعة التستوستيرون. الأسباب الكامنة وراء ذلك غير معروفة جيدًا، رغم أن بعض الدراسات وجدت أن الأندروجينات تغيّر الوظيفة في أجزاء من الدماغ مرتبطة بالمعالجة العاطفية. إذا فقدت القدرة على البكاء، فقد تعود بمرور الوقت مع اعتياد دماغك أكثر وخروجك من البلوغ الثاني. يمكن أن يساعدك العلاج النفسي أيضًا على اكتساب تقنيات للبكاء بطريقة صحية.
 
 {!{ <div class="gutter flex" style="justify-content: flex-end">{{import '~/tweet' ids=[
   '1374060995778318347'
   '1374070062236246022'
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
-Emotional deregulation occurs the most commonly before and immediately after dosing (injections or gel) and results in reduced patience and increased aggression.
+يحدث خلل التنظيم العاطفي بشكل أكثر شيوعًا قبل الجرعة ومباشرة بعدها (الحقن أو الجل) ويؤدي إلى انخفاض الصبر وزيادة العدوانية.
 
-##### Increased Appetite / Eating Capacity
+##### زيادة الشهية / القدرة على الأكل
 
-You are going to be hungry. Testosterone cranks the body's metabolism up significantly, and increased muscle mass means there is more to feed, so you will burn calories faster.
+ستشعر بالجوع. يرفع التستوستيرون معدل أيض الجسم بشكل كبير، وزيادة الكتلة العضلية تعني وجود المزيد لإطعامه، لذا ستحرق السعرات الحرارية بشكل أسرع.
 
-##### Sleep
+##### النوم
 
-Some people report problems with insomnia and having fewer memorable dreams. This is far from universal, however; others feel sleepier and sleep more.
+يبلّغ بعض الأشخاص عن مشاكل في الأرق وأحلام أقل تُذكر. هذا بعيد كل البعد عن كونه عامًا، فآخرون يشعرون بنعاس أكبر وينامون أكثر.
 
 {!{ <div class="gutter flex" style="justify-content: flex-end">{{import '~/tweet' ids=[
   '1374076480985128970'
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
-##### Confidence
+##### الثقة بالنفس
 
-Testosterone is known to induce a strong sense of self-confidence in people. Problems seem less significant, self-esteem is stronger, fewer anxieties. Many people report a tendency to be more prone to spark arguments, and more willing to speak out in the face of conflict and self advocate. This does *not* mean more hostile or argumentative, but simply that one's tolerance for bullshit is lower.
+يُعرف عن التستوستيرون أنه يحفّز إحساسًا قويًا بالثقة بالنفس. تبدو المشاكل أقل أهمية، وتقدير الذات أقوى، والقلق أقل. يبلّغ الكثيرون عن ميل أكبر لإثارة الجدالات، واستعداد أكبر للتحدث في وجه الخلاف والدفاع عن النفس. هذا لا يعني بالضرورة عدوانية أكبر أو ميلًا للجدال، بل ببساطة أن تحمّل المرء للهراء أصبح أقل.
 
-##### Extroversion
+##### الانبساطية
 
-It's extremely common for trans people of all types to find themselves much more sociable post-transition. This may simply be a result of no longer having to suppress large portions of their personality, but the aforementioned confidence also plays a role.
+من الشائع جدًا أن يجد المتحولون جنسيًا من جميع الأنواع أنفسهم أكثر اجتماعية بعد التحول. قد يكون هذا ببساطة نتيجة لعدم الحاجة بعد الآن لكبت أجزاء كبيرة من شخصيتهم، لكن الثقة المذكورة أعلاه تلعب دورًا أيضًا.
 
-### Genital Changes
+### تغيرات الأعضاء التناسلية
 
 {!{
 <div class="gutter flex flex-center">
 {{import '~/img' images.homology link='https://www.vielma.at/' }}
 </div>
-}!}
+}! }
 
-All genitalia are constructed from the same tissues; they are merely organized differently during gestation. Much of the behavior of these tissues is regulated by the hormones one's body runs on. Skin secretions, textures, sensitivity and erectile behavior are all hormonal expressions. Which means that when you add androgens, these tissues start acting like they are in the shape of a penis and scrotum, even when they aren't.
+جميع الأعضاء التناسلية مبنية من نفس الأنسجة؛ فهي ببساطة مُنظَّمة بشكل مختلف أثناء الحمل. الكثير من سلوك هذه الأنسجة يُنظَّم بواسطة الهرمونات التي يعمل بها جسم الشخص. الإفرازات الجلدية والقوام والحساسية والسلوك الانتصابي كلها تعبيرات هرمونية. مما يعني أنه عند إضافة الأندروجينات، تبدأ هذه الأنسجة بالتصرف كما لو كانت على شكل قضيب وكيس صفن، حتى لو لم تكن كذلك.
 
-##### Bottom Growth
+##### نمو الجزء السفلي (Bottom Growth)
 
-DHT (mentioned above) plays a critical role in the development of the erectile tissue within the genitals. As DHT levels rise with the increase in testosterone, this will cause the Skene's gland (sometimes referred to as the female prostate) to swell. This will induce random erections within the clitoris, causing the erectile tissue to grow. The amount of growth varies from person to person, but 1-3 inches is common.
+يلعب DHT (المذكور أعلاه) دورًا حاسمًا في تطور الأنسجة الانتصابية داخل الأعضاء التناسلية. مع ارتفاع مستويات DHT بزيادة التستوستيرون، سيتسبب هذا في تورم غدة سكين (يُشار إليها أحيانًا بالبروستاتا الأنثوية). سيؤدي هذا إلى انتصابات عشوائية داخل البظر، مما يتسبب في نمو الأنسجة الانتصابية. تختلف كمية النمو من شخص لآخر، لكن 1-3 إنش أمر شائع.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1374094470753423360'
@@ -171,58 +170,58 @@ DHT (mentioned above) plays a critical role in the development of the erectile t
   '1431244926214356993'
 ] tweets=meta.tweets className="grid-row" }} }!}
 
-##### Decreased Lubrication
+##### انخفاض الترطيب
 
-The clitoral hood and labia will become drier and thicker over time, and the inner labia may also start to grow hair. Self lubrication may reduce substantially, and over time penetration may become painful. Use more lube to avoid tearing and bleeding.
+سيصبح غطاء البظر والشفرين أكثر جفافًا وسماكة بمرور الوقت، وقد تبدأ الشفرتان الداخليتان أيضًا في نمو الشعر. قد ينخفض الترطيب الذاتي بشكل كبير، ومع الوقت قد يصبح الإيلاج مؤلمًا. استخدم المزيد من المزلّق لتجنب التمزق والنزيف.
 
-You can also ask your gynecological provider or primary care doctor about vaginal estrogen. The levels of estrogen used in these products are so low, [there's no risk of interference with the effects of testosterone](https://www.sfaf.org/collections/beta/qa-gynecologic-and-vaginal-care-for-trans-men/).
+يمكنك أيضًا سؤال طبيب أمراض النساء أو طبيب الرعاية الأولية عن الإستروجين المهبلي. مستويات الإستروجين المستخدمة في هذه المنتجات منخفضة جدًا لدرجة عدم وجود خطر للتداخل مع تأثيرات التستوستيرون.
 
-##### Increased Emissions During Climax
+##### زيادة الإفرازات أثناء النشوة
 
-With the swelling of the prostate comes more prostate fluid. If you weren't a squirter before, you may become one now.
+مع تورم البروستاتا يأتي المزيد من سائل البروستاتا. إذا لم تكن ممن يقذفون بغزارة سابقًا، فقد تصبح كذلك الآن.
 
-##### Changes in Sensitivity and Response
+##### تغيرات في الحساسية والاستجابة
 
-Erogenous stimulation may become more focused on the head of the clitoris and in stroking of the shaft. Friction in general may become more pleasurable as opposed to vibration. Some people report greater sensitivity during vaginal penetration due to the thinner skin.
+قد يصبح التحفيز المثير أكثر تركيزًا على رأس البظر وفي تدليك الجذع. قد يصبح الاحتكاك بشكل عام أكثر متعة مقارنة بالاهتزاز. يبلّغ البعض عن حساسية أكبر أثناء الإيلاج المهبلي بسبب رقة الجلد.
 
-##### Atrophy
+##### الضمور
 
-Vaginal and uterine atrophy often happens within the first five years, and a hysterectomy may become necessary. Signs of atrophy include a deep throbbing in the lower abdomen and painful cramping without other period symptoms, particularly following intercourse. Vaginal atrophy can be avoided through vaginal estrogen, as well as the use of the same vaginal dilators that AMAB trans people use following vaginoplasty.
+غالبًا ما يحدث ضمور المهبل والرحم خلال السنوات الخمس الأولى، وقد يصبح استئصال الرحم ضروريًا. تشمل علامات الضمور خفقانًا عميقًا في أسفل البطن وتشنجات مؤلمة دون أعراض دورة شهرية أخرى، خصوصًا بعد الجماع. يمكن تجنّب ضمور المهبل عبر الإستروجين المهبلي، بالإضافة إلى استخدام نفس موسِّعات المهبل التي يستخدمها المتحولون المولودون بجهاز تناسلي ذكري (AMAB) بعد جراحة المهبل.
 
-##### Changes to Pap Test
+##### تغيرات في مسحة عنق الرحم
 
-Your internal genitals may develop small amounts of benign prostate tissue, which can range from a couple cells to a "well-developed" gland. The clinical term is [androgen-associated prostatic metaplasia](https://genderanalysis.net/2020/10/trans-men-and-transmasculine-people-on-testosterone-can-grow-prostate-tissue/). These prostate cells may be misinterpreted as the lesions created by HPV if found on a Pap test, but unlike HPV, the cells in prostatic metaplasia look medically normal and don't appear to be a cancer risk. If necessary, a biopsy can clearly tell them apart.
+قد تطوّر أعضاؤك التناسلية الداخلية كميات صغيرة من نسيج بروستاتا حميد، يتراوح من بضع خلايا إلى غدة "متطورة جيدًا". المصطلح السريري هو الحؤول البروستاتي المرتبط بالأندروجين. قد يُساء تفسير خلايا البروستاتا هذه على أنها الآفات الناتجة عن فيروس الورم الحليمي البشري (HPV) إذا وُجدت في مسحة عنق الرحم، لكن على عكس HPV، تبدو الخلايا في الحؤول البروستاتي طبيعية طبيًا ولا يبدو أنها تشكل خطر إصابة بالسرطان. عند الضرورة، يمكن لخزعة أن تميز بينهما بوضوح.
 
-Decreased lubrication and atrophy, as discussed above, may also make it physically more difficult to perform the Pap test. The provider may have to exert more force to collect an adequate sample. Your provider can use a smaller speculum to reduce the pain of the procedure. Some providers may allow you to swab your own cervix, but this is not guaranteed.
+انخفاض الترطيب والضمور، كما نوقش أعلاه، قد يجعلان أيضًا من الصعب جسديًا إجراء مسحة عنق الرحم. قد يحتاج مقدم الرعاية إلى بذل قوة أكبر لجمع عينة كافية. يمكن لمقدم الرعاية استخدام منظار مهبلي أصغر لتقليل ألم الإجراء. قد يسمح لك بعض مقدمي الرعاية بأخذ مسحة عنق رحمك بنفسك، لكن هذا غير مضمون.
 
-##### Increased Sex Drive
+##### زيادة الرغبة الجنسية
 
 {!{ <div class="gutter flex flex-end">{{import '~/tweet' ids=[
   '1374040823382347778'
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
-Libido will almost certainly go through the roof for the first year or two, with the strongest effects immediately following dosing. You may find yourself more assertive during sex and more prone to being dominant and/or a top.
+ستزداد الرغبة الجنسية بشكل شبه مؤكد بقوة خلال السنة أو السنتين الأوليين، مع أقوى التأثيرات مباشرة بعد الجرعة. قد تجد نفسك أكثر حزمًا أثناء الجنس وأكثر ميلًا للهيمنة و/أو أن تكون "توب".
 
-##### Orgasm
+##### النشوة الجنسية
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1374053191445270534'
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
-The "shape" of one's orgasm can change. Rather than a cascade, it strikes like an explosion from the groin.
+قد يتغير "شكل" نشوة الشخص. فبدلاً من أن تكون كموجة متتالية، تنفجر كانفجار من منطقة العانة.
 
-##### Attraction
+##### الانجذاب
 
-Testosterone has been shown to increase arousal from visual stimuli. As such, you may *notice* people of your sexual preference much quicker, especially if you are gynephilic (attracted to the feminine shape).
+أظهر التستوستيرون زيادة الإثارة الناتجة عن المحفزات البصرية. لذا، قد تلاحظ الأشخاص من ميولك الجنسية بشكل أسرع، خصوصًا إذا كنت منجذبًا للأنوثة (منجذبًا للشكل الأنثوي).
 
-### Cessation of Menstruation
+### توقف الدورة الشهرية
 
-The increase of androgens within the body causes the hypothalamus to down-regulate production of the hormones which control the ovaries. This will reduce total estrogen available, and may halt ovulation. Without ovulation and with lower FSH levels, the uterus will be less inclined to build up and release a lining, causing the cessation of blood flow.
+تتسبب زيادة الأندروجينات في الجسم في قيام تحت المهاد بخفض إنتاج الهرمونات التي تتحكم في المبيضين. سيؤدي هذا إلى تقليل إجمالي الإستروجين المتاح، وقد يوقف الإباضة. بدون إباضة ومع انخفاض مستويات هرمون FSH، سيكون الرحم أقل ميلًا لبناء بطانة وإفرازها، مما يتسبب في توقف تدفق الدم.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1374054574579798016'
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
-You may still experience other period symptoms, however, as the hypothalamus can continue to express other aspects of the monthly cycle. This can even continue following a total hysterectomy, although it is not common.
+قد تستمر في تجربة أعراض دورة شهرية أخرى، مع ذلك، حيث يمكن لتحت المهاد الاستمرار في التعبير عن جوانب أخرى من الدورة الشهرية. يمكن أن يستمر هذا حتى بعد استئصال الرحم الكامل، رغم أن ذلك ليس شائعًا.
 
-**This does *not* mean that you are infertile, however.** Ovulation can still occur even if you are not menstruating. Additionally, halting testosterone will make the old orbs wake up; they do not die.
+**هذا لا يعني أنك عقيم، مع ذلك.** يمكن أن تحدث الإباضة حتى لو لم تكن تحيض. بالإضافة إلى ذلك، إيقاف التستوستيرون سيوقظ "الكرات القديمة" النائمة؛ فهي لا تموت.
