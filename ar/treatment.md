@@ -1,131 +1,131 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Treating Gender Dysphoria"
-description: "Transition is the cure."
-lang: en
+title: "علاج اضطراب الهوية الاجتماعية"
+description: "التحول هو العلاج."
+lang: ar
 preBody: '_disclaimer'
 siblings:
-  prev: /en/diagnoses
-  prevCaption: Clinical Diagnoses
-  next: /en/causes
-  nextCaption: Causes of Gender Dysphoria
+  prev: /ar/diagnoses
+  prevCaption: التشخيصات السريرية
+  next: /ar/causes
+  nextCaption: أسباب اضطراب الهوية الجنسية
 classes:
   - gdb
 ---
 
-# How is Gender Dysphoria Treated?
+# كيف يتم علاج اضطراب الهوية الجنسية؟
 
-Treatment options vary significantly depending on the individual person's needs. Every single transition is unique, and there is no one way to transition. This section is a list of possible pathways.
+تختلف خيارات العلاج اختلافاً كبيراً حسب احتياجات كل فرد؛ فكل عملية تحوّل فريدة من نوعها، ولا توجد طريقة واحدة محددة لإتمامها. ويستعرض هذا القسم قائمة بالمسارات الممكنة.
 
-### Social Transition
+### التحول الاجتماعي
 
-In a phrase: coming out of the closet. This is simply announcing to the world that you are transgender. You announce that you wish to use a new name and/or new pronouns – or not; you may just wish for people to know that you are trans and do not actually identify with your assigned binary gender. For some non-binary people this may not even be a full step away from their assignment, since gender is a spectrum and there is such a thing as a "non-binary man" and a "non-binary woman".
+باختصار: إنها عملية "الإفصاح عن الهوية" (أو ما يُعرف بـ "الخروج من الخزانة"). وهي ببساطة إعلان للعالم بأنك شخص عابر/ة جندرياً (transgender). قد تعلن عن رغبتك في استخدام اسم جديد و/أو ضمائر جديدة، أو قد لا ترغب في ذلك؛ إذ ربما تكتفي بأن يعرف الآخرون أنك عابر/ة جندرياً وأنك لا تتماهى فعلياً مع الجنس الثنائي الذي حُدِّد لك عند الولادة. وبالنسبة لبعض الأشخاص غير الثنائيين جندرياً (non-binary)، قد لا يُعد هذا الأمر ابتعاداً كلياً عن التصنيف الجندري الأولي، نظراً لأن الجندر يمثل طيفاً واسعاً، وتوجد حالات مثل "الرجل غير الثنائي" و"المرأة غير الثنائية".
 
-A social transition is the act of stepping out of the closet, and it can relieve a lot of stress from the suppression of oneself.
+يُعد التحول الاجتماعي بمثابة خطوة الإفصاح عن الهوية هذه، ومن شأنه أن يخفف كثيراً من الضغوط النفسية الناجمة عن كبت الذات.
 
-### Legal Transition
+### الانتقال القانوني
 
-This is the process of changing your legal documents to reflect your true gender. This may be through a legal name and gender change issued by a court, through a change of gender marker on an official ID, or through re-issuing of birth certificates and marriage licenses.
+تتمثل هذه العملية في تعديل وثائقك القانونية لتعكس هويتك الجندرية الحقيقية؛ وقد يتم ذلك من خلال تغيير الاسم والجنس بموجب قرار قضائي، أو تعديل خانة الجنس في بطاقة الهوية الرسمية، أو إعادة إصدار شهادات الميلاد وعقود الزواج.
 
-### Presentational Transition
+### انتقال عرضي
 
-These are changes to how you style yourself, be it your clothes, your hair, or the use of makeup. Our society heavily genders all of these things, and switching presentation is both affirming to one's self and also sends cues to those around them about how they wish to be addressed.
+تتعلق هذه التغييرات بأسلوب مظهرك الشخصي، سواء كان ذلك في الملابس أو تصفيفة الشعر أو استخدام مستحضرات التجميل. إذ يربط مجتمعنا كل هذه الأمور ارتباطاً وثيقاً بالنوع الاجتماعي، كما أن تغيير المظهر الخارجي لا يعزز شعور الفرد بذاته فحسب، بل يرسل أيضاً إشارات لمن حوله حول الطريقة التي يفضل أن يُخاطب بها.
 
-### Medical Transition
+### التحول الطبي
 
-For adults, this is hormone replacement therapy and surgery. For adolescents, this often means puberty blockers until the teen is old enough to be certain of which gonadal hormone they want to have. For prepubescents, this is nothing. Let me repeat that again, since transphobes keep getting it wrong.
+بالنسبة للبالغين، يشمل الأمر العلاج الهرموني البديل والجراحة. أما بالنسبة للمراهقين، فغالباً ما يعني ذلك استخدام مثبطات البلوغ إلى أن يبلغ المراهق سناً تتيح له التيقن من الهرمون الجنسي (الغُدّي) الذي يرغب في اعتماده. وبالنسبة للأطفال ما قبل سن البلوغ، فلا يتم اتخاذ أي إجراء؛ واسمحوا لي أن أكرر ذلك، نظراً لأن المعادين للأشخاص المتحولين جنسياً يسيئون فهم هذه النقطة باستمرار.
 
-***PREPUBESCENT CHILDREN DO NOT MEDICALLY TRANSITION***.
+***لا يخضع الأطفال ما قبل سن البلوغ لعملية تحول طبي.***.
 
-While the American Academy of Pediatrics [strongly encourages the validation and acceptance of transgender youth](https://pediatrics.aappublications.org/content/pediatrics/early/2018/09/13/peds.2018-2162.full.pdf), and the enabling of all other forms of transition, they explicitly do not support doctors beginning either hormone therapy or puberty blockers until a child has reached [Tanner stage 2](https://en.wikipedia.org/wiki/Tanner_scale).
+في حين تشجّع الأكاديمية الأمريكية لطب الأطفال بشدة على [إقرار هوية الشباب المتحولين جنسياً وقبولهم](https://pediatrics.aappublications.org/content/pediatrics/early/2018/09/13/peds.2018-2162.full.pdf)وتقبّلهم، ودعم كافة أشكال التحول الأخرى، إلا أنها لا تؤيد صراحةً بدء الأطباء في استخدام العلاج الهرموني أو مثبطات البلوغ قبل وصول الطفل إلى [Tanner stage 2/المرحلة الثانية من مقياس تانر](https://ar.wikipedia.org/wiki/مرحلة_تانر).
 
-Furthermore, no surgeon in the United States will perform a gender altering surgery on a minor (excluding intersex "corrections", which is a whole other problem outside the scope of this article). Very few children have strong enough features to be read as either male or female without clues provided through presentation. Allowing a child to change their hair and clothes is all that is needed for the child to be seen as male or female.
+علاوة على ذلك، لا يوجد جراح في الولايات المتحدة يُجري جراحة لتغيير الجنس لقاصر (باستثناء عمليات "تصحيح" الجنس للأشخاص ثنائيي الجنس، وهي مسألة أخرى تماماً تخرج عن نطاق هذا المقال). فالقليل جداً من الأطفال يمتلكون ملامح قوية بما يكفي ليُنظر إليهم كذكور أو إناث دون الحاجة إلى دلالات تستمد من المظهر الخارجي؛ إذ يكفي السماح للطفل بتغيير تسريحة شعره وملابسه ليُنظر إليه على أنه ذكر أو أنثى.
 
-### Hormonal Transition
+### التحول الهرموني
 
-**Masculinizing hormone therapy** (female to male sexual characteristics) consists of the introduction of testosterone, usually via intramuscular injection or topical gel. The increase in total gonadal hormones typically causes a cessation of ovulation, which is the source of the majority of estrogen produced in the ovaries.
+**العلاج الهرموني المُذَكِّر** تتضمن عملية التحول الجنسي (من الأنثى إلى الذكر) إعطاء هرمون التستوستيرون، عادةً عن طريق الحقن العضلي أو استخدام هلام (جل) موضعي. وتؤدي زيادة إجمالي الهرمونات الغُدّية التناسلية عادةً إلى توقف الإباضة، وهي العملية المسؤولة عن إنتاج الجزء الأكبر من هرمون الإستروجين في المبيضين.
 
-**Feminizing hormone therapy** (male to female sexual characteristics) consists of the introduction of estrogen, typically estradiol, via oral pills, patches, or regular injections (intramuscular or subcutaneous). The use of slow dispensing implants is also becoming more and more common. It is also common practice to prescribe an anti-androgen to block testosterone production or absorption. In the United States this is usually spironolactone, a blood pressure medication which has a testosterone blocking side-effect. Outside of the US, the most common drug is cyproterone acetate, an androgen receptor blocker, which is not available in the US. Doctors may also prescribe bicalutamide, which also blocks androgen receptors. However, some doctors may simply opt to use larger estradiol doses in order to cause the body to halt testosterone production.
+**العلاج الهرموني المؤنِّث** تتضمن عملية التحول لإكساب الجسم الخصائص الجنسية الأنثوية إعطاء هرمون الإستروجين - وعادةً ما يكون "إستراديول" - عبر أقراص فموية، أو لصقات جلدية، أو حقن منتظمة (سواء في العضل أو تحت الجلد). كما يزداد شيوع استخدام الغرسات التي تطلق الهرمون ببطء وتدريجياً. ومن الممارسات الشائعة أيضاً وصف دواء مضاد للأندروجين لمنع إنتاج هرمون التستوستيرون أو امتصاصه؛ ففي الولايات المتحدة، يُستخدم عادةً دواء "سبيرونولاكتون" (وهو دواء مخصص لعلاج ضغط الدم المرتفع لكن له أثر جانبي يتمثل في تثبيط التستوستيرون)، بينما يُعد دواء "سيبروتيرون أسيتات" - الذي يعمل عن طريق حجب مستقبلات الأندروجين - الخيار الأكثر شيوعاً خارج الولايات المتحدة (حيث إنه غير متوفر فيها). وقد يصف الأطباء أيضاً دواء "بيكالوتاميد"، الذي يعمل كذلك على حجب مستقبلات الأندروجين؛ غير أن بعض الأطباء قد يكتفون باستخدام جرعات أعلى من الإستراديول لدفع الجسم إلى التوقف عن إنتاج التستوستيرون.
 
-**In adolescents**, puberty blockers may involve the above androgen blockers, or (if it is covered by insurance) the use of an antigonadotropic (a drug which blocks the hormones that cause the production of estrogen and androgen) such as leuprolide acetate (a shot delivered every few months) or histrelin acetate (an annual implant).
+**لدى المراهقين**, قد تتضمن أدوية تثبيط البلوغ مضادات الأندروجين المذكورة أعلاه، أو - في حال تغطيتها من قِبَل التأمين - استخدام مضادات الغونادوتروبين (وهي أدوية تثبط الهرمونات المسؤولة عن إنتاج الإستروجين والأندروجين)، مثل "ليوبروليد أسيتات" (الذي يُعطى على شكل حقنة كل بضعة أشهر) أو "هيستريلين أسيتات" (الذي يُعطى على شكل غرسة سنوية).
 
-### Surgical Transition
+### التحول الجراحي
 
-Transgender surgeries are typically divided into three separate categories:
+عادةً ما تُقسَّم جراحات التحول الجنسي إلى ثلاث فئات منفصلة:
 
-**Bottom Surgery** (modifications to genitals):
+**جراحة الأعضاء التناسلية** (تعديلات على الأعضاء التناسلية):
 
-- Feminizing:
+- تأنيث:
 
-  - Orchiectomy (removal of the testicles)
-  - Scrotectomy (removal of scrotal tissue, following orchiectomy)
-  - Vasectomy (removal of the sperm ducts, which is done during orchiectomy but can also be done before on its own)
-  - Vaginoplasty (creation of a vaginal cavity)
-  - Vulvoplasty (creation of a vulva, with or without depth).
+  - استئصال الخصية (إزالة الخصيتين)
+  - استئصال كيس الصفن (إزالة أنسجة كيس الصفن، عقب استئصال الخصية)
+  - استئصال القناة الناقلة للمني (إزالة القنوات الناقلة للحيوانات المنوية، وهو إجراء يتم أثناء عملية استئصال الخصية، ولكنه قد يُجرى أيضاً بشكل منفصل قبل ذلك).
+  - رأب المهبل (إنشاء تجويف مهبلي)
+  - رأب الفرج (إنشاء فرج، مع أو بدون عمق).
 
-{!{ <div class="gutter"><div class="card"><div class="card-body"><h4 class="card-title">For Your Information</h4> }!}
+{!{ <div class="gutter"><div class="card"><div class="card-body"><h4 class="card-title">للعلم</h4> }!}
 
-A newly developing area of bottom surgery is in AMAB non-binary operations which attempt to perform vaginoplasty *without* the removal of the penis. This particular surgery is extremely experimental and has been performed less than a dozen times in the United States, but the outlook for the future is good.
+يُعدّ إجراء عمليات تجميل المهبل *دون* استئصال القضيب مجالًا ناشئًا في جراحة الأعضاء التناسلية. هذه الجراحة تحديدًا تجريبية للغاية، وقد أُجريت أقل من اثنتي عشرة مرة في الولايات المتحدة، لكن التوقعات المستقبلية واعدة.
 
-An additional option for non-binary bottom surgery is genital nullification surgery, which aims to completely remove the external genitalia, leaving only a urethral opening.
+ومن الخيارات الأخرى المتاحة لجراحة الأعضاء التناسلية للأشخاص غير الثنائيين، جراحة استئصال الأعضاء التناسلية الخارجية، والتي تهدف إلى إزالة الأعضاء التناسلية الخارجية بالكامل، مع الإبقاء على فتحة مجرى البول فقط.
 
 {!{ </div></div></div> }!}
 
-- Masculinizing:
+- تذكير:
 
-  - Hysterectomy (removal of uterus and cervix)
-  - Oophorectomy (removal of one or both ovaries)
-  - Salpingectomy (removal of one or both uterine tubes, often performed with hysterectomy and/or oophorectomy)
-  - Vaginectomy (removal of vaginal cavity)
-  - Metoidioplasty (a process which turns the enlarged clitoris after hormone therapy into a penis)
-  - Phalloplasty (construction of a penis from skin grafting)
-  - Urethroplasty (extension of the urethral canal through the phallus)
-  - Scrotoplasty (use of labia majora and prosthetic testicles to construct a scrotum).
+  - استئصال الرحم (إزالة الرحم وعنق الرحم)
+  - استئصال المبيض (إزالة أحد المبيضين أو كليهما)
+  - استئصال البوق (استئصال أحد أنبوبي الرحم أو كليهما، وغالباً ما يُجرى بالتزامن مع استئصال الرحم و/أو استئصال المبيض)
+  - استئصال المهبل (إزالة تجويف المهبل)
+  - جراحة "الميتويديوبلاستي" (وهي عملية تحوّل البظر -الذي تضخّم نتيجة العلاج الهرموني- إلى قضيب)
+  - جراحة بناء القضيب (تشكيل قضيب باستخدام ترقيع الجلد)
+  - رأب الإحليل (تمديد قناة الإحليل عبر القضيب)
+  - رأب كيس الصفن (استخدام الشفرين الكبيرين وخصيتين اصطناعيتين لتكوين كيس الصفن).
 
-Phalloplasty does not necessarily require previous hormone therapy. While it is common to perform vaginectomy, urethroplasty, and phalloplasty at the same time, urethroplasty and vaginectomy are not technically required to construct a penis. However, as vaginal tissue is typically used to construct the new urethra, some surgeons will not perform urethroplasty without vaginectomy.
+لا تتطلب جراحة بناء القضيب (Phalloplasty) بالضرورة الخضوع لعلاج هرموني مسبق. ورغم أنه من الشائع إجراء عمليات استئصال المهبل، ورأب الإحليل، وبناء القضيب في آن واحد، إلا أن عمليتي رأب الإحليل واستئصال المهبل لا تُعدان ضروريتين من الناحية التقنية لعملية بناء القضيب؛ ومع ذلك، ونظراً لأن الأنسجة المهبلية تُستخدم عادةً لتكوين مجرى البول الجديد، فإن بعض الجراحين يمتنعون عن إجراء جراحة رأب الإحليل ما لم تقترن باستئصال المهبل.
 
-**Top Surgery** (modifications to the chest)
+**جراحة الصدر** (تعديلات على منطقة الصدر)
 
-- Feminizing:
+- تأنيث:
   
-  - Breast augmentation via fat transfer or implants.
+  - تكبير الثدي عن طريق نقل الدهون أو الغرسات.
 
-- Masculinizing:
+- تذكير:
 
-  - Bilateral mastectomy (breast tissue removal) with chest reconstruction
-  - Breast reduction (some fat and breast tissue removal)
+  - استئصال الثديين (إزالة أنسجة الثدي) مع إعادة بناء الصدر
+  - تصغير الثدي (إزالة بعض الدهون وأنسجة الثدي)
 
-Mastectomy for top surgery typically reshapes the nipples to be more masculine, but some people opt to remove their nipples entirely.
+عادةً ما تتضمن جراحة استئصال الثدي (كجزء من جراحات تأكيد الهوية الجندرية العلوية) إعادة تشكيل الحلمتين لتصبحا أكثر ذكورية، إلا أن بعض الأشخاص يختارون إزالة الحلمتين تماماً.
 
-**Facial Feminization / Masculinization Surgery** (modifications to the skull, cartilage, and skin on the face).
+**جراحة تأنيث أو تذكير ملامح الوجه** (تعديلات على الجمجمة والغضاريف وجلد الوجه).
 
-  The younger a person is, the less they will need these surgeries, especially if they medically transition prior to the age of 20.
+  كلما كان الشخص أصغر سناً، قلّت حاجته إلى هذه العمليات الجراحية، ولا سيما إذا خضع للتحول الطبي قبل بلوغ سن العشرين.
 
-- Feminizing:
+- تأنيث:
 
-  - Forehead recontouring
-  - Eye socket recontouring
-  - Brow lift
-  - Hairline correction
-  - Blepharoplasty (lifting of eye bags)
-  - Rhinoplasty (reshaping of the nose)
-  - Cheek implants
-  - Lip lift
-  - Lip filling
-  - Jaw recontouring
-  - Tracheal shave (adam's apple reduction)
-  - Rhytidectomy (face lift)
+  - إعادة تشكيل الجبهة
+  - إعادة تشكيل محجر العين
+  - رفع الحاجبين
+  - تصحيح خط الشعر
+  - جراحة تجميل الجفون (شد أكياس العين)
+  - جراحة تجميل الأنف (إعادة تشكيل الأنف)
+  - حشوات الخدين
+  - رفع الشفة
+  - تعبئة الشفاه
+  - إعادة تشكيل الفك
+  - جراحة تنعيم القصبة الهوائية (تصغير تفاحة آدم)
+  - جراحة شد الوجه (Rhytidectomy)
 
-- Masculinizing:
+- التذكير:
 
-  - Forehead augmentation
-  - Jaw augmentation
-  - Chin augmentation
-  - Tracheal augmentation (adam's apple enlargement)
+  - تكبير الجبهة
+  - تكبير الفك
+  - تكبير الذقن
+  - تكبير الرغامي (تكبير تفاحة آدم)
 
-Other Trans Feminine Surgeries:
+عمليات جراحية أخرى للنساء العابرات جنسياً:
 
-- Brazilian Butt Lift: Fat from the belly is transplanted into the butt in order to increase hip to waist ratio.
-- Voice Feminization Surgery: An incision is performed in the vocal cords in order to permanently raise the pitch.
-- Cinderella Surgery: Bones in the foot are shortened in order to reduce foot size. EXTREMELY RISKY
-- Shoulder Reduction: The collar bone is shortened to reduce the width of the shoulders. EXTREMELY RISKY
+- عملية شد الأرداف البرازيلية: يتم فيها نقل الدهون من منطقة البطن وزرعها في الأرداف لزيادة نسبة محيط الورك إلى محيط الخصر.
+- جراحة تأنيث الصوت: يتم إجراء شق في الأحبال الصوتية لرفع طبقة الصوت بشكل دائم.
+- جراحة "سندريلا": يتم فيها تقصير عظام القدم لتقليل حجمها. إنها تنطوي على مخاطر عالية للغاية.
+- تصغير الكتفين: يتم تقصير عظمة الترقوة لتقليل عرض الكتفين. (إجراء ينطوي على مخاطر عالية للغاية).
