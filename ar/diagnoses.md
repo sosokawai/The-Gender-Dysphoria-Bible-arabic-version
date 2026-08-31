@@ -1,68 +1,68 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Diagnosing Gender Dysphoria"
-linkTitle: "Clinical Diagnoses"
-description: "It's clinical."
-lang: en
+title: "تشخيص اضطراب الهوية الجنسية"
+linkTitle: "التشخيصات السريرية"
+description: "إنه سريري."
+lang: ar
 preBody: '_disclaimer'
 classes:
   - gdb
 siblings:
-  prev: /en/am-i-trans
-  prevCaption: Am I Trans?
-  next: /en/treatment
-  nextCaption: Treating Gender Dysphoria
+  prev: /ar/am-i-trans
+  prevCaption: هل أنا عابر/ة جنسياً؟
+  next: /ar/treatment
+  nextCaption: علاج اضطراب الهوية الاجتماعية
 ---
 
-# How is Gender Dysphoria Diagnosed?
+# كيف يتم تشخيص اضطراب الهوية الجنسية؟
 
-This section is going to focus on the diagnostic criteria under the American Psychiatric Association's Diagnostic and Statistical Manual of Mental Disorders, version five (DSM-5). The reason I'm focusing on this standard is because, well, nobody else has one. The UK's National Health Service basically mirrors the APA's DSM. Other countries have their own local standards, but they're all either very similar or a lot more outdated.
+سيركز هذا القسم على المعايير التشخيصية الواردة في "الدليل التشخيصي والإحصائي للاضطرابات النفسية"، الإصدار الخامس (DSM-5)، الصادر عن الجمعية الأمريكية للطب النفسي. ويعود سبب تركيزي على هذا المعيار تحديداً إلى عدم وجود معايير أخرى معتمدة؛ إذ تعتمد هيئة الخدمات الصحية الوطنية في المملكة المتحدة -بشكل أساسي- على دليل الجمعية الأمريكية للطب النفسي (DSM) وتتبنى مضمونه. ورغم أن بعض الدول الأخرى لديها معايير محلية خاصة بها، إلا أنها إما متشابهة للغاية مع هذا الدليل أو عفا عليها الزمن بشكل كبير.
 
-The WPATH SoC describes ways that gender dysphoria manifests, but does not define clear diagnostic criteria, instead leaving it up to individual mental health professionals to make their own diagnoses. In general, it advocates that, if the patient is of sound mind and body and says that they have gender dysphoria, they should be believed. The key piece here is "sound mind and body"; it is left to the mental health professional to do the due diligence to ensure that there are no other conditions which may be causing the patient to believe this.
+تصف معايير الرعاية (SoC) الصادرة عن الجمعية العالمية المهنية لصحة المتحولين جنسياً (WPATH) الأشكال التي تظهر بها حالة "اضطراب الهوية الجنسية" (gender dysphoria)، لكنها لا تحدد معايير تشخيصية صارمة؛ بل تترك للمختصين في الصحة النفسية حرية إجراء التشخيص بناءً على تقديرهم المهني. وبشكل عام، تدعو هذه المعايير إلى تصديق المريض إذا كان يتمتع بسلامة العقل والجسد وصرح بأنه يعاني من اضطراب الهوية الجنسية. وتكمن النقطة الجوهرية هنا في عبارة "سلامة العقل والجسد"؛ إذ يقع على عاتق المختص النفسي واجب التحقق والتدقيق لضمان عدم وجود حالات أو اضطرابات أخرى قد تكون هي السبب وراء اعتقاد المريض بذلك.
 
-Or, to put it bluntly, WPATH says that if you think you're trans, you're trans. This has been the attitude that the majority of the community has adopted as well. As long as you believe your gender does not match what you were assigned at birth, you are transgender. However, insurance companies aren't so happy with self-diagnoses, so here are the criteria which are defined in the DSM-5 for diagnosing someone with gender dysphoria.
+وبعبارة صريحة ومباشرة: ترى WPATH أنه إذا كنت تعتقد أنك شخص متحول جنسياً، فأنت كذلك بالفعل. وهذا هو الموقف الذي تبنته أيضاً غالبية أفراد هذا المجتمع؛ فما دمت تعتقد أن هويتك الجنسية لا تتطابق مع الجنس الذي حُدّد لك عند الولادة، فأنت تُعتبر شخصاً متحولاً جنسياً. ومع ذلك، فإن شركات التأمين لا ترحب كثيراً بالتشخيص الذاتي، ولذا نورد فيما يلي المعايير المحددة في الدليل التشخيصي والإحصائي الخامس للاضطرابات النفسية (DSM-5) لتشخيص حالات اضطراب الهوية الجنسية.
 
-{!{ <div class="gutter d-md-block d-sm-none"><div class="card"><div class="card-body"><h4 class="card-title">For Your Information</h4> }!}
+{!{ <div class="gutter d-md-block d-sm-none"><div class="card"><div class="card-body"><h4 class="card-title">للعلم</h4> }!}
 
-Diagnosis of gender dysphoria in prepubescent children requires the child must have a documented six month history of meeting six of these criteria (one of which must be Criterion 1), as well as demonstrated distress or impairment in social, school, or other important areas of functioning.
+يتطلب تشخيص "اضطراب الهوية الجنسية" (أو الانزعاج الجنسي) لدى الأطفال ما قبل سن البلوغ وجود تاريخ موثق يمتد لستة أشهر يستوفي فيه الطفل ستةً من هذه المعايير (على أن يكون من بينها المعيار رقم 1)، بالإضافة إلى ظهور علامات واضحة على الانزعاج أو حدوث خلل في الأداء الاجتماعي أو المدرسي أو في مجالات حيوية أخرى.
 
-1. A strong desire to be of the other gender or an insistence that one is the other gender (or some alternative gender different from one's assigned gender).
-2. A strong preference for wearing clothes typical of the other gender.
-3. A strong preference for cross-gender roles in make-believe play or fantasy play.
-4. A strong preference for the toys, games, or activities stereotypically used or engaged in by the other gender.
-5. A strong preference for playmates of the other gender.
-6. A strong rejection of toys, games, and activities typical of one’s assigned gender.
-7. A strong dislike of one’s sexual anatomy.
-8. A strong desire for the physical sex characteristics that match one’s experienced gender.
+1. رغبة قوية في الانتماء إلى الجنس الآخر، أو إصرار المرء على أنه ينتمي إلى الجنس الآخر (أو إلى جنس بديل يختلف عن الجنس الذي حُدِّد له).
+2. ميل قوي لارتداء ملابس مميزة للجنس الآخر.
+3. تفضيل قوي لأدوار الجنس الآخر في اللعب التخيلي أو اللعب القائم على الخيال.
+4. تفضيل قوي للألعاب أو الأنشطة التي ترتبط نمطياً بالجنس الآخر أو يمارسها ذلك الجنس.
+5. تفضيل قوي لرفاق اللعب من الجنس الآخر.
+6. رفض شديد للألعاب والأنشطة المرتبطة عادةً بالجنس المُحدَّد للفرد.
+7. كراهية شديدة للأعضاء التناسلية الخاصة بالفرد.
+8. رغبة قوية في امتلاك الخصائص الجنسية الجسدية التي تتوافق مع الهوية الجندرية التي يختبرها الفرد.
 
 {!{ </div></div></div> }!}
 
-**Note** These are the criteria for children. Adolescents and adults have a different set of criteria. Both sets [can also be found here](https://www.psychiatry.org/patients-families/gender-dysphoria/what-is-gender-dysphoria). I have also changed the wording slightly, here, as the official criteria are binary-centric.
+**ملحوظة** هذه هي المعايير الخاصة بالأطفال، أما المراهقون والبالغون فلهم مجموعة مختلفة من المعايير. ويمكن الاطلاع على كلتا المجموعتين [هنا أيضاً](https://www.psychiatry.org/patients-families/gender-dysphoria/what-is-gender-dysphoria). لقد قمتُ أيضاً بتعديل الصياغة قليلاً هنا، نظراً لأن المعايير الرسمية ترتكز على مبدأ الثنائية.
 
-For an adult to be diagnosed with gender dysphoria by a licensed mental health professional, they must meet two of these six criteria and have experienced those criteria for longer than six months.
+لكي يتم تشخيص إصابة شخص بالغ باضطراب الهوية الجنسية (gender dysphoria) من قِبَل أخصائي مرخَّص في الصحة النفسية، يجب أن تنطبق عليه اثنتان من هذه المعايير الستة، وأن يكون قد عانى من تلك المعايير لمدة تزيد عن ستة أشهر.
 
-- **A marked incongruence between one’s experienced/expressed gender and primary and/or secondary sex characteristics**
+- **عدم تطابق ملحوظ بين الجنس الذي يختبره الفرد أو يعبّر عنه وبين الخصائص الجنسية الأولية و/أو الثانوية.**
 
-  The way the person sees the world and interacts with the world does not align with the way it is typically expected for someone of the gender they were assigned at birth. There are a very broad number of traits which fit into this description. It can be in the way they interact with others, how they talk, what hobbies they prefer, how they dress, their body language and mannerisms, what gender(s) they relate to more.
+  لا تتوافق طريقة رؤية الشخص للعالم وتفاعله معه مع ما يُتوقع عادةً ممن ينتمون إلى الجنس الذي حُدِّد لهم عند الولادة. وهناك طيف واسع من السمات التي تندرج تحت هذا الوصف؛ إذ قد تظهر هذه السمات في أسلوب التفاعل مع الآخرين، وطريقة الحديث، والهوايات المفضلة، وطريقة الملبس، ولغة الجسد والسلوكيات، وكذلك في الجنس (أو الأجناس) الذي يشعر الشخص بارتباط أكبر به.
 
-- **A strong desire to be rid of one’s primary and/or secondary sex characteristics**
-- **A strong desire for the primary and/or secondary sex characteristics of another gender**
+- **رغبة قوية في التخلص من الخصائص الجنسية الأولية و/أو الثانوية.**
+- **رغبة قوية في امتلاك الخصائص الجنسية الأولية و/أو الثانوية لجنس آخر.**
   
-  These two are pretty well paired. This is physical dysphoria as previously defined. The person finds discomfort with aspects of their body which are a result of their sex at birth.
+  يتماشى هذان الأمران معاً بشكل جيد؛ فهذا هو "الاضطراب الجسدي" (physical dysphoria) كما عُرِّف سابقاً، حيث يشعر الشخص بعدم الارتياح تجاه جوانب من جسده ناتجة عن جنسه عند الولادة.
 
-- **A strong desire to be of another gender**
-- **A strong desire to be treated as another gender**
+- **رغبة قوية في الانتماء إلى جنس آخر**
+- **رغبة قوية في أن يُعامَل المرء على أنه ينتمي إلى جنس آخر.**
 
-  These are the social and societal dysphoria. They are how a person wants to interact with the world, and wants the world to interact with them.
+  هذا هو الانزعاج الجندري الاجتماعي والمجتمعي؛ فهو يتعلق بالكيفية التي يرغب بها الفرد في التفاعل مع العالم، وبالطريقة التي يريد من العالم أن يتفاعل بها معه.
 
-- **A strong conviction that one has the typical feelings and reactions of another gender**
+- **قناعة راسخة بامتلاك المشاعر وردود الفعل المعهودة لدى جنس آخر.**
 
-  This is pretty self explanatory.
+  هذا الأمر واضح بذاته.
 
-As I said, only two of these conditions need to be met for a formal diagnosis. You may notice that only two of these comprise the physical body. It is perfectly valid for a trans person to be experiencing gender dysphoria without actually hating any part of their body or wanting to change any part of their body. Physical dysphoria is only one fraction of the many things that lead to being trans.
+كما ذكرتُ سابقاً، لا يتطلب التشخيص الرسمي سوى استيفاء شرطين اثنين فقط من هذه الشروط. وقد تلاحظ أن اثنين فقط منها يتعلقان بالجسد المادي؛ فمن الوارد تماماً أن يعاني الشخص المتحول جنسياً من "اضطراب الهوية الجنسية" (gender dysphoria) دون أن يكره أي جزء من جسده أو يرغب في تغييره فعلياً. إذ يُعد الاضطراب الجسدي جزءاً واحداً فقط من عوامل متعددة تؤدي إلى التحول الجنسي.
 
-Now, here is the kicker. If you identify as transgender, meaning that your gender does not align with the binary sex you were assigned at birth, you already meet two of these criteria! You have a strong enough desire to be of another gender that you are identifying that you *are* another gender, and you have a strong conviction of what your gender feels like, and it isn't what you were given at birth.
+وهنا تكمن النقطة الجوهرية: إذا كنت تعرّف نفسك كشخص متحول جنسياً -أي أن هويتك الجنسانية لا تتوافق مع الجنس الثنائي الذي حُدّد لك عند الولادة- فأنت تستوفي بالفعل اثنين من هذه المعايير! فلديك رغبة قوية بما يكفي لتكون من جنس آخر لدرجة أنك تعرّف نفسك بأنك تنتمي لذلك الجنس الآخر، كما أن لديك قناعة راسخة بطبيعة هويتك الجنسانية، وهي تختلف عما أُسند إليك عند الولادة.
 
-So, it is literally impossible for a person to identify as trans and not experience gender dysphoria. By the WPATH requirements anyone can identify as trans. Ergo, the statement "you do not have to have dysphoria to be transgender" is a logical paradox.
+وعليه، فمن المستحيل حرفياً أن يعرّف الشخص نفسه كمتحول جنسياً دون أن يختبر اضطراب الهوية الجنسية. فوفقاً لمتطلبات الجمعية العالمية المهنية لصحة المتحولين جنسياً (WPATH)، يمكن لأي شخص أن يعرّف نفسه كمتحول جنسياً؛ ومن ثم، فإن القول بأنه "لا يلزمك الشعور بالاضطراب الجنسي لتكون متحولاً جنسياً" يمثل مفارقة منطقية.
 
-Then why do we still say it? Because most people don't know what gender dysphoria actually is, and it is easier to repeat the mantra than to explain the nuances and subtleties of how gender dysphoria manifests. But hey, look, now you've got a nice article to link to that can help people understand that.
+إذاً، لماذا لا نزال نردد هذه العبارة؟ لأن معظم الناس لا يدركون ماهية اضطراب الهوية الجنسية في الواقع، ولأن ترديد هذه المقولة الشائعة أسهل من شرح التفاصيل الدقيقة والجوانب المعقدة لكيفية تجلّي هذا الاضطراب. ولكن، ها قد أصبح لديك الآن مقال جيد يمكنك مشاركته لمساعدة الآخرين على فهم هذه المسألة.
