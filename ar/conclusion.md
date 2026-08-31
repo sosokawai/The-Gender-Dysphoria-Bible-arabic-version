@@ -1,45 +1,45 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "In Conclusion"
-linkTitle: "Conclusion"
-description: "Enough with the gatekeeping already."
-lang: en
+title: "ختاماً"
+linkTitle: "خاتمة"
+description: "كفى احتكاراً للأمر."
+lang: ar
 siblings:
-  prev: /en/second-puberty-fem
-  prevCaption: Estrogenic Second Puberty
+  prev: /ar/second-puberty-fem
+  prevCaption: البلوغ الثاني المعتمد على الإستروجين 101
 classes:
   - gdb
 preBody: '_disclaimer'
 ---
 
-# Choice
+# خيار
 
-What is choice? No, I’m not talking about free will and fate. That is not a subject within the scope of this essay. However, in the context of gender, I do believe it is important to consider the processes that drive us to make decisions.
+ما هو الاختيار؟ لا، أنا لا أتحدث هنا عن الإرادة الحرة والقدر؛ فهذا ليس موضوعاً يندرج ضمن نطاق هذا المقال. ومع ذلك، وفي سياق النوع الاجتماعي، أرى أنه من المهم النظر في العمليات التي تدفعنا إلى اتخاذ القرارات.
 
-In the philosophy of decision theory, choice is broken down into two pieces: [preferences and prospects](https://plato.stanford.edu/entries/decision-theory/#WhaPreOvePro). Prospects are the different paths that lay before us — the unresolved potential of any given choice. Preferences are our internal factors that drive us towards one prospect over another. Sometimes these are overtly clear, rational choices that we can describe easily with language. These motivations come from what is coined as the rational mind. Just as often, however, these preferences come to us without clear reasoning, stemming from our past experiences, our biochemical driving forces, or instinctual drives that exist below all of that. Sometimes our preference is just a gut feeling, deep inside. Proponents of mindfulness refer to this as the emotional mind.
+في فلسفة نظرية القرار، يُقسَّم الاختيار إلى عنصرين: [التفضيلات والاحتمالات](https://plato.stanford.edu/entries/decision-theory/#WhaPreOvePro). الاحتمالات هي المسارات المختلفة المتاحة أمامنا، وهي الإمكانات الكامنة وراء كل خيار. أما التفضيلات فهي عواملنا الداخلية التي تدفعنا نحو احتمال دون آخر. أحيانًا تكون هذه خيارات واضحة وعقلانية، يسهل وصفها باللغة. تنبع هذه الدوافع مما يُعرف بالعقلانية. ولكن في كثير من الأحيان، تأتينا هذه التفضيلات دون منطق واضح، نابعة من تجاربنا السابقة، أو دوافعنا الكيميائية الحيوية، أو دوافعنا الغريزية الكامنة. أحيانًا يكون تفضيلنا مجرد شعور داخلي عميق. ويُشير إليه أنصار اليقظة الذهنية بالعقل العاطفي.
 
-Regardless of where a preference originates from, however, it is shaped by its position between two poles. Pleasure and discomfort. Peace and dissonance. Euphoria and dysphoria. Everything we do, every choice we make, comes from either positive or negative responses. When faced with two options, we will select the one we find most beneficial or least harmful to our own internal needs.
+بغض النظر عن مصدر التفضيل، فإن هذا التفضيل يتشكل بناءً على موقعه بين قطبين متضادين: المتعة وعدم الارتياح، السلام والاضطراب، النشوة والضيق. فكل ما نفعله، وكل خيار نتخذه، ينبع إما من استجابات إيجابية أو سلبية. وعندما نواجه خيارين، فإننا نختار الخيار الذي نراه الأكثر نفعاً -أو الأقل ضرراً- لاحتياجاتنا الداخلية.
 
-What does this have to do with gender? A person’s gender is not a choice; it comes from somewhere deep inside them at a level of the brain’s function that is not subject to change. There are factors which may result in fluctuation of a person's perception of their gender (as in genderfluid individuals and those with dissociative identities), and a person may change how they describe their gender over time, but no one *chooses* their gender identity. We only choose how to present it to the rest of the world.
+وما علاقة ذلك بالهوية الجندرية؟ إن هوية الفرد الجندرية ليست خياراً؛ فهي تنبع من أعماق كيانه، وتحديداً من مستوى في وظائف الدماغ لا يخضع للتغيير. صحيح أن هناك عوامل قد تؤدي إلى تذبذب في إدراك الفرد لهويته الجندرية (كما هو الحال لدى الأشخاص ذوي الهوية الجندرية المائعة أو من يعانون من اضطرابات الهوية الانفصالية)، وقد يغير الفرد طريقة وصفه لهويته بمرور الوقت، إلا أن أحداً لا *يختار* هويته الجندرية؛ فكل ما نختاره هو كيفية إظهار هذه الهوية للعالم الخارجي.
 
-Those choices, those preferences, are driven by what feels good and what feels bad. A person who chooses to publicly identify as a gender different from the one assigned to them at their birth is making that choice based on what feels right to do. A person defending that identity does so based on what feels wrong. We make these choices against the social stigma and discrimination that comes with the transgender label, and indeed a not-insignificant number of trans people may choose to go stealth and abandon that label once it is safe to do so. Even among those who are not stealth, many trans people accept the safety of being presumed cisgender, and take no effort to break people of that presumption. That is, again, a choice. Being visibly trans produces a negative experience for them.
+وتلك الخيارات والتفضيلات تحركها مشاعر الرضا أو عدم الرضا. فالشخص الذي يختار الإعلان عن هوية جندرية تختلف عن تلك التي حُددت له عند الولادة، يتخذ هذا القرار بناءً على ما يشعر بأنه الصواب؛ والشخص الذي يدافع عن تلك الهوية يفعل ذلك انطلاقاً من شعوره بأن الوضع القائم ينطوي على خطأ ما. نحن نتخذ هذه الخيارات في مواجهة الوصمة الاجتماعية والتمييز المرتبطين بتسمية "عابر/ة جندرياً" (transgender)؛ بل إن عدداً لا يستهان به من العابرين جندرياً قد يختارون عدم الإفصاح عن هويتهم (أو ما يُعرف بـ "العيش في الخفاء" أو stealth) والتخلي عن تلك التسمية بمجرد أن يصبح ذلك آمناً. وحتى بين أولئك الذين لا يختارون الخفاء، يقبل الكثير من العابرين جندرياً بوضع الأمان الذي يوفره افتراض الآخرين أنهم "متوافقون جندرياً" (cisgender)، ولا يبذلون جهداً لتصحيح هذا الافتراض لدى الناس. وهذا، مرة أخرى، يُعد خياراً؛ لأن الظهور العلني كشخص عابر جندرياً يسبب لهم تجربة سلبية.
 
-There are those who find the notion that euphoria and dysphoria are central motivators behind gender variance to be uncomfortable; one could even say they experience dysphoria at the concept of dysphoria. To them, ask, if you believe you do not have dysphoria, why did you take on the mantle of the trans label? That *choice* did not happen in a vacuum; even if your motivations stem entirely from happy feelings, ask yourself how you feel when your gender is not respected. How do you feel when others invalidate your identity?
+هناك من يجد فكرة أن "النشوة الجندرية" (euphoria) و"الاضطراب الجندري" (dysphoria) هما المحركان الأساسيان وراء "التغاير الجندري" (gender variance) أمراً مزعجاً؛ بل يمكن القول إنهم يشعرون بالاضطراب لمجرد التفكير في مفهوم "الاضطراب الجندري" ذاته. وللرد عليهم، اطرح هذا السؤال: إذا كنت تعتقد أنك لا تعاني من اضطراب جندري، فلماذا تبنيتَ لنفسك صفة "عابر/ة جندرياً" (trans)؟ إن ذلك *الخيار* لم يأتِ من فراغ؛ فحتى لو كانت دوافعك نابعة بالكامل من مشاعر السعادة والرضا، اسأل نفسك: كيف تشعر عندما لا تُحترم هويتك الجندرية؟ وكيف تشعر عندما يشكك الآخرون في صحة هويتك أو ينكرونها؟
 
-Is it not _a state of unease or generalized dissatisfaction_?
+أليس هذا *حالة من عدم الارتياح أو شعور عام بعدم الرضا*؟
 
-That’s dysphoria, baby.
+تلك هي بالضبط ماهية الاضطراب الجندري.
 
-## We’re here, we’re queer.
+## نحن هنا، ونحن مثليون.
 
-Every single year, we get new studies that show an increase in the size of the transgender population. As awareness continues to grow, more and more people are realizing what has been wrong with their lives and are coming out of the closet. People who transitioned decades ago are coming out of stealth. GLAAD estimates as much as 3% of the population could be transgender, and I have seen numbers as high as 5% or even 10% from more liberal estimations. The more we come to understand about gender, the more language we gain to describe gender, the more people realize that the rigid Male and Female sexual structure that we have been forced into is false.
+في كل عام، تظهر دراسات جديدة تشير إلى تزايد أعداد الأشخاص المتحولين جنسياً. ومع استمرار تزايد الوعي، يدرك المزيد والمزيد من الناس الخلل في حياتهم ويبدأون في الإفصاح عن هويتهم الحقيقية (الخروج من "الخزانة"). كما أن الأشخاص الذين أتموا عملية التحول قبل عقود بدأوا يتخلون عن السرية التي أحاطوا بها أنفسهم سابقاً. وتُقدّر منظمة GLAAD أن نسبة المتحولين جنسياً قد تصل إلى 3% من السكان، بل إنني اطلعت على تقديرات أكثر تحرراً تشير إلى أرقام قد تبلغ 5% أو حتى 10%. فكلما تعمق فهمنا لمفهوم الجندر (النوع الاجتماعي) وتوفرت لدينا مصطلحات أدق لوصفه، أدرك الناس أن التصنيف الثنائي الصارم (ذكر وأنثى) الذي فُرض علينا هو تصنيف زائف.
 
-Yet all this change frightens people. It frightens conservatives who see their patriarchal social structures dissolving under the new understanding of gender. It frightens old-school transgender people who transitioned under the Harry Benjamin rules and now see so many people easily obtaining what they had to act and lie and manipulate to achieve. They fear that if anyone can be trans, the public will stop taking trans people seriously. It frightens the misogynistic or misandristic trans-exclusionary groups that fight so hard to invalidate transgender rights because they think, if anyone can be a man or a woman, their status as a man or a woman is harmed.
+ومع ذلك، فإن كل هذا التغيير يثير مخاوف الناس. إنه يخيف المحافظين الذين يرون هياكلهم الاجتماعية الأبوية تتفكك أمام الفهم الجديد للجندر. كما أنه يخيف المتحولين جنسياً من "الجيل القديم" الذين أتموا تحولهم وفقاً لمعايير "هاري بنجامين" الصارمة، والذين يرون الآن أشخاصاً كثر يحصلون بسهولة على ما اضطروا هم أنفسهم للتمثيل والكذب والتلاعب لتحقيقه؛ فهم يخشون أنه إذا أصبح بإمكان أي شخص أن يكون متحولاً جنسياً، فإن عامة الناس سيتوقفون عن أخذ قضايا المتحولين على محمل الجد. كذلك، يثير هذا التغيير مخاوف الجماعات التي تقصي المتحولين جنسياً بدافع كراهية النساء أو الرجال، والتي تكافح بشراسة لتقويض حقوق المتحولين؛ ظناً منهم أن السماح لأي شخص بأن يكون رجلاً أو امرأة يمس بمكانتهم هم كرجال أو نساء.
 
-There is no such thing as a "Transtrender".
+لا وجود لما يسمى بـ "المتحولين جنسياً لمجرد الموضة" (Transtrender).
 
-There is no such thing as "Rapid Onset Gender Dysphoria".
+ولا وجود لما يسمى بـ "اضطراب الهوية الجنسية سريع الظهور" (Rapid Onset Gender Dysphoria).
 
-There is no such thing as people "transing" kids.
+ولا وجود لما يسمى بـ "تحويل الأطفال جنسياً" قسراً أو بلا مبرر.
 
-These mentalities have to stop.
+يجب وضع حد لهذه العقليات.
