@@ -1,15 +1,15 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "The Gender Dysphoria Bible"
-linkTitle: Introduction
-description: "A dive into the multitude of ways that gender dysphoria manifests and what it means to be transgender."
-lang: en
+title: "كتاب اضطراب الهوية الجنسية"
+linkTitle: مقدمة
+description: "استكشافٌ للصور المتعددة التي يتجلى فيها اضطراب الهوية الجنسية (gender dysphoria)، وما يعنيه أن يكون المرء عابرًا جنسيًا."
+lang: ar
 preBody: '_disclaimer'
 classes:
   - gdb
 siblings:
-  next: /en/what-is-gender
-  nextCaption: What is Gender?
+  next: /ar/what-is-gender
+  nextCaption: ما هو النوع الاجتماعي ؟
 ---
 
 
@@ -24,84 +24,84 @@ siblings:
 }}
 }!}
 
-### Table of Contents:
+### جدول المحتويات:
 
 {!{ <div class="two-column-list"> }!}
 
-1. [Introduction](/en/#introduction)
+1. [مقدمة](/ar/#introduction)
 
-2. [What is Gender?](/en/what-is-gender)
+2. [ ما هو النوع الاجتماعي ؟](/ar/what-is-gender)
 
-3. [The History of Gender Dysphoria](/en/history)
+3. [تاريخ اضطراب الهوية الاجتماعية](/ar/history)
 
-4. [Gender Euphoria](/en/euphoria)
+4. [النشوة الجندرية](/ar/euphoria)
 
-5. [Physical Dysphoria](/en/physical-dysphoria)
+5. [الانزعاج الجسدي](/ar/physical-dysphoria)
 
-6. [Biochemical Dysphoria](/en/biochemical-dysphoria)
+6. [الانزعاج البيوكيميائي](/ar/biochemical-dysphoria)
 
-7. [Social Dysphoria](/en/social-dysphoria)
+7. [الانزعاج الاجتماعي](/ar/social-dysphoria)
 
-8. [Societal Dysphoria](/en/societal-dysphoria)
+8. [الانزعاج الجندري المجتمعي](/ar/societal-dysphoria)
 
-9. [Sexual Dysphoria](/en/sexual-dysphoria)
+9. [الانزعاج الجنسي](/ar/sexual-dysphoria)
 
-10. [Presentational Dysphoria](/en/presentational-dysphoria)
+10. [الانزعاج المرتبط بالعرض](/ar/presentational-dysphoria)
 
-11. [Existential Dysphoria](/en/existential-dysphoria)
+11. [الاضطراب الوجودي](/ar/existential-dysphoria)
 
-12. [Managed Dysphoria](/en/managed-dysphoria)
+12. [عُسر المزاج المُدار](/ar/managed-dysphoria)
 
-13. [Impostor Syndrome](/en/impostor-syndrome)
+13. [متلازمة المنتحل](/ar/impostor-syndrome)
 
-14. [Am I Trans?](/en/am-i-trans)
+14. [هل أنا عابر/ة جنسياً؟](/ar/am-i-trans)
 
-15. [Clinical Diagnoses](/en/diagnoses)
+15. [التشخيصات السريرية](/ar/diagnoses)
 
-16. [Treating Gender Dysphoria](/en/treatment)
+16. [علاج اضطراب الهوية الاجتماعية](/ar/treatment)
 
-17. [Causes of Gender Dysphoria](/en/causes)
+17. [علاج اضطراب الهوية الاجتماعية](/ar/causes)
 
-18. [Chromosomes](/en/chromosomes)
+18. [الكروموسومات](/ar/chromosomes)
 
-19. [How Hormones Work](/en/hormones)
+19. [كيف تعمل الهرمونات](/ar/hormones)
 
-20. [Androgenic Second Puberty 101](/en/second-puberty-masc)
+20. [البلوغ الثاني الأندروجيني 101](/ar/second-puberty-masc)
 
-21. [Estrogenic Second Puberty 101](/en/second-puberty-fem)
+21. [البلوغ الثاني المعتمد على الإستروجين 101](/ar/second-puberty-fem)
 
-22. [Conclusion](/en/conclusion)
+22. [خاتمة](/ar/conclusion)
 
 {!{ </div> }!}
 
 <hr class="print-break-after print-hidden">
 
-## Introduction
+## مقدمة
 
 {!{
 <div class="gutter"><blockquote>
-  <strong>Trans·gen·der</strong> - <em>adjective</em><br>
-  Denoting or relating to a person whose sense of personal identity and gender does not correspond with their sex assigned at birth.
+  <strong>متحول جنسياً</strong> - <em>صفة</em><br>
+  يُشير إلى شخص لا يتوافق إحساسه بالهوية الشخصية والجندر مع الجنس الذي حُدِّد له عند الولادة، أو يتعلق به.
 </blockquote></div>
 }!}
 
-In cultures worldwide, for as long as human civilization has existed, [there have been people](https://en.wikipedia.org/wiki/Transgender_history) whose experience of their gender identity do not align with the Anglo-European concepts of binary sex based on genital structure. The Gala, a middle gender priest class of the Sumerian empire, existed over 4,500 years ago. Many of the Indigenous cultures of North America recognized [a third gender](https://en.wikipedia.org/wiki/Third_gender) far before European colonialism, and still do to this day. Tribal [cultures all across Africa](https://medium.com/@janelane_62637/the-splendor-of-gender-non-conformity-in-africa-f894ff5706e1) recognize numerous gender identities, which [Europeans tried to wipe out](https://daily.jstor.org/the-deviant-african-genders-that-colonialism-condemned/). Human beings have long lived with identities, norms, and degrees of conformity to those norms which differ from the so-called "traditional" idea of gender in westernized culture today.
+في مختلف الثقافات حول العالم، ومنذ فجر الحضارة الإنسانية، [وُجد أناس](https://ar.wikipedia.org/wiki/تاريخ_العبور_الجندري) الذين لا تتوافق تجربتهم لهويتهم الجندرية مع المفاهيم الأنجلو-أوروبية القائمة على ثنائية الجنس المستندة إلى البنية التناسلية. فقد وُجدت فئة "الـ غالا" (Gala) -وهي طبقة من الكهنة ذوي الجندر الوسيط في الإمبراطورية السومرية- قبل أكثر من 4500 عام. كما اعترفت العديد من الثقافات الأصلية في أمريكا الشمالية بـ [نوع اجتماعي ثالث](https://ar.wikipedia.org/wiki/النوع_الاجتماعي_الثالث) قبل الاستعمار الأوروبي بمدة طويلة، ولا تزال تفعل ذلك حتى يومنا هذا. الثقافات القبلية [في جميع أنحاء أفريقيا](https://medium.com/@janelane_62637/the-splendor-of-gender-non-conformity-in-africa-f894ff5706e1) الاعتراف بهويات جندرية متعددة، وهي الهويات التي [حاول الأوروبيون القضاء عليها](https://daily.jstor.org/the-deviant-african-genders-that-colonialism-condemned/). لطالما عاش البشر بهويات وأعراف - وبدرجات متفاوتة من الامتثال لتلك الأعراف - تختلف عن المفهوم المسمى "تقليدياً" للنوع الاجتماعي في الثقافة المتأثرة بالنمط الغربي السائد اليوم.
 
-In spite of this, however, the modern western understanding of the transgender experience has only existed for approximately 130 years. Even the word "transgender" only dates back to 1965, when John Oliven proposed it as a more accurate alternative to David Cauldwell's term "transsexual" (coined in 1949), which itself replaced Magnus Hirschfeld's term "transvestite" (1910).
+ومع ذلك، فإن الفهم الغربي الحديث لتجربة العبور الجندري (أو التحول الجنسي) لم يظهر إلا قبل نحو 130 عاماً؛ بل إن مصطلح "transgender" (عابر جندرياً) نفسه لا يعود تاريخه إلا إلى عام 1965, عندما اقترح  John Oliven هذا المصطلح كبديل أكثر دقة لمصطلح "transsexual" (الذي صاغه  David Cauldwell'عام 1949)، والذي كان بدوره قد حلّ محل مصطلح "transvestite" ل Magnus Hirschfeld (1910).
 
-Being transgender can mean that a person born with a penis is actually a girl, that a person born with a vulva is actually a boy, or that a person with any genital configuration may not wholly fit either side of that spectrum and is non-binary.
+قد يعني كون الشخص "عابرًا جنسيًا" (transgender) أن الشخص الذي وُلد بعضو ذكري هو في الواقع فتاة، أو أن الشخص الذي وُلد بفرج هو في الواقع فتى، أو أن الشخص - بغض النظر عن تكوينه الجسدي أو التناسلي - لا يجد نفسه منسجمًا تمامًا مع أي من طرفي هذا الطيف ويُصنّف نفسه ضمن الهوية "غير الثنائية" (non-binary).
 
-A trans person can come to recognize this at *any point* in their life. Some children identify it at as soon as they are able to grasp the concept of gender, others don't start to feel anything until the onset of puberty, and still others do not realize that anything is wrong at all until they are fully adults. Many people are simply never exposed to the idea that their gender could mismatch their sex assigned at birth, or what that feels like, and thus have simply accepted their fate.
+يمكن للشخص العابر جنسيًا أن يدرك حقيقة هويته هذه في *أي مرحلة* من مراحل حياته؛ فبعض الأطفال يدركون ذلك بمجرد استيعابهم لمفهوم النوع الاجتماعي (الجندر)، بينما لا يشعر آخرون بأي شيء مختلف حتى مرحلة البلوغ، وهناك فئة أخرى لا تدرك وجود أي خلل أو اختلاف إلا بعد الوصول إلى مرحلة الرشد التام. وفي كثير من الأحيان، لا يتعرض الأفراد أصلًا لفكرة أن هويتهم الجندرية قد لا تتطابق مع الجنس الذي حُدّد لهم عند الولادة، أو لا يدركون طبيعة هذا الشعور، فيتقبلون واقعهم كما هو دون تساؤل.
 
-Even more common is a perception wherein, even though someone may have feelings about being unhappy with the gender they were assigned at birth, they believe that this is not the same as what transgender people experience. Some may feel that a wish to be transgender and have transition available is some kind of disrespect towards "real" trans people who knew they were actually boys or girls "born in the wrong body." These narratives of the transgender experience that have been spread by popular media can create a very false impression of just what it means to be transgender and what growing up transgender feels like.
+وثمة تصور شائع آخر مفاده أنه حتى لو ساورت الشخص مشاعر عدم الرضا عن الجنس الذي حُدّد له عند الولادة، فإنه يعتقد أن حالته تختلف عما يختبره العابرون جنسيًا. وقد يشعر البعض بأن مجرد الرغبة في العبور الجنسي أو توفر خيار التحول يمثل نوعًا من عدم الاحترام للعابرين جنسيًا "الحقيقيين" - أي أولئك الذين أدركوا يقينًا أنهم فتيان أو فتيات "وُلدوا في الجسد الخطأ". إن هذه السرديات حول تجربة العبور الجنسي، التي روجت لها وسائل الإعلام الجماهيرية، قد تخلق انطباعًا خاطئًا للغاية عما يعنيه أن يكون المرء عابرًا جنسيًا وعن طبيعة تجربة النشأة والنمو بهذه الهوية.
 
-This experience of discontinuity between the societal presumed gender and the internal sense of self is what we describe as **gender dysphoria**, and is common among nearly all trans individuals, regardless of their position within or outside of the gender binary. This has at times been something of a political topic within trans communities, as different groups have their own ideas of what gender dysphoria is, how it manifests itself, and what qualifies a person as being trans. So as not to get lost in that topic, this site will define gender dysphoria in broad terms of incongruence with sex assigned at birth. If you experience gender identity in a way that does not match what was assigned to you at birth, your claim to the transgender identity is valid, no matter how that incongruence manifests for you.
+إن تجربة عدم التطابق هذه بين الجندر المفترض اجتماعياً والشعور الداخلي بالذات هي ما نُطلق عليه مصطلح **"اضطراب الهوية الجندرية" (Gender Dysphoria)**؛ وهي حالة شائعة لدى جميع الأفراد العابرين جندرياً تقريباً، بغض النظر عن موقعهم داخل أو خارج ثنائية الجندر. لقد كان هذا الموضوع أحياناً مثار نقاش سياسي داخل مجتمعات العابرين جندرياً، إذ تتبنى المجموعات المختلفة تصورات متباينة حول ماهية هذا الاضطراب، وكيفية تجليه، والمعايير التي تُحدد هوية الشخص كعابر جندرياً. وتجنباً للخوض في تفاصيل هذا الجدل، سيعتمد هذا الموقع تعريفاً عاماً لاضطراب الهوية الجندرية بوصفه حالة من عدم التوافق مع الجنس الذي حُدّد عند الولادة. فإذا كانت تجربتك لهويتك الجندرية لا تتطابق مع الجنس الذي حُدّد لك عند الولادة، فإن اعتبار نفسك شخصاً عابراً جندرياً يُعد أمراً مشروعاً وصحيحاً، مهما كانت طبيعة هذا التباين أو كيفية تجليه لديك.
 
-The purpose of this site is to document the many ways that gender dysphoria can manifest, as well as the numerous forms of gender transition, in order to provide a guide for those who are questioning, those who are starting their transgender journey, those already on their path, and those who simply wish to be better allies.
+يهدف هذا الموقع إلى توثيق الأشكال المتعددة التي قد يتجلى فيها اضطراب الهوية الجندرية، وكذلك الأنماط المختلفة للعبور الجندري، وذلك بهدف تقديم دليل إرشادي لكل من: الأشخاص الذين يساورهم الشك حول هويتهم الجندرية، والمقبلين على بدء رحلة العبور الجندري، ومن هم في خضم هذه الرحلة بالفعل، وأولئك الذين يرغبون ببساطة في أن يكونوا حلفاء وداعمين أفضل.
 
 {!{
 <div class="gutter flex flex-end print-inline print-span2 print-center">
-<span>Title artwork based on works by <a href="https://www.instagram.com/jp_means_jumpei/">Jumpei JP Ueoka</a></span>
+<span>العمل الفني الرئيسي مستوحى من أعمال <a href="https://www.instagram.com/jp_means_jumpei/">Jumpei JP Ueoka</a></span>
 <div class="grid-row" style="grid-template-columns: 1fr 1fr">
 {{import '~/img' images.jpjumpei_1 className="" link="https://www.instagram.com/p/Bq2uRCtFttU/"}}
 {{import '~/img' images.jpjumpei_2 className="" link="https://www.instagram.com/p/BlA3IUrAnTi/"}}
