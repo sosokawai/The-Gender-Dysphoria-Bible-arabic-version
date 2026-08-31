@@ -1,17 +1,17 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Disorders of Sex Development: Gender is not Chromosomal"
-linkTitle: "Chromosomes"
-description: "DNA is more what you'd call guidelines than actual rules."
-lang: en
+title: "اضطرابات التطور الجنسي: النوع الاجتماعي ليس مسألة صبغية"
+linkTitle: "الكروموسومات"
+description: "الحمض النووي أشبه ما يكون بإرشادات منه بقواعد صارمة."
+lang: ar
 preBody: '_disclaimer'
 classes:
   - gdb
 siblings:
-  prev: /en/causes
-  prevCaption: Causes of Gender Dysphoria
-  next: /en/hormones
-  nextCaption: How Hormones Work
+  prev: /ar/causes
+  prevCaption: أسباب اضطراب الهوية الاجتماعية
+  next: /ar/hormones
+  nextCaption: كيف تعمل الهرمونات
 tweets:
   - https://twitter.com/RebeccaRHelm/status/1207834357639139328
   - https://twitter.com/RebeccaRHelm/status/1207835110617309191
@@ -29,9 +29,9 @@ tweets:
 
 ---
 
-# But the Chromosomes!!!
+# ولكن الكروموسومات!!!
 
-## More than Two Options
+## أكثر من خيارين
 
 {!{ <div class="gutter">
   {{import '~/tweet' ids=[
@@ -40,26 +40,26 @@ tweets:
 </div>}!}
 
 
-There are dozens of ways that chromosomes can be much more complex than XX and XY. Referred to as DSDs ([differences in sex development](https://en.wikipedia.org/wiki/Disorders_of_sex_development)), not all of them result in an intersex condition, and many only manifest at the onset of puberty.
+هناك عشرات الطرق التي يمكن أن تكون بها الكروموسومات أكثر تعقيداً بكثير من النمطين XX وXY، ويُشار إلى هذه الحالات بـ DSDs ([اضطرابات التطور الجنسي](https://ar.wikipedia.org/wiki/اضطرابات_التطور_الجنسي)), لا تؤدي جميعها إلى حالة ثنائية الجنس، كما أن العديد منها لا تظهر إلا عند بداية مرحلة البلوغ.
 
-- [De la Chapelle syndrome](https://en.wikipedia.org/wiki/XX_male_syndrome) (46,XX Male) occurs when the SRY gene from the sperm parent crosses over into a non-Y-bearing sperm during spermatogenesis. When the egg and sperm merge, it results in an XX embryo with an SRY gene, creating a phenotypically-male child with two X chromosomes.
+- [متلازمة De la Chapelle](https://ar.wikipedia.org/wiki/متلازمة_ذكر_إكس_إكس) تحدث حالة "الذكر بنمط (46,XX)" عندما تنتقل جينة SRY -الموجودة لدى الأب- إلى حيوان منوي لا يحمل الكروموسوم Y أثناء عملية تكوين الحيوانات المنوية. وعند اندماج البويضة والحيوان المنوي، يتكون جنين بنمط (XX) يحتوي على جينة SRY، مما يؤدي إلى ولادة طفل يمتلك خصائص الذكور الظاهرية رغم امتلاكه كروموسومي X.
 
-- [Swyer syndrome](https://en.wikipedia.org/wiki/Swyer_syndrome) (46,XY Female) produces a phenotypically-female child with an XY chromosome. This results from a dozen different genetic conditions, including:
+- [Swyer syndrome](https://ar.wikipedia.org/wiki/خلل_تكون_الغدد_التناسلية_XY) تُنتج الحالة (أنثى بنمط نووي 46,XY) طفلةً ذات مظهر أنثوي وتحمل الصبغي XY. وينتج ذلك عن نحو اثنتي عشرة حالة وراثية مختلفة، بما في ذلك:
 
-  - Absence or defect of an SRY gene
-  - Absence or defect of [DHH](https://en.wikipedia.org/wiki/Desert_hedgehog_(protein)) synthesis
-  - Absence of the [SF-1](https://en.wikipedia.org/wiki/Steroidogenic_factor_1) protein due to adrenal failure
-  - Absence of or defect the [CBX2](https://en.wikipedia.org/wiki/CBX2_(gene)) gene, preventing TDF cascade
+  - غياب أو خلل في جين SRY
+  - غياب أو خلل في [DHH](https://en.wikipedia.org/wiki/Desert_hedgehog_(protein)) (لا توجد صفحة على ويكيبيديا العربية.)
+  - غياب بروتين [SF-1](https://en.wikipedia.org/wiki/Steroidogenic_factor_1) نتيجةً لقصور الغدة الكظرية
+  - غياب أو خلل في [CBX2](https://en.wikipedia.org/wiki/CBX2_(gene)) مانعاً لسلسلة تفاعلات TDF
 
-- [XX gonadal dysgenesis](https://en.wikipedia.org/wiki/XX_gonadal_dysgenesis) is very similar to Swyer syndrome, except it occurs in XX children and results in nonfunctional ovaries.
+- [خلل تكوين الغدد التناسلية XX](https://ar.wikipedia.org/wiki/خلل_تكون_الغدد_التناسلية_XX) يشبه إلى حد كبير متلازمة سوير (Swyer syndrome)، إلا أنه يحدث لدى الأطفال ذوي النمط الجيني (XX) ويؤدي إلى عدم عمل المبيضين.
 
-- [Turner syndrome](https://en.wikipedia.org/wiki/Turner_syndrome) (45,X) produces a phenotypically-female child with numerous abnormalities. It occurs when neither an X or Y chromosome crosses over from the sperm.
+- [Turner syndrome](https://ar.wikipedia.org/wiki/متلازمة_تيرنر) تؤدي الحالة (45,X) إلى ولادة طفلة تظهر عليها سمات أنثوية ولكنها تعاني من تشوهات عديدة؛ وتنشأ هذه الحالة عندما لا ينتقل أي من الكروموسومين X أو Y من الحيوان المنوي.
 
-- [Klinefelter syndrome](https://en.wikipedia.org/wiki/Klinefelter_syndrome) (47,XXY) results in a phenotypically-male child with more feminine traits. In extremely rare cases [it appears in female-assigned children](https://www.ncbi.nlm.nih.gov/pubmed/15755052) as well, resulting in feminized testicles instead of ovaries.
+- [Klinefelter syndrome](https://ar.wikipedia.org/wiki/متلازمة_كلاينفيلتر) تؤدي الحالة (47,XXY) إلى ولادة طفل ذكر من حيث المظهر الخارجي (النمط الظاهري) ولكنه يمتلك سمات أنثوية أكثر وضوحاً. وفي حالات نادرة للغاية [تظهر هذه الحالة لدى أطفال حُدِّد جنسهم كإناث عند الولادة.](https://www.ncbi.nlm.nih.gov/pubmed/15755052) وكذلك، مما يؤدي إلى نشوء خصيتين مؤنثتين بدلاً من المبيضين.
 
-- [48,XXXY Klinefelter syndrome](https://en.wikipedia.org/wiki/XXXY_syndrome) has similar results to 47,XXY Klinefelter syndrome, but with more intense health issues.
+- [48,XXXY Klinefelter syndrome](https://ar.wikipedia.org/wiki/متلازمة_XXXY) يُظهر نتائج مشابهة لمتلازمة كلاينفلتر (47,XXY)، ولكن مع مشاكل صحية أكثر حدة.
 
-- [49,XXXXY Klinefelter syndrome](https://en.wikipedia.org/wiki/49,XXXXY) is often fatal, but when it isn't, it often results in a sterile child.
+- [49,XXXXY Klinefelter syndrome](https://en.wikipedia.org/wiki/متلازمة_XXXXY) غالباً ما تكون الحالة مميتة، ولكن في حال عدم حدوث الوفاة، فإنها غالباً ما تؤدي إلى العقم.
 
 - [Trisomy X](https://en.wikipedia.org/wiki/Triple_X_syndrome) (47,XXX), [Tetrasomy X](https://en.wikipedia.org/wiki/Tetrasomy_X) (48,XXXX), and [Pentasomy X](https://en.wikipedia.org/wiki/49,_XXXXX) (49,XXXXX) all result in a female child, but with progressively more intense health issues.
 
