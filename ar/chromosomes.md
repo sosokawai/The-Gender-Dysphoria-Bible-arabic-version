@@ -61,23 +61,23 @@ tweets:
 
 - [49,XXXXY Klinefelter syndrome](https://en.wikipedia.org/wiki/متلازمة_XXXXY) غالباً ما تكون الحالة مميتة، ولكن في حال عدم حدوث الوفاة، فإنها غالباً ما تؤدي إلى العقم.
 
-- [Trisomy X](https://en.wikipedia.org/wiki/Triple_X_syndrome) (47,XXX), [Tetrasomy X](https://en.wikipedia.org/wiki/Tetrasomy_X) (48,XXXX), and [Pentasomy X](https://en.wikipedia.org/wiki/49,_XXXXX) (49,XXXXX) all result in a female child, but with progressively more intense health issues.
+- [Trisomy X](https://ar.wikipedia.org/wiki/متلازمة_ثلاثية_إكس) (47,XXX), [Tetrasomy X](https://ar.wikipedia.org/wiki/رباع_الصبغي_X) (48,XXXX), و [Pentasomy X](https://ar.wikipedia.org/wiki/تخمس_الصيغة_الصبغية) (49,XXXXX) تُفضي جميعها إلى إنجاب طفلة، ولكن مع مشاكل صحية تزداد حدتها تدريجياً.
 
-- [XXYY Syndrome](https://en.wikipedia.org/wiki/XXYY_syndrome) results in male children (due to two SRY genes) who often experience hypogonadism, needing testosterone supplements, but otherwise seeming like a typical male.
+- [XXYY Syndrome](https://ar.wikipedia.org/wiki/متلازمة_XXYY) يؤدي ذلك إلى إنجاب ذكور (بسبب وجود نسختين من جين SRY) غالباً ما يعانون من قصور الغدد التناسلية ويحتاجون إلى مكملات التستوستيرون، لكنهم يبدون في جوانب أخرى كذكور طبيعيين.
 
-- [Mosaicism](https://en.wikipedia.org/wiki/Mosaic_(genetics)) results when some cells in the body have one set of chromosomes and other cells have another due to a mutation of the genome during gestation. This may be XX/XY (resulting in a dual set of genitalia), X/XY (a milder form of Swyer or Turner syndromes) or XX/XXY (a milder form of Klinefelter syndrome).
+- [Mosaicism](https://ar.wikipedia.org/wiki/فسيفساء_(علم_الوراثة)) ينتج عن امتلاك بعض خلايا الجسم مجموعة واحدة من الكروموسومات بينما تمتلك خلايا أخرى مجموعة مختلفة، وذلك بسبب طفرة في الجينوم أثناء فترة الحمل. وقد تظهر هذه الحالة في صور متعددة، مثل XX/XY (مما يؤدي إلى وجود أعضاء تناسلية مزدوجة)، أو X/XY (وهي صورة أخف حدة من متلازمة سوير أو متلازمة تيرنر)، أو XX/XXY (وهي صورة أخف حدة من متلازمة كلاينفلتر).
 
-- [Chimerism](https://en.wikipedia.org/wiki/Chimera_(genetics)) occurs when two fertilized embryos merge together into one zygote, causing half of the child to contain one set of DNA and the other half to contain another. This can result in an otherwise completely typical human being of either male or female phenotype, even capable of producing offspring, but which comes back on a karyotype test as not matching their phenotype based on where the sample was taken on their body. In extremely rare cases this can result in two full sets of reproductive organs.
+- [Chimerism](https://en.wikipedia.org/wiki/Chimera_(genetics)) تحدث هذه الحالة عندما تندمج بويضتان مخصبتان لتشكلا زيجوتاً (لاقحة) واحداً، مما يؤدي إلى احتواء نصف جسم الطفل على مجموعة من الحمض النووي (DNA) واحتواء النصف الآخر على مجموعة مختلفة. وقد ينتج عن ذلك إنسان طبيعي تماماً من حيث المظهر الخارجي (سواء كان ذكراً أو أنثى) وقادر على الإنجاب، إلا أن نتائج فحص النمط النووي (karyotype) تظهر عدم تطابق مع المظهر الخارجي، وذلك يعتمد على موضع أخذ العينة من الجسم. وفي حالات نادرة للغاية، قد تؤدي هذه الظاهرة إلى تكوّن مجموعتين كاملتين من الأعضاء التناسلية.
 
-- [Congenital adrenal hyperplasia](https://en.wikipedia.org/wiki/Congenital_adrenal_hyperplasia) (CAH) is masculinization of the female genitals in an XX child due to overactive adrenal glands.
+- [فرط تنسج الكظرية الخلقي](https://ar.wikipedia.org/wiki/فرط_تنسج_الكظرية_الخلقي) يُقصد بـ (CAH) تذكير الأعضاء التناسلية الأنثوية لدى طفلة ذات نمط جيني (XX)، وذلك نتيجة لفرط نشاط الغدد الكظرية.
 
-- [Androgen insensitivity syndrome](https://en.wikipedia.org/wiki/Androgen_insensitivity_syndrome) (AIS) is a total or partial resistance to all androgens, preventing masculinization of all organs, save for the testicles, in an XY child. AIS subjects typically develop a female gender identity, but some partial cases may be male.
+- [متلازمة عدم الحساسية للأندروجين](https://ar.wikipedia.org/wiki/متلازمة_عدم_الحساسية_للأندروجين) متلازمة عدم حساسية الأندروجين (AIS) هي مقاومة كاملة أو جزئية لجميع الأندروجينات، مما يمنع تذكير جميع الأعضاء، باستثناء الخصيتين، لدى الطفل ذي النمط الكروموسومي XY. عادةً ما يتطور لدى المصابين بمتلازمة عدم حساسية الأندروجين هوية جنسية أنثوية، ولكن قد تكون بعض الحالات الجزئية ذكورية.
 
-- [5-alpha-reductase deficiency](https://en.wikipedia.org/wiki/5-alpha-reductase_deficiency) (5ARD) is a failure in the body's ability to metabolize testosterone into dihydrotestosterone (DHT), preventing masculinization of the genitalia until the onset of puberty, when the child suddenly grows a penis.
+- [5-alpha-reductase deficiency](https://ar.wikipedia.org/wiki/عوز_الإنزيم_المختزل_5-ألفا) يتمثل اضطراب (5ARD) في خلل في قدرة الجسم على تحويل هرمون التستوستيرون إلى ديهيدروتستوستيرون (DHT)، مما يحول دون ظهور السمات الذكرية على الأعضاء التناسلية حتى مرحلة البلوغ، حين ينمو القضيب لدى الطفل فجأة.
 
-- [Aromatase deficiency](https://en.wikipedia.org/wiki/Aromatase_deficiency) causes masculinization of an otherwise female child due to excess levels of testosterone (and can bleed over into the mother during gestation).
+- [نقص الأروماتاز](https://ar.wikipedia.org/wiki/نقص_الأروماتاز) يُسبِّب ظهور سمات ذكورية لدى طفلة (كانت ستنمو بشكل طبيعي كأنثى) نتيجةً لمستويات مفرطة من هرمون التستوستيرون (والذي يمكن أن ينتقل إلى الأم أثناء الحمل).
 
-- [Aromatase excess](https://en.wikipedia.org/wiki/Aromatase_excess_syndrome) causes feminisation in an otherwise male child, as all testosterone is converted into estrogen.
+- [متلازمة فرط الأروماتاز](https://ar.wikipedia.org/wiki/متلازمة_فرط_الأروماتاز) يسبب ظهور سمات أنثوية لدى طفل ذكر، حيث يتحول كامل هرمون التستوستيرون إلى إستروجين.
 
 {!{ <div class="span34 center print-span2">
   {{import '~/tweet' ids=[
@@ -98,8 +98,8 @@ tweets:
   ] tweets=meta.tweets className="" }}
 </div>}!}
 
-## But Most People Are Still XX or XY!!!
+## لكن معظم الناس لا يزالون XX أو XY!!!
 
-Biological sex in endosex (non-intersex) people is still more complicated than the simplistic XX/XY model suggests. Even if someone has typical 46,XX or 46,XY chromosomes, the body can change how it *uses* DNA without changing the DNA sequence itself. This process is called [epigenetics](https://www.cdc.gov/genomics-and-health/epigenetics/).
+لدى الأشخاص من غير ذوي الاختلافات الجنسية (أي غير ثنائيي الجنس أو "endosex") أكثر تعقيداً مما يوحي به النموذج المبسّط (XX/XY). فحتى لو كان لدى الشخص نمط كروموسومي نموذجي (46,XX أو 46,XY)، يمكن للجسم أن يغيّر طريقة *استخدامه* للحمض النووي دون تغيير تسلسل الحمض النووي نفسه؛ وتُعرف هذه العملية باسم [علم التخلق](https://www.cdc.gov/genomics-and-health/epigenetics/).
 
-Epigenetic changes vary between XX and XY chromosomes, but they also differ as people age in sex-specific ways. Long-term gender-affirming hormone therapy appears to make some of those [sex-and-age-specific changes](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-022-01236-4) more masculine on testosterone, or more feminine on estrogen. Therefore, the DNA of a cis man isn't used the same way as the DNA of a trans woman on estrogen, even if they both have XY chromosomes, and the DNA of a cis woman isn't used the same way as the DNA of a trans man on testosterone, even if they both have XX chromosomes.
+تختلف التغيرات اللاجينية (فوق الجينية) بين الكروموسومات XX وXY، كما أنها تتفاوت مع تقدم العمر بطرق تختلف باختلاف الجنس؛ ويبدو أن العلاج الهرموني طويل الأمد لتأكيد الجنس يُحدث بعضاً من تلك التغيرات [المرتبطة بالجنس والعمر](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-022-01236-4) تكون السمات أكثر ذكوريةً عند وجود التستوستيرون، وأكثر أنوثةً عند وجود الإستروجين. ولذلك، فإن الحمض النووي للرجل غير المتحول جنسياً (cis man) لا يُستخدم بالطريقة نفسها التي يُستخدم بها الحمض النووي للمرأة المتحولة جنسياً (trans woman) التي تتلقى الإستروجين، حتى وإن كان كلاهما يمتلك الصبغيات XY؛ وكذلك الحال بالنسبة للمرأة غير المتحولة جنسياً (cis woman) والرجل المتحول جنسياً (trans man) الذي يتلقى التستوستيرون، إذ لا يُستخدم الحمض النووي لديهما بالطريقة نفسها، حتى وإن كان كلاهما يمتلك الصبغيات XX.
