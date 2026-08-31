@@ -1,118 +1,118 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Hormones: How do they work"
-linkTitle: "How Hormones Work"
-description: "Keys, Locks, and Car Ignitions"
-lang: en
+title: "الهرمونات: كيف تعمل"
+linkTitle: "كيف تعمل الهرمونات"
+description: "المفاتيح والأقفال وأنظمة تشغيل السيارات"
+lang: ar
 preBody: '_disclaimer'
 siblings:
-  prev: /en/chromosomes
-  prevCaption: Chromosomes
-  next: /en/second-puberty-masc
-  nextCaption: Androgenic Second Puberty
+  prev: /ar/chromosomes
+  prevCaption: الكروموسومات
+  next: /ar/second-puberty-masc
+  nextCaption: البلوغ الثاني الأندروجيني 101
 classes:
   - gdb
 ---
 
-# How Hormones Work
+# كيف تعمل الهرمونات
 
-As we described in the [Causes of Gender Dysphoria](/en/causes) section, every human's DNA contains the genetic instructions for both male and female bodies, and which set of instructions gets used is controlled by what hormones your gonads produce. That differentiation occurs entirely based on whether you happen to have an SRY gene which, between the sixth and eighth weeks of gestation, kicks off a chain reaction that produces testes instead of ovaries. From that point on, every sexual attribute of the human body (primary and secondary) is a result of the hormones that those gonads produce.
+كما وصفنا في قسم[أسباب اضطراب الهوية الاجتماعية](/en/causes), يحتوي الحمض النووي لكل إنسان على التعليمات الوراثية اللازمة لتكوين أجسام الذكور والإناث على حد سواء، وتتحدد مجموعة التعليمات التي سيتم تفعيلها بناءً على نوع الهرمونات التي تفرزها الغدد التناسلية. وتعتمد عملية التمايز هذه كلياً على وجود جين يُعرف بـ "SRY"؛ إذ يعمل هذا الجين -في الفترة ما بين الأسبوعين السادس والثامن من الحمل- على إطلاق سلسلة من التفاعلات تؤدي إلى تكوّن الخصيتين بدلاً من المبيضين. ومن تلك اللحظة فصاعداً، تصبح كافة السمات الجنسية للجسم (سواء الأولية أو الثانوية) نتاجاً للهرمونات التي تفرزها تلك الغدد التناسلية.
 
-If they produce estrogens (primarily estradiol), the genitals form into a vulva, vagina, and uterus. If they produce androgens (primarily testosterone), the genitals form into a penis and scrotum, shifting the [Skene's gland](https://en.wikipedia.org/wiki/Skene%27s_gland) downward and enlarging it into a prostate. Differentiation ends here until the onset of puberty, nine to ten years later, and we all know what puberty does.
+إذا أنتجت هذه الأعضاء الإستروجينات (وفي مقدمتها الإستراديول)، فإن الأعضاء التناسلية تتشكل لتصبح فرجاً ومهبلاً ورحماً. أما إذا أنتجت الأندروجينات (وفي مقدمتها التستوستيرون)، فإن الأعضاء التناسلية تتشكل لتصبح قضيباً وكِيساً صَفَنِيّاً، مما يؤدي إلى إزاحة [غدة سكين](https://ar.wikipedia.org/wiki/غدة_سكين) إلى الأسفل، حيث يتضخم ليُشكّل غدة البروستاتا. وتتوقف عملية التمايز عند هذه المرحلة إلى حين حلول سن البلوغ -أي بعد تسع أو عشر سنوات- ونحن نعلم جميعاً ما يترتب على البلوغ من تغيرات.
 
-So how does this work? Why do the cells differentiate like this? Well, before we can explain that, first we have to explain the concept of a **receptor**.
+إذن، كيف تتم هذه العملية؟ ولماذا تتمايز الخلايا بهذه الطريقة؟ حسناً، قبل أن نتمكن من شرح ذلك، علينا أولاً توضيح مفهوم **المُستقبِل**.
 
-## Hormone Receptors
+## مستقبلات الهرمونات
 
-In simplest terms, a receptor is like the keyed lock ignition on a car (do new cars still have keyed ignitions?). Every cell in the body has a set of locks which activate different functions within that cell. They’re like switches which signal to the cell that it should activate a different part of its genetic sequence. Each receptor can only accept certain chemical compounds, much like how a lock can only accept certain keys, and different chemicals have different capabilities at turning the key. Some can completely start the car, while others only turn it to Accessory Mode.
+بأبسط العبارات، يشبه المُستقبِل (Receptor) قفل تشغيل السيارة الذي يعمل بالمفتاح (هل لا تزال السيارات الحديثة تحتوي على أقفال تشغيل بالمفتاح؟). تحتوي كل خلية في الجسم على مجموعة من "الأقفال" التي تُفعِّل وظائف مختلفة داخل الخلية؛ فهي بمثابة مفاتيح تشغيل تُرسل إشارة للخلية بضرورة تفعيل جزء مختلف من تسلسلها الجيني. ولا يقبل كل مُستقبِل سوى مركبات كيميائية محددة -تماماً كما لا يقبل القفل إلا مفاتيح معينة- وتختلف المواد الكيميائية في قدرتها على "تدوير المفتاح"؛ فبعضها قادر على تشغيل السيارة بالكامل، بينما يقتصر تأثير البعض الآخر على تحويلها إلى وضع التشغيل الجزئي (أو وضع الملحقات/Accessory Mode).
 
-The ability for a chemical to fit into a receptor is called **relational binding affinity**, and is measured as a percentage of how likely a chemical will bind to a receptor compared to another. So, for example, if hormone B binds only 10% of the time in relation to hormone A, then it is said to have a 10% binding affinity. Similarly, the ability for a chemical to turn the key is called *transactivational ability*. Compounds which fit into a receptor but don’t do anything are called *antagonists*; compounds which are able to turn the key are called **agonists**. If it can only turn the key a tiny bit, it’s called a **partial agonist**.
+تُعرف قدرة مادة كيميائية على الارتباط بمستقبل معين باسم **ألفة الارتباط النسبية** (relational binding affinity)، وتُقاس كنسبة مئوية تعبر عن احتمالية ارتباط تلك المادة بالمستقبل مقارنةً بمادة أخرى؛ فعلى سبيل المثال، إذا كان الهرمون "ب" يرتبط بالمستقبل بنسبة 10% فقط مقارنةً بالهرمون "أ"، فيُقال إن لديه ألفة ارتباط تبلغ 10%. وبالمثل، تُسمى قدرة المادة الكيميائية على "إدارة المفتاح" (أي تفعيل المستقبل) بـ *القدرة على التنشيط العابر* (transactivational ability). وتُعرف المركبات التي ترتبط بالمستقبل دون أن تُحدث أي تأثير بـ *المناهضات* (antagonists)، بينما تُعرف المركبات القادرة على "إدارة المفتاح" بـ **المُنشِّطات** (agonists). أما إذا كانت المادة قادرة على "إدارة المفتاح" جزئياً وبمقدار ضئيل، فتُسمى **مُنشِّطاً جزئياً** (partial agonist).
 
-You can think of antagonists like bouncers at a club. They stand in the doorway and prevent anything else from getting through, but don’t enter the club themselves. Most antagonists are referred to as **blockers**. This is different from an **inhibitor**, which is a compound that slows down a chemical reaction, or an *activator*, which speeds up a reaction. In receptors, an inhibitor lowers the ability of the receptor, causing it to respond less effectively to things that bind to the receptor, and an activator increases the ability of the receptor, making it respond stronger, like a booster.
+يمكنك تشبيه "مضادات المستقبلات" (antagonists) بحراس الأمن عند مدخل النادي؛ فهم يقفون عند الباب ويمنعون أي شيء آخر من الدخول، لكنهم لا يدخلون النادي بأنفسهم. ويُشار إلى معظم هذه المضادات بمصطلح **"الحاصرات"** (blockers). ويختلف هذا المفهوم عن **"المُثبِّط"** (inhibitor) -وهو مركب يُبطئ التفاعل الكيميائي- أو **"المُنشِّط"** (activator) -الذي يُسرِّع التفاعل. ففي سياق عمل المستقبلات، يُقلل المُثبِّط من كفاءة المستقبل، مما يجعله يستجيب بفعالية أقل للمواد التي ترتبط به، بينما يزيد المُنشِّط من كفاءة المستقبل، مما يعزز قوة استجابته، تماماً كالمُعزِّز (booster).
 
-In some cases, a hormone can function as an inhibitor or an activator for a different hormone by slowing down or increasing behavior in a cell. For example, progesterone increases cell activity, making cells respond more effectively to estrogens and androgens, and testosterone increases the transactivational ability of dopamine receptors, so less dopamine is needed in the brain for the same effect.
+وفي بعض الحالات، قد يعمل هرمون ما كمُثبِّط أو مُنشِّط لهرمون آخر من خلال إبطاء أو تعزيز نشاط الخلية. فعلى سبيل المثال، يزيد هرمون البروجسترون من نشاط الخلية، مما يجعلها تستجيب بفعالية أكبر لهرمونات الإستروجين والأندروجين؛ كما يزيد هرمون التستوستيرون من القدرة على التنشيط الانتقالي (transactivational ability) لمستقبلات الدوبامين، مما يعني الحاجة إلى كمية أقل من الدوبامين في الدماغ للحصول على التأثير نفسه.
 
-## What's in a Hormone
+## ماذا يكمن في الهرمون؟
 
-There are four main kinds of hormones:
+هناك أربعة أنواع رئيسية من الهرمونات:
 
-- [Amino acids](https://en.wikipedia.org/wiki/Amino_acid) such as melatonin (which controls sleep) or thyroxine (which regulates metabolism).
-- [Peptides](https://en.wikipedia.org/wiki/Peptide_hormone) like oxytocin and insulin, which are collections of amino acids.
-- [Eicosanoids](https://en.wikipedia.org/wiki/Eicosanoid) that are formed from lipids and fatty acids and predominantly affect the immune system.
-- [Steroids](https://en.wikipedia.org/wiki/Steroid), which signaling molecules produced by various internal organs in order to pass messages to other organs within the body.
+- [الأحماض الأمينية](https://ar.wikipedia.org/wiki/حمض_أميني) مثل الميلاتونين (الذي يتحكم في النوم) أو الثيروكسين (الذي ينظم عملية التمثيل الغذائي).
+- [الببتيدات](https://ar.wikipedia.org/wiki/هرمون_ببتيدي) مثل الأوكسيتوسين والأنسولين، وهما عبارة عن مجموعات من الأحماض الأمينية.
+- [إيكوزانويد](https://ar.wikipedia.org/wiki/إيكوزانويد) التي تتكون من الدهون والأحماض الدهنية وتؤثر بشكل أساسي على الجهاز المناعي.
+- [الستيرويدات](https://ar.wikipedia.org/wiki/ستيرويد), وهي جزيئات إشارة تنتجها أعضاء داخلية مختلفة لنقل الرسائل إلى أعضاء أخرى داخل الجسم.
 
 {!{ <div class="gutter print-span3">{{import '~/img' images.steroidogenesis
   className="card"
-  link="https://en.wikipedia.org/wiki/File:Steroidogenesis.svg"
+  link="https://ar.wikipedia.org/wiki/%D8%B3%D8%AA%D9%8A%D8%B1%D9%88%D9%8A%D8%AF#/media/%D9%85%D9%84%D9%81:Steroidogenesis-ar.svg"
   external=1
-  alt="Chart of steroid metabolism flow"
-  caption="All steroids are formed from cholesterols (top left) and are derived from other steroids. Progestogens form into androgens which form into estrogens. This is a one-way exchange, and does not reverse, so don't believe it when someone tells you that too much estrogen will turn it into testosterone."
+  alt="مخطط مسار استقلاب الستيرويدات"
+  caption="تتكون جميع الستيرويدات من الكوليسترول (في أعلى اليسار) وتُشتق من ستيرويدات أخرى؛ إذ تتحول البروجستوجينات إلى أندروجينات، والتي تتحول بدورها إلى إستروجينات. وتُعد هذه العملية تحولاً في اتجاه واحد لا يمكن عكسه، لذا لا تصدّق من يخبرك بأن فرط الإستروجين سيؤدي إلى تحوله إلى تستوستيرون."
 }}</div> }!}
 
-For the purposes of transition, this last category is what we care about the most, as all of the sex hormones are steroids. They fall into seven main categories:
+لأغراض التحول، تُعد هذه الفئة الأخيرة هي الأكثر أهمية بالنسبة لنا، إذ إن جميع الهرمونات الجنسية هي هرمونات ستيرويدية. وهي تندرج تحت سبع فئات رئيسية:
 
-- [Androgens](https://en.wikipedia.org/wiki/Androgen)
-- [Estrogens](https://en.wikipedia.org/wiki/Estrogen)
-- [Progestogens](https://en.wikipedia.org/wiki/Progestogen)
-- [Glucocorticoids](https://en.wikipedia.org/wiki/Glucocorticoid)
-- [Mineralocorticoids](https://en.wikipedia.org/wiki/Mineralocorticoid)
-- [Neurosteroids](https://en.wikipedia.org/wiki/Neurosteroid)
-- [Aminosteroids](https://en.wikipedia.org/wiki/Aminosteroid)
+- [الأندروجينات](https://ar.wikipedia.org/wiki/أندروجين)
+- [الإستروجينات](https://ar.wikipedia.org/wiki/إستروجين)
+- [البروجستوجينات](https://en.wikipedia.org/wiki/Progestogen)
+- [الجلوكوكورتيكويدات](https://ar.wikipedia.org/wiki/هرمون_قشري_سكري)
+- [القشرانيات المعدنية](https://ar.wikipedia.org/wiki/قشري_معدني)
+- [الستيرويدات العصبية](https://en.wikipedia.org/wiki/ستيرويدات_عصبية)
+- [أمينوستيرويدات](https://ar.wikipedia.org/wiki/أمينوستيرويد)
 
-The first three of these are what we care about most when it comes to hormone therapy. Note: All human beings, regardless of phenotype, have some of every one of these hormones in their bodies. The ratios are what affect body shape.
+تُعد العناصر الثلاثة الأولى من بين هذه الهرمونات هي الأكثر أهمية فيما يتعلق بالعلاج الهرموني. ملاحظة: يحتوي جسم كل إنسان - بغض النظر عن المظهر الخارجي - على كميات من كل نوع من هذه الهرمونات؛ وتُعد النسب هي العامل المؤثر في شكل الجسم.
 
-### Androgens
+### الأندروجينات
 
-There are nearly a dozen different androgens, but the ones we care about the most are [testosterone](https://en.wikipedia.org/wiki/Testosterone) and [dihydrotestosterone](https://en.wikipedia.org/wiki/Dihydrotestosterone).
+هناك ما يقرب من اثني عشر نوعاً مختلفاً من الأندروجينات، ولكن أكثرها أهمية بالنسبة لنا هو [التستوستيرون](https://ar.wikipedia.org/wiki/التستوستيرون) and [ثنائي هيدروتستوستيرون](https://ar.wikipedia.org/wiki/ثنائي_هيدرو_التستوستيرون).
 
-Testosterone is the primary masculinizing hormone for the human body and is produced in the adrenal glands, the testes, and in the ovaries (where it is immediately converted into estrone and estradiol). It tells both muscle and bone cells to grow and, in higher concentrations, encourages larger muscle mass and thicker skeletal structure. This also means that testosterone is critical for bone health, as it affects calcium distribution within the skeletal structure. Thus, severe depletion of testosterone can result in osteoporosis and fragile bones. Testosterone also plays a major role in sex drive and libido, encouraging mating behavior within the cerebral cortex.
+يُعد التستوستيرون الهرمون الذكوري الرئيسي في جسم الإنسان، ويُنتج في الغدد الكظرية والخصيتين والمبيضين (حيث يتحول فوراً إلى إسترون وإستراديول). وهو يحفز نمو خلايا العضلات والعظام، كما أن مستوياته المرتفعة تعزز زيادة الكتلة العضلية وكثافة الهيكل العظمي. ويعني هذا أيضاً أن التستوستيرون عنصر حيوي لصحة العظام، إذ يؤثر على توزيع الكالسيوم داخل الهيكل العظمي؛ وبالتالي، فإن النقص الحاد في مستوياته قد يؤدي إلى الإصابة بهشاشة العظام وضعفها. كذلك، يلعب التستوستيرون دوراً رئيسياً في الرغبة الجنسية، حيث يحفز السلوك الجنسي عبر تأثيره على القشرة المخية.
 
-Dihydrotestosterone (DHT), which is converted from testosterone in the prostate, skin, and liver, plays a major role in the development of the male genitalia during puberty by inducing random erections, and the growth of facial and body hair. Paradoxically, DHT is also what causes male pattern baldness, as it chokes off blood circulation to the follicles on the top of the scalp (sorry, trans guys, it's a double-edged sword). DHT binds to androgen receptors ten times more strongly than testosterone, which is why it is critical to eliminate it for feminizing transition.
+أما ثنائي هيدرو تستوستيرون (DHT) -الذي ينتج عن تحول التستوستيرون في غدة البروستاتا والجلد والكبد- فيلعب دوراً محورياً في تطور الأعضاء التناسلية الذكرية خلال مرحلة البلوغ، إذ يحفز حدوث انتصاب عفوي ونمو شعر الوجه والجسم. ومن المفارقات أن هرمون (DHT) هو المسؤول أيضاً عن الصلع الذكوري النمطي، حيث يعيق تدفق الدم إلى بصيلات الشعر في أعلى فروة الرأس (نعتذر للرجال المتحولين جنسياً، فهو سلاح ذو حدين). ويرتبط (DHT) بمستقبلات الأندروجين بقوة تفوق ارتباط التستوستيرون بها بعشرة أضعاف، ولهذا السبب يُعد التخلص منه أمراً بالغ الأهمية في عمليات التحول الجنسي الأنثوي.
 
-### Estrogens
+### الإستروجينات
 
-There are four estrogens: [estradiol](https://en.wikipedia.org/wiki/Estradiol), [estrone](https://en.wikipedia.org/wiki/Estrone), estriol and estetrol. The latter two are only produced during pregnancy and are important for fetal health, but have no bearing on transition.
+هناك أربعة أنواع من الإستروجين: [إستراديول](https://ar.wikipedia.org/wiki/إستراديول), [إسترون](https://ar.wikipedia.org/wiki/إسترون), الستريول والإستيترول. ويُنتج هذان النوعان الأخيران أثناء الحمل فقط، وهما مهمان لصحة الجنين، لكن ليس لهما أي دور في عملية التحول.
 
-Estradiol is the feminizing hormone, as it is the primary signaling hormone for growth in the mammary glands (breast tissue), and because it encourages fat deposits in the thighs, hips, butt, chest, and arms, while discouraging fat deposits in the abdomen, thus producing a curvier figure. Estradiol also promotes increased collagen production, resulting in softer skin and more flexible tendons & ligaments.
+يُعد الإستراديول الهرمون المسؤول عن إضفاء السمات الأنثوية؛ فهو الهرمون الرئيسي المحفز لنمو الغدد الثديية (أنسجة الثدي)، كما أنه يعزز تراكم الدهون في مناطق الفخذين والوركين والأرداف والصدر والذراعين، بينما يحد من تراكمها في منطقة البطن، مما يمنح الجسم قواماً أكثر انحناءً وأنوثة. وعلاوة على ذلك، يحفز الإستراديول زيادة إنتاج الكولاجين، مما يؤدي إلى نعومة البشرة وزيادة مرونة الأوتار والأربطة.
 
-Estrone's role in the body has been something of a puzzle in medical research, as it has significantly lower binding affinity compared to estradiol (0.6%) and very low transactivational ability (4%). The hormone doesn't appear to *do* anything; it just sits in the bloodstream. However, it has a unique ability to convert to and from estradiol via an enzyme group called [17β-HSD](https://en.wikipedia.org/wiki/17%CE%B2-Hydroxysteroid_dehydrogenase), making it ideally suited to function like an estrogen battery within the body.
+أما دور الإسترون في الجسم فقد ظل لغزاً في الأبحاث الطبية؛ نظراً لانخفاض ألفة ارتباطه بشكل ملحوظ مقارنة بالإستراديول (حيث تبلغ 0.6% فقط)، فضلاً عن ضعف قدرته الشديدة على التنشيط النسخي (التي تبلغ 4% فقط). يبدو أن للهرمون أي وظيفة نشطة؛ إذ يظل ببساطة موجوداً في مجرى الدم. ومع ذلك، فهو يتمتع بقدرة فريدة على التحوّل إلى "إستراديول" والعودة منه إلى حالته الأصلية، وذلك بواسطة مجموعة من الإنزيمات تُعرف باسم [17β-HSD](https://en.wikipedia.org/wiki/17%CE%B2-Hydroxysteroid_dehydrogenase), مما يجعله ملائماً تماماً للعمل بمثابة "بطارية للإستروجين" داخل الجسم.
 
-New research is starting to suggest that the body may regulate total estradiol levels by releasing HSD17B1 to turn estradiol into estrone, and releasing HSD17B2 to convert it back, but this is a very early study. Both enzymes are produced in breast tissue, and may play a role in the presence of cyclical period-like symptoms in estrogenic individuals who do not have ovaries, such as trans women.
+تشير أبحاث جديدة إلى أن الجسم قد ينظم المستويات الإجمالية للإستراديول عن طريق إفراز إنزيم HSD17B1 لتحويل الإستراديول إلى إسترون، وإفراز إنزيم HSD17B2 لتحويله مرة أخرى، إلا أن هذه الدراسة لا تزال في مراحلها الأولية. ويُنتج كلا الإنزيمين في أنسجة الثدي، وقد يلعبان دوراً في ظهور أعراض دورية تشبه أعراض الحيض لدى الأشخاص الذين يتلقون العلاج بالإستروجين ولا يملكون مبيضين، مثل النساء المتحولات جنسياً.
 
-{!{ <div class="gutter"><div class="card"><div class="card-body"><h4 class="card-title">For Your Information</h4> }!}
+{!{ <div class="gutter"><div class="card"><div class="card-body"><h4 class="card-title">للعلم</h4> }!}
 
-**Why aren't AFAB trans people prescribed estrogen blockers alongside testosterone?**
+**لماذا لا يتم وصف مثبطات هرمون الاستروجين للأشخاص المتحولين جنسياً الذين تم تحديد جنسهم عند الولادة كإناث إلى جانب هرمون التستوستيرون؟**
 
-There are two separate sources for estrogens within the female reproductive system. Ovaries contain thousands of follicles: cell structures which produce eggs. The pituitary gland produces luteinizing hormone (LH) and follicle-stimulating hormone (FSH), which encourages the follicles to grow into luteal cells. Theca cells within the follicle produce testosterone, and granulosa cells produce the enzyme [aromatase](https://en.wikipedia.org/wiki/Aromatase), which converts that testosterone into estradiol. This is the first source of estrogen, but it is not the largest source.
+هناك مصدران منفصلان للإستروجين داخل الجهاز التناسلي الأنثوي. تحتوي المبايض على آلاف الجريبات، وهي عبارة عن تراكيب خلوية تنتج البويضات. وتنتج الغدة النخامية الهرمون الملوتن (LH) والهرمون المنشط للحوصلة (FSH)، مما يحفز الجريبات على النمو والتحول إلى خلايا لوتينية؛ حيث تنتج خلايا "الثيكا" (theca cells) الموجودة داخل الجريب هرمون التستوستيرون، بينما تنتج الخلايا الحبيبية (granulosa cells) إنزيم [aromatase/الأروماتاز](https://ar.wikipedia.org/wiki/أروماتاز), الذي يحوّل ذلك التستوستيرون إلى إستراديول. يُعد هذا المصدر الأول للإستروجين، ولكنه ليس المصدر الأكبر.
 
-Note: This is why PCOS causes ovaries to produce testosterone; the ovarian cysts disrupt the aromatase production, so the testosterone does not get converted.
+ملاحظة: هذا هو سبب إنتاج المبايض لهرمون التستوستيرون في حالة متلازمة تكيس المبايض؛ إذ تُعطّل أكياس المبيض إنتاج إنزيم الأروماتاز، فلا يتم تحويل التستوستيرون.
 
-Two weeks into the period cycle the hypothalamus tells the pituitary gland to produce an LH and FSH spike three to four times stronger than earlier in the cycle. That surge causes the follicles to swell until one pops, releasing an egg, at which point the remains of the follicle become a structure known as the corpus luteum. That corpus luteum then begins to produce progesterone and significantly more estrogens in order to prepare the womb for a fertilized egg. This is the second source.
+بعد أسبوعين من بدء الدورة الشهرية، يُرسل الوطاء إشارةً إلى الغدة النخامية لإنتاج ارتفاعٍ حادٍّ في هرموني LH وFSH، يفوق بثلاث إلى أربع مرات ما كان عليه في بداية الدورة. يؤدي هذا الارتفاع إلى انتفاخ الحويصلات حتى تنفجر إحداها، مُطلقةً بويضةً، وعندها تتحوّل بقايا الحويصلة إلى بنيةٍ تُعرف بالجسم الأصفر. يبدأ هذا الجسم الأصفر بعد ذلك بإنتاج البروجسترون وكمياتٍ أكبر بكثير من الإستروجينات لتحضير الرحم للبويضة المُخصبة. هذا هو المصدر الثاني.
 
-Taking testosterone causes the hypothalamus to deactivate the genes that initiate this LH and FSH spike, so the follicles never reach maturity, ovulation never occurs, and the corpus luteum is never formed, removing a significant source of estrogen within the ovaries.
+يؤدي تناول التستوستيرون إلى تعطيل الوطاء للجينات المسؤولة عن بدء هذا الارتفاع الحاد في هرموني LH وFSH، فلا تصل الحويصلات إلى مرحلة النضج، ولا تحدث الإباضة، ولا يتكوّن الجسم الأصفر، مما يُزيل مصدرًا هامًا للإستروجين من المبايض.
 
-*So no, Reddit, it isn't just "because testosterone is stronger", it's because ovaries are a hell of a lot more complex than testes and are easier to disrupt. Please stop spreading this falsehood.*
+*إذن لا يا, Reddit, الأمر لا يعود ببساطة إلى أن "التستوستيرون أقوى"؛ بل لأن المبيضين أكثر تعقيداً بكثير من الخصيتين، كما أن وظائفهما أكثر عرضة للاضطراب. رجاءً، توقفوا عن ترويج هذه المعلومة المغلوطة.*
 
 {!{ </div></div></div> }!}
 
-### Progestogens
+### البروجستوجينات
 
-The primary progestogen is [progesterone](https://en.wikipedia.org/wiki/Progesterone), which plays numerous roles in the body and has been found to be [an important component for feminizing hormone therapy](https://academic.oup.com/jcem/article/104/4/1181/5270376).
+البروجستوجين الرئيسي هو [البروجسترون](https://ar.wikipedia.org/wiki/بروجستيرون), الذي يؤدي أدواراً عديدة في الجسم، ووُجد أنه [مكوّن مهم للعلاج الهرموني المُؤنِّث](https://academic.oup.com/jcem/article/104/4/1181/5270376).
 
-One of the largest roles that the progestogen receptor plays is in the regulation of gonadal function (ovaries and testes). The hypothalamus is positively *littered* with progestogen receptors and responds strongly to their activation, downregulating the production of [GnRH](https://en.wikipedia.org/wiki/Gonadotropin-releasing_hormone), which then reduces the production of [luteinizing hormone](https://en.wikipedia.org/wiki/Luteinizing_hormone) by the pituitary gland.
+يتمثل أحد الأدوار الرئيسية لمستقبلات البروجستوجين في تنظيم وظائف الغدد التناسلية (المبيضين والخصيتين)؛ إذ يزخر الوطاء (تحت المهاد) بمستقبلات البروجستوجين ويستجيب بقوة لتنشيطها، مما يؤدي إلى خفض إنتاج [GnRH/الهرمون المطلق لموجهة الغدد التناسلية](https://ar.wikipedia.org/wiki/هرمون_مطلق_لموجهة_الغدد_التناسلية), مما يقلل بعد ذلك من إنتاج [الهرمون الملوتن](https://ar.wikipedia.org/wiki/هرمون_منشط_للجسم_الأصفر) من قِبَل الغدة النخامية.
 
-LH is what tells the ovaries and testes to produce estrogen and androgens. LH and its sibling hormone [FSH](https://en.wikipedia.org/wiki/Follicle-stimulating_hormone) both play central roles in ovulation, which is another large source of estrogen in ovary-havers. Thus, synthetic progestogens (chemicals that fit into progestogen receptors) are often included in birth control in order to prevent ovulation. In AMABs, progestogens are a useful tool for blocking testosterone production.
+الهرمون الملوتن (LH) هو المسؤول عن تحفيز المبيضين والخصيتين لإنتاج الإستروجين والأندروجينات. الهرمون الملوتن (LH) والهرمون الشقيق له [FSH](https://ar.wikipedia.org/wiki/هرمون_منشط_للحوصلة) يلعب كلاهما دوراً محورياً في عملية الإباضة، التي تُعد مصدراً رئيسياً آخر لهرمون الإستروجين لدى الأشخاص الذين يمتلكون مبيضين. ولذلك، غالباً ما تُستخدم مركبات البروجستوجين الاصطناعية (وهي مواد كيميائية ترتبط بمستقبلات البروجستوجين) في وسائل منع الحمل بهدف تثبيط الإباضة. أما بالنسبة للأشخاص الذين وُلدوا بخصائص ذكرية (AMABs)، فتُعد مركبات البروجستوجين وسيلة فعالة لكبح إنتاج هرمون التستوستيرون.
 
-Another type of cell that is full of progestogen receptors is mammary tissue. Progesterone plays a major role in the growth and maturation of milk ducts within breast tissue. While little formal research has been conducted into progesterone's effect on breast development, anecdotally it has been seen widely across the transfem community to provide significant improvements in breast fullness. Progesterone has also been demonstrated to increase blood flow to breast tissue, and encourages fat deposits in the breasts, both of which increase breast size.
+تُعد أنسجة الثدي نوعاً آخر من الخلايا الغنية بمستقبلات البروجستوجين؛ إذ يلعب البروجسترون دوراً رئيسياً في نمو ونضج القنوات اللبنية داخل أنسجة الثدي. ورغم قلة الدراسات الرسمية التي تناولت تأثير البروجسترون على نمو الثدي، إلا أن هناك ملاحظات واسعة النطاق بين أفراد مجتمع العابرات جنسياً (transfem community) تشير إلى أنه يُحدث تحسناً ملحوظاً في امتلاء الثدي. كما ثبت أن البروجسترون يزيد من تدفق الدم إلى أنسجة الثدي ويحفز تراكم الدهون فيه، وكلا الأمرين يساهمان في زيادة حجم الثدي.
 
-Additionally, progesterone promotes better sleep, improves cardiovascular health, increases ketogenesis (reducing triglycerides), increases metabolic function, and has been found to reduce breast cancer risk.
+بالإضافة إلى ذلك، يعزز البروجسترون جودة النوم، ويحسن صحة القلب والأوعية الدموية، ويزيد من عملية تكوين الكيتونات (مما يقلل من مستويات الدهون الثلاثية)، ويعزز الوظائف الأيضية، كما وُجد أنه يقلل من خطر الإصابة بسرطان الثدي.
 
-### Mineralocorticoids
+### القشرانيات المعدنية
 
-Mineralocorticoids play no role in transition, but they are worth mentioning because of one major hormone: [aldosterone](https://en.wikipedia.org/wiki/Aldosterone).
+لا تؤدي القشرانيات المعدنية أي دور في عملية الانتقال، ولكنها تستحق الذكر نظراً لوجود هرمون رئيسي واحد: [الألدوسترون](https://ar.wikipedia.org/wiki/ألدوستيرون).
 
-Aldosterone is what instructs the kidneys to *stop* extracting water from the bloodstream. It is produced by the adrenal glands in order to regulate body hydration. Why is this significant?
+الألدوسترون هو الهرمون الذي يوجه الكلى لـ "التوقف" عن سحب الماء من مجرى الدم، وتنتجه الغدد الكظرية لتنظيم مستوى السوائل في الجسم. ولماذا يُعد هذا الأمر مهماً؟
 
-Because one drug that is very commonly used in trans hormone therapy is an extremely powerful aldosterone antagonist: spironolactone. Spiro binds to mineralocorticoid receptors more strongly than aldosterone does, but does not activate the receptor. It just clogs it, preventing the kidneys from receiving the signal to stop extracting water.
+لأن أحد الأدوية الشائعة جداً في العلاج الهرموني للمتحولين جنسياً هو "سبيرونولاكتون" (Spironolactone)، وهو دواء قوي للغاية يعمل كمضاد لعمل الألدوسترون؛ إذ يرتبط هذا الدواء بمستقبلات القشرانيات المعدنية (mineralocorticoid receptors) بقوة تفوق ارتباط الألدوسترون بها، لكنه لا يُفعّل تلك المستقبلات، بل يكتفي بسدّها، مما يمنع الكلى من تلقي الإشارة التي تأمرها بالتوقف عن سحب الماء.
 
-This is why spiro makes people pee so much.
+ولهذا السبب تحديداً، يتسبب دواء "سبيرونولاكتون" في زيادة معدل التبول بشكل كبير.
